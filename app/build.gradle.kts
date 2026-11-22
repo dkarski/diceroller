@@ -21,8 +21,8 @@ android {
         applicationId = "dev.dkarski.diceroller"
         minSdk = 31 // Mudita Kompakt: MuditaOS K, AOSP 12 (API 31)
         targetSdk = 35
-        versionCode = 1
-        versionName = "0.1.0"
+        versionCode = 2
+        versionName = "1.0.0"
         resourceConfigurations += listOf(
             "en", "it", "pl", "cs", "pt", "es", "de", "fr", "nl",
             "in", "ms", "ca", "da", "et", "b+fil", "tl", "gl", "hr", "is", "sw", "lv", "lt", "hu", "nb", "ro", "rm",

@@ -35,13 +35,13 @@ import dev.dkarski.diceroller.R
 import dev.dkarski.diceroller.ui.components.DottedDivider
 import dev.dkarski.diceroller.ui.theme.AppTheme
 
-/** Common settings. App-specific controls precede the App section; actions stay below the scroll area. */
+/** Flat settings list: Vibration, app-specific rows, Language, About; actions stay below the scroll area. */
 @Composable
 fun SettingsScreen(
     vibration: Boolean,
     onVibrationChange: (Boolean) -> Unit,
     languageName: String,
-    onLanguage: () -> Unit,
+    onLanguage: (() -> Unit)?,
     onAbout: () -> Unit,
     onTipJar: (() -> Unit)?,
     contentPadding: PaddingValues = PaddingValues(),
@@ -58,14 +58,13 @@ fun SettingsScreen(
                 .pointerInput(Unit) { detectTapGestures { focusManager.clearFocus() } }
                 .padding(horizontal = 16.dp, vertical = 16.dp),
         ) {
-            appSettings?.let { content ->
-                content()
-                Spacer(Modifier.height(32.dp))
-            }
-            SettingsSection(stringResource(R.string.settings_section_app))
-            DottedDivider()
+            // One flat list: DiceRoller has no table/app split, so no section headers.
             SettingsSwitchRow(stringResource(R.string.settings_vibration), checked = vibration, onCheckedChange = onVibrationChange)
             DottedDivider()
+            appSettings?.let { content ->
+                content()
+                DottedDivider()
+            }
             SettingsRow(stringResource(R.string.settings_language), onClick = onLanguage, value = languageName)
             DottedDivider()
             SettingsRow(stringResource(R.string.settings_about), onClick = onAbout)
@@ -111,14 +110,17 @@ fun SettingsSection(text: String) {
 @Composable
 fun SettingsRow(
     label: String,
-    onClick: () -> Unit,
+    onClick: (() -> Unit)?,
     @DrawableRes chevron: Int = R.drawable.ic_chevron_right,
     value: String? = null,
 ) {
     Row(
         modifier = Modifier
             .fillMaxWidth()
-            .clickable(onClick = onClick, role = Role.Button, interactionSource = null, indication = null)
+            .then(
+                if (onClick == null) Modifier
+                else Modifier.clickable(onClick = onClick, role = Role.Button, interactionSource = null, indication = null),
+            )
             .padding(vertical = 16.dp),
         verticalAlignment = Alignment.CenterVertically,
     ) {
@@ -133,7 +135,8 @@ fun SettingsRow(
                 modifier = Modifier.padding(start = 12.dp, end = 4.dp).widthIn(max = 170.dp),
             )
         }
-        Icon(painterResource(chevron), contentDescription = null, tint = MaterialTheme.colorScheme.onSurface)
+        // A row without an action shows only its value (e.g. Language: English), no chevron.
+        if (onClick != null) Icon(painterResource(chevron), contentDescription = null, tint = MaterialTheme.colorScheme.onSurface)
     }
 }
 

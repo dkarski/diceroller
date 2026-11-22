@@ -10,7 +10,9 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableIntStateOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.saveable.rememberSaveable
@@ -21,29 +23,51 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import dev.dkarski.diceroller.AppConfig
 import dev.dkarski.diceroller.R
-import dev.dkarski.diceroller.data.AppLanguages
+import dev.dkarski.diceroller.ui.components.DottedDivider
 import dev.dkarski.diceroller.ui.components.SecondaryLayout
 
-enum class Screen { Home, CustomDie, Settings, Language, About, TipJar }
+/** Keep screen on releases the display after this long without a roll or other action. */
+private const val KEEP_AWAKE_MILLIS = 10 * 60 * 1000L
+
+enum class Screen { Home, CustomDie, Settings, About, TipJar }
 
 private fun Screen.parent(): Screen? = when (this) {
     Screen.Home -> null
     Screen.CustomDie, Screen.Settings -> Screen.Home
-    Screen.Language, Screen.About, Screen.TipJar -> Screen.Settings
+    Screen.About, Screen.TipJar -> Screen.Settings
 }
 
 /** Navigation and shared preferences. Add domain state/screens here when starting an app. */
 @Composable
 fun App(
-    languageTag: String?,
-    onLanguageChange: (String?) -> Unit,
+    keepScreenOn: Boolean,
+    onKeepScreenOnChange: (Boolean) -> Unit,
+    darkTheme: Boolean,
+    onDarkThemeChange: (Boolean) -> Unit,
     vibration: Boolean,
     onVibrationChange: (Boolean) -> Unit,
+    coinAsNumbers: Boolean,
+    onCoinAsNumbersChange: (Boolean) -> Unit,
 ) {
     val context = LocalContext.current
     val view = LocalView.current
     var session by rememberSaveable(stateSaver = RollSessionSaver) { mutableStateOf(RollSession()) }
-    fun feedback() { if (vibration) view.vibrate(Haptic.Tap) }
+    // Every accepted action counts as activity for Keep screen on.
+    var activity by remember { mutableIntStateOf(0) }
+    fun feedback() {
+        activity++
+        if (vibration) view.vibrate(Haptic.Tap)
+    }
+    // Keep screen on: only while DiceRoller is in front (a window flag, no permission), and released after
+    // KEEP_AWAKE_MILLIS without activity so a forgotten open app cannot drain the battery.
+    LaunchedEffect(keepScreenOn, activity) {
+        view.keepScreenOn = keepScreenOn
+        if (keepScreenOn) {
+            delay(KEEP_AWAKE_MILLIS)
+            view.keepScreenOn = false
+        }
+    }
+    DisposableEffect(view) { onDispose { view.keepScreenOn = false } }
     // This effect belongs to the app, not Home: time spent in Settings does not restart the timeout.
     LaunchedEffect(session.latest) {
         val expected = session.latest ?: return@LaunchedEffect
@@ -74,7 +98,7 @@ fun App(
             when (screen) {
                 Screen.Home -> DiceScreen(
                     session = session,
-                    coinAsNumbers = false,
+                    coinAsNumbers = coinAsNumbers,
                     onRoll = { kind -> session = session.roll(kind, SystemClock.elapsedRealtime()); feedback() },
                     onCombiningChange = { enabled -> session = session.setCombining(enabled); feedback() },
                     onEditCustom = {
@@ -97,17 +121,33 @@ fun App(
                     SettingsScreen(
                         vibration = vibration,
                         onVibrationChange = onVibrationChange,
-                        languageName = AppLanguages.find(languageTag)?.nativeName ?: stringResource(R.string.language_system_default),
-                        onLanguage = { screen = Screen.Language },
+                        // 1.0 is English-only: the row shows the language without opening a picker.
+                        languageName = stringResource(R.string.language_english),
+                        onLanguage = null,
                         onAbout = { contactCopied = false; screen = Screen.About },
                         onTipJar = if (supportEnabled) { { screen = Screen.TipJar } } else null,
                         contentPadding = padding,
+                        appSettings = {
+                            SettingsSwitchRow(
+                                label = stringResource(R.string.keep_screen_on),
+                                checked = keepScreenOn,
+                                onCheckedChange = { onKeepScreenOnChange(it); feedback() },
+                            )
+                            DottedDivider()
+                            SettingsSwitchRow(
+                                label = stringResource(R.string.dark_theme),
+                                checked = darkTheme,
+                                onCheckedChange = { onDarkThemeChange(it); feedback() },
+                            )
+                            DottedDivider()
+                            SettingsSwitchRow(
+                                label = stringResource(R.string.coin_as_numbers),
+                                checked = coinAsNumbers,
+                                onCheckedChange = { onCoinAsNumbersChange(it); feedback() },
+                            )
+                        },
                     )
                 }
-                Screen.Language -> LanguageScreen(languageTag, onSelect = { tag ->
-                    screen = Screen.Settings
-                    onLanguageChange(tag)
-                }, onBack = back)
                 Screen.About -> SecondaryLayout(stringResource(R.string.about_title), back) { padding ->
                     AboutScreen(
                         about = about,

@@ -34,6 +34,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.mudita.mmd.components.text.TextMMD
+import dev.dkarski.diceroller.AppConfig
 import dev.dkarski.diceroller.R
 import dev.dkarski.diceroller.ui.theme.AppTheme
 import kotlin.math.floor
@@ -45,7 +46,7 @@ fun TipJarScreen(url: String, contentPadding: PaddingValues = PaddingValues()) {
         rows = withContext(Dispatchers.Default) { supportQrRows(url) }
     }
     Column(Modifier.fillMaxSize().padding(contentPadding).verticalScroll(rememberScrollState()).padding(16.dp)) {
-        TextMMD(stringResource(R.string.tip_jar_text, stringResource(R.string.app_name), URI(url).host), style = MaterialTheme.typography.bodyMedium)
+        TextMMD(stringResource(R.string.tip_jar_text, stringResource(R.string.app_name), AppConfig.SUPPORT_NAME.ifBlank { URI(url).host }), style = MaterialTheme.typography.bodyMedium)
         Spacer(Modifier.height(24.dp))
         Column(Modifier.fillMaxWidth(), horizontalAlignment = Alignment.CenterHorizontally) {
             QrCode(rows, Modifier.size(200.dp).semantics { contentDescription = url })
