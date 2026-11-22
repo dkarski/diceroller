@@ -36,4 +36,34 @@
     <string name="licenses_intro">%1$s dibuat dengan komponen sumber terbuka berikut:</string>
     <string name="license_text">Teks lisensi: %1$s</string>
     <string name="tip_jar_text">Suka %1$s? Pindai kode dengan ponsel lain untuk memberi tip di %2$s. Tip bersifat sukarela dan tidak membuka apa pun.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Jumlahkan lemparan</string>
+    <string name="roll_die">Lempar %1$s</string>
+    <string name="roll_custom">Lempar D%1$d kustom</string>
+    <string name="edit_custom">Ubah rentang kustom, sekarang D%1$d</string>
+    <string name="custom_label">Kustom</string>
+    <string name="coin_label">Koin</string>
+    <string name="flip_coin">Lempar koin</string>
+    <string name="roll_label">Lempar</string>
+    <string name="coin_heads">Gambar</string>
+    <string name="coin_tails">Angka</string>
+    <string name="reroll_set">Ulangi</string>
+    <string name="combine_done">Selesai</string>
+    <string name="coin_as_numbers">Koin sebagai angka</string>
+    <string name="keep_screen_on">Layar selalu menyala</string>
+    <string name="dark_theme">Tema gelap</string>
+    <string name="custom_dialog_title">Dadu kustom</string>
+    <string name="custom_sides_label">Sisi</string>
+    <string name="custom_invalid">Masukkan bilangan bulat dari 2 sampai 9999.</string>
+    <string name="custom_range_hint">Melempar dari 1 sampai angka ini.</string>
+    <string name="save_custom">Simpan</string>
+    <string name="total_description">Total: %1$d</string>
+    <string name="result_description">Hasil %1$s: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="other">%1$d dadu</item>
+    </plurals>
+    <string name="privacy_data_title">Data Anda</string>
+    <string name="privacy_data">Setelan hanya disimpan di ponsel ini dan dihapus saat Anda mencopot aplikasi. Tidak ada yang dikumpulkan, dikirim, atau dibagikan kepada pihak ketiga. Lemparan tidak disimpan.</string>
+    <string name="about_legal">Catatan hukum</string>
+    <string name="legal_notes">%1$s adalah aplikasi independen. Aplikasi ini tidak memuat merek dagang pihak ketiga.</string>
 </resources>

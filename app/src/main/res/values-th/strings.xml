@@ -36,4 +36,34 @@
     <string name="licenses_intro">%1$s สร้างขึ้นด้วยส่วนประกอบโอเพนซอร์สเหล่านี้:</string>
     <string name="license_text">ข้อความสัญญาอนุญาต: %1$s</string>
     <string name="tip_jar_text">ชอบ %1$s ไหม สแกนโค้ดด้วยโทรศัพท์อีกเครื่องเพื่อให้ทิปบน %2$s ทิปเป็นไปโดยสมัครใจและไม่ปลดล็อกสิ่งใด</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">รวมผลทอย</string>
+    <string name="roll_die">ทอย %1$s</string>
+    <string name="roll_custom">ทอย D%1$d ที่กำหนดเอง</string>
+    <string name="edit_custom">เปลี่ยนช่วงที่กำหนดเอง ตอนนี้ D%1$d</string>
+    <string name="custom_label">กำหนดเอง</string>
+    <string name="coin_label">เหรียญ</string>
+    <string name="flip_coin">โยนเหรียญ</string>
+    <string name="roll_label">ทอย</string>
+    <string name="coin_heads">หัว</string>
+    <string name="coin_tails">ก้อย</string>
+    <string name="reroll_set">ทอยใหม่</string>
+    <string name="combine_done">เสร็จ</string>
+    <string name="coin_as_numbers">เหรียญเป็นตัวเลข</string>
+    <string name="keep_screen_on">หน้าจอเปิดตลอด</string>
+    <string name="dark_theme">ธีมมืด</string>
+    <string name="custom_dialog_title">ลูกเต๋ากำหนดเอง</string>
+    <string name="custom_sides_label">จำนวนหน้า</string>
+    <string name="custom_invalid">ป้อนจำนวนเต็มตั้งแต่ 2 ถึง 9999</string>
+    <string name="custom_range_hint">ทอยได้ตั้งแต่ 1 ถึงตัวเลขนี้</string>
+    <string name="save_custom">บันทึก</string>
+    <string name="total_description">รวม: %1$d</string>
+    <string name="result_description">ผล %1$s: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="other">ลูกเต๋า %1$d ลูก</item>
+    </plurals>
+    <string name="privacy_data_title">ข้อมูลของคุณ</string>
+    <string name="privacy_data">การตั้งค่าจะเก็บไว้ในโทรศัพท์เครื่องนี้เท่านั้น และจะถูกลบเมื่อถอนการติดตั้งแอป ไม่มีการเก็บ ส่ง หรือแชร์ข้อมูลใดๆ กับบุคคลที่สาม ไม่มีการบันทึกผลการทอย</string>
+    <string name="about_legal">ข้อมูลทางกฎหมาย</string>
+    <string name="legal_notes">%1$s เป็นแอปอิสระ และไม่มีเครื่องหมายการค้าของบุคคลที่สาม</string>
 </resources>

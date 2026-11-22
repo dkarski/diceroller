@@ -36,4 +36,36 @@
     <string name="licenses_intro">%1$s è realizzata con questi componenti open source:</string>
     <string name="license_text">Testo della licenza: %1$s</string>
     <string name="tip_jar_text">Ti piace %1$s? Scansiona il codice con un altro telefono per lasciare una mancia su %2$s. Le mance sono volontarie e non sbloccano nulla.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Somma i lanci</string>
+    <string name="roll_die">Lancia %1$s</string>
+    <string name="roll_custom">Lancia il dado personale D%1$d</string>
+    <string name="edit_custom">Cambia l\'intervallo personale, ora D%1$d</string>
+    <string name="custom_label">Personale</string>
+    <string name="coin_label">Moneta</string>
+    <string name="flip_coin">Lancia la moneta</string>
+    <string name="roll_label">Lancia</string>
+    <string name="coin_heads">Testa</string>
+    <string name="coin_tails">Croce</string>
+    <string name="reroll_set">Rilancia</string>
+    <string name="combine_done">Fatto</string>
+    <string name="coin_as_numbers">Moneta come numeri</string>
+    <string name="keep_screen_on">Schermo sempre acceso</string>
+    <string name="dark_theme">Tema scuro</string>
+    <string name="custom_dialog_title">Dado personale</string>
+    <string name="custom_sides_label">Facce</string>
+    <string name="custom_invalid">Inserisci un numero intero da 2 a 9999.</string>
+    <string name="custom_range_hint">Lancia da 1 a questo numero.</string>
+    <string name="save_custom">Salva</string>
+    <string name="total_description">Totale: %1$d</string>
+    <string name="result_description">%1$s, risultato: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d dado</item>
+        <item quantity="many">%1$d dadi</item>
+        <item quantity="other">%1$d dadi</item>
+    </plurals>
+    <string name="privacy_data_title">I tuoi dati</string>
+    <string name="privacy_data">Le impostazioni sono salvate solo su questo telefono e vengono eliminate quando disinstalli l\'app. Nulla viene raccolto, inviato o condiviso con terzi. I lanci non vengono salvati.</string>
+    <string name="about_legal">Note legali</string>
+    <string name="legal_notes">%1$s è un\'app indipendente. Non contiene marchi di terzi.</string>
 </resources>

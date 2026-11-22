@@ -36,4 +36,35 @@
     <string name="licenses_intro">Ginawa ang %1$s gamit ang mga open source na bahaging ito:</string>
     <string name="license_text">Teksto ng lisensya: %1$s</string>
     <string name="tip_jar_text">Gusto mo ba ang %1$s? I-scan ang code gamit ang ibang telepono para mag-iwan ng tip sa %2$s. Boluntaryo ang mga tip at walang binubuksan.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Pagsamahin ang mga roll</string>
+    <string name="roll_die">I-roll ang %1$s</string>
+    <string name="roll_custom">I-roll ang custom na D%1$d</string>
+    <string name="edit_custom">Baguhin ang custom na saklaw, ngayon ay D%1$d</string>
+    <string name="custom_label">Custom</string>
+    <string name="coin_label">Barya</string>
+    <string name="flip_coin">I-flip ang barya</string>
+    <string name="roll_label">Roll</string>
+    <string name="coin_heads">Ulo</string>
+    <string name="coin_tails">Buntot</string>
+    <string name="reroll_set">Ulitin</string>
+    <string name="combine_done">Tapos</string>
+    <string name="coin_as_numbers">Barya bilang numero</string>
+    <string name="keep_screen_on">Laging bukas ang screen</string>
+    <string name="dark_theme">Madilim na tema</string>
+    <string name="custom_dialog_title">Custom na dice</string>
+    <string name="custom_sides_label">Panig</string>
+    <string name="custom_invalid">Maglagay ng buong numero mula 2 hanggang 9999.</string>
+    <string name="custom_range_hint">Mula 1 hanggang sa numerong ito.</string>
+    <string name="save_custom">I-save</string>
+    <string name="total_description">Kabuuan: %1$d</string>
+    <string name="result_description">Resulta ng %1$s: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d dice</item>
+        <item quantity="other">%1$d dice</item>
+    </plurals>
+    <string name="privacy_data_title">Ang iyong data</string>
+    <string name="privacy_data">Ang iyong mga setting ay nakaimbak lang sa teleponong ito at nabubura kapag in-uninstall mo ang app. Walang kinokolekta, ipinapadala, o ibinabahagi sa iba. Hindi sine-save ang mga roll.</string>
+    <string name="about_legal">Mga legal na paalala</string>
+    <string name="legal_notes">Ang %1$s ay isang independiyenteng app. Wala itong trademark ng iba.</string>
 </resources>

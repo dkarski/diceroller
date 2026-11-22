@@ -36,4 +36,34 @@
     <string name="licenses_intro">%1$s được xây dựng với các thành phần nguồn mở sau:</string>
     <string name="license_text">Nội dung giấy phép: %1$s</string>
     <string name="tip_jar_text">Bạn thích %1$s? Quét mã bằng điện thoại khác để gửi tiền boa trên %2$s. Tiền boa là tự nguyện và không mở khóa gì.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Cộng các lần đổ</string>
+    <string name="roll_die">Đổ %1$s</string>
+    <string name="roll_custom">Đổ D%1$d tùy chỉnh</string>
+    <string name="edit_custom">Đổi phạm vi tùy chỉnh, hiện là D%1$d</string>
+    <string name="custom_label">Tùy chỉnh</string>
+    <string name="coin_label">Đồng xu</string>
+    <string name="flip_coin">Tung đồng xu</string>
+    <string name="roll_label">Đổ</string>
+    <string name="coin_heads">Ngửa</string>
+    <string name="coin_tails">Sấp</string>
+    <string name="reroll_set">Đổ lại</string>
+    <string name="combine_done">Xong</string>
+    <string name="coin_as_numbers">Đồng xu dạng số</string>
+    <string name="keep_screen_on">Màn hình luôn bật</string>
+    <string name="dark_theme">Chủ đề tối</string>
+    <string name="custom_dialog_title">Xúc xắc tùy chỉnh</string>
+    <string name="custom_sides_label">Số mặt</string>
+    <string name="custom_invalid">Nhập số nguyên từ 2 đến 9999.</string>
+    <string name="custom_range_hint">Đổ từ 1 đến số này.</string>
+    <string name="save_custom">Lưu</string>
+    <string name="total_description">Tổng: %1$d</string>
+    <string name="result_description">Kết quả %1$s: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="other">%1$d xúc xắc</item>
+    </plurals>
+    <string name="privacy_data_title">Dữ liệu của bạn</string>
+    <string name="privacy_data">Cài đặt chỉ được lưu trên điện thoại này và bị xóa khi bạn gỡ ứng dụng. Không có gì được thu thập, gửi đi hay chia sẻ với bên thứ ba. Các lần đổ không được lưu.</string>
+    <string name="about_legal">Thông tin pháp lý</string>
+    <string name="legal_notes">%1$s là ứng dụng độc lập. Ứng dụng không chứa nhãn hiệu của bên thứ ba.</string>
 </resources>

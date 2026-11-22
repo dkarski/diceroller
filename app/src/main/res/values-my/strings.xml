@@ -36,4 +36,34 @@
     <string name="licenses_intro">%1$s ကို ဤအိုးပင်းဆို့စ် အစိတ်အပိုင်းများဖြင့် ဖန်တီးထားသည်-</string>
     <string name="license_text">လိုင်စင်စာသား- %1$s</string>
     <string name="tip_jar_text">%1$s ကို နှစ်သက်ပါသလား။ %2$s တွင် ဆုကြေးပေးရန် အခြားဖုန်းဖြင့် ကုဒ်ကို စကင်ဖတ်ပါ။ ဆုကြေးသည် ဆန္ဒအလျောက်ဖြစ်ပြီး မည်သည့်အရာကိုမျှ ဖွင့်မပေးပါ။</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">ပစ်ချက်များ ပေါင်းရန်</string>
+    <string name="roll_die">%1$s ပစ်ရန်</string>
+    <string name="roll_custom">စိတ်ကြိုက် D%1$d ပစ်ရန်</string>
+    <string name="edit_custom">စိတ်ကြိုက်အပိုင်းအခြား ပြောင်းရန်၊ ယခု D%1$d</string>
+    <string name="custom_label">စိတ်ကြိုက်</string>
+    <string name="coin_label">အကြွေစေ့</string>
+    <string name="flip_coin">အကြွေစေ့ လှန်ရန်</string>
+    <string name="roll_label">ပစ်</string>
+    <string name="coin_heads">ခေါင်း</string>
+    <string name="coin_tails">ပန်း</string>
+    <string name="reroll_set">ထပ်ပစ်</string>
+    <string name="combine_done">ပြီးပြီ</string>
+    <string name="coin_as_numbers">အကြွေစေ့ကို ဂဏန်းဖြင့်</string>
+    <string name="keep_screen_on">မျက်နှာပြင် အမြဲဖွင့်</string>
+    <string name="dark_theme">အမှောင် အပြင်အဆင်</string>
+    <string name="custom_dialog_title">စိတ်ကြိုက် အန်စာတုံး</string>
+    <string name="custom_sides_label">မျက်နှာများ</string>
+    <string name="custom_invalid">2 မှ 9999 အထိ ကိန်းပြည့်တစ်ခု ထည့်ပါ။</string>
+    <string name="custom_range_hint">1 မှ ဤဂဏန်းအထိ ပစ်သည်။</string>
+    <string name="save_custom">သိမ်းရန်</string>
+    <string name="total_description">စုစုပေါင်း- %1$d</string>
+    <string name="result_description">%1$s ရလဒ်- %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="other">အန်စာတုံး %1$d လုံး</item>
+    </plurals>
+    <string name="privacy_data_title">သင့်ဒေတာ</string>
+    <string name="privacy_data">ဆက်တင်များကို ဤဖုန်းတွင်သာ သိမ်းဆည်းပြီး အက်ပ်ကို ဖယ်ရှားသောအခါ ဖျက်ပစ်သည်။ မည်သည့်အရာကိုမျှ စုဆောင်းခြင်း၊ ပို့ခြင်း သို့မဟုတ် အခြားသူများနှင့် မျှဝေခြင်း မရှိပါ။ ပစ်ချက်များကို မသိမ်းဆည်းပါ။</string>
+    <string name="about_legal">ဥပဒေဆိုင်ရာ အချက်အလက်</string>
+    <string name="legal_notes">%1$s သည် လွတ်လပ်သော အက်ပ်ဖြစ်သည်။ တတိယပုဂ္ဂိုလ်၏ ကုန်အမှတ်တံဆိပ်များ မပါဝင်ပါ။</string>
 </resources>

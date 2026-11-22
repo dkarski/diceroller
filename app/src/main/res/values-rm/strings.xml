@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s è fatga cun questas parts open source:</string>
     <string name="license_text">Text da la licenza: %1$s</string>
     <string name="tip_jar_text">Ta plascha %1$s? Scanna il code cun in auter telefon per laschar in bunamaun sin %2$s. Ils bunamauns èn voluntaris e na deblocheschan nagut.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Summar ils trairs</string>
+    <string name="roll_die">Trair %1$s</string>
+    <string name="roll_custom">Trair l\'agen D%1$d</string>
+    <string name="edit_custom">Midar l\'agen interval, ussa D%1$d</string>
+    <string name="custom_label">Agen</string>
+    <string name="coin_label">Munaida</string>
+    <string name="flip_coin">Bittar la munaida</string>
+    <string name="roll_label">Trair</string>
+    <string name="coin_heads">Chau</string>
+    <string name="coin_tails">Cua</string>
+    <string name="reroll_set">Danovamain</string>
+    <string name="combine_done">Fatg</string>
+    <string name="coin_as_numbers">Munaida sco dumbers</string>
+    <string name="keep_screen_on">Visur adina activ</string>
+    <string name="dark_theme">Tema stgir</string>
+    <string name="custom_dialog_title">Dad agen</string>
+    <string name="custom_sides_label">Varts</string>
+    <string name="custom_invalid">Endatescha in dumber entir da 2 fin 9999.</string>
+    <string name="custom_range_hint">Trai da 1 fin a quest dumber.</string>
+    <string name="save_custom">Memorisar</string>
+    <string name="total_description">Total: %1$d</string>
+    <string name="result_description">%1$s, resultat: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d dad</item>
+        <item quantity="other">%1$d dads</item>
+    </plurals>
+    <string name="privacy_data_title">Tias datas</string>
+    <string name="privacy_data">Ils parameters vegnan memorisads mo sin quest telefon e vegnan stizzads cura che ti deinstalleschas l\'app. Nagut na vegn rimnà, tramess u partà cun terzas persunas. Ils trairs na vegnan betg memorisads.</string>
+    <string name="about_legal">Indicaziuns giuridicas</string>
+    <string name="legal_notes">%1$s è ina app independenta. Ella na cuntegna naginas marcas da terzas persunas.</string>
 </resources>

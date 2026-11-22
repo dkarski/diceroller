@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s इन ओपन सोर्स हिस्सों से बना है:</string>
     <string name="license_text">लाइसेंस का पाठ: %1$s</string>
     <string name="tip_jar_text">%1$s पसंद आया? %2$s पर टिप देने के लिए कोड को दूसरे फ़ोन से स्कैन करें। टिप स्वैच्छिक है और कुछ भी अनलॉक नहीं करती।</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">रोल जोड़ें</string>
+    <string name="roll_die">%1$s रोल करें</string>
+    <string name="roll_custom">अपना D%1$d रोल करें</string>
+    <string name="edit_custom">अपनी सीमा बदलें, अभी D%1$d</string>
+    <string name="custom_label">अपना</string>
+    <string name="coin_label">सिक्का</string>
+    <string name="flip_coin">सिक्का उछालें</string>
+    <string name="roll_label">रोल</string>
+    <string name="coin_heads">चित</string>
+    <string name="coin_tails">पट</string>
+    <string name="reroll_set">फिर से</string>
+    <string name="combine_done">हो गया</string>
+    <string name="coin_as_numbers">सिक्का अंकों में</string>
+    <string name="keep_screen_on">स्क्रीन हमेशा चालू</string>
+    <string name="dark_theme">डार्क थीम</string>
+    <string name="custom_dialog_title">अपना पासा</string>
+    <string name="custom_sides_label">फलक</string>
+    <string name="custom_invalid">2 से 9999 तक कोई पूर्ण संख्या डालें।</string>
+    <string name="custom_range_hint">1 से इस संख्या तक रोल करता है।</string>
+    <string name="save_custom">सहेजें</string>
+    <string name="total_description">कुल: %1$d</string>
+    <string name="result_description">%1$s परिणाम: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d पासा</item>
+        <item quantity="other">%1$d पासे</item>
+    </plurals>
+    <string name="privacy_data_title">आपका डेटा</string>
+    <string name="privacy_data">सेटिंग्स सिर्फ़ इसी फ़ोन में सहेजी जाती हैं और ऐप हटाने पर मिट जाती हैं। कुछ भी इकट्ठा, भेजा या किसी और से साझा नहीं किया जाता। रोल सहेजे नहीं जाते।</string>
+    <string name="about_legal">कानूनी जानकारी</string>
+    <string name="legal_notes">%1$s एक स्वतंत्र ऐप है। इसमें किसी तीसरे पक्ष के ट्रेडमार्क नहीं हैं।</string>
 </resources>

@@ -36,4 +36,36 @@
     <string name="licenses_intro">%1$s está hecha con estos componentes de código abierto:</string>
     <string name="license_text">Texto de la licencia: %1$s</string>
     <string name="tip_jar_text">¿Te gusta %1$s? Escanea el código con otro teléfono para dejar una propina en %2$s. Las propinas son voluntarias y no desbloquean nada.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Sumar tiradas</string>
+    <string name="roll_die">Tirar %1$s</string>
+    <string name="roll_custom">Tirar dado propio D%1$d</string>
+    <string name="edit_custom">Cambiar rango propio, ahora D%1$d</string>
+    <string name="custom_label">Propio</string>
+    <string name="coin_label">Moneda</string>
+    <string name="flip_coin">Lanzar moneda</string>
+    <string name="roll_label">Tirar</string>
+    <string name="coin_heads">Cara</string>
+    <string name="coin_tails">Cruz</string>
+    <string name="reroll_set">Repetir</string>
+    <string name="combine_done">Listo</string>
+    <string name="coin_as_numbers">Moneda como números</string>
+    <string name="keep_screen_on">Pantalla siempre encendida</string>
+    <string name="dark_theme">Tema oscuro</string>
+    <string name="custom_dialog_title">Dado propio</string>
+    <string name="custom_sides_label">Caras</string>
+    <string name="custom_invalid">Introduce un número entero del 2 al 9999.</string>
+    <string name="custom_range_hint">Tira del 1 a este número.</string>
+    <string name="save_custom">Guardar</string>
+    <string name="total_description">Total: %1$d</string>
+    <string name="result_description">%1$s, resultado: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d dado</item>
+        <item quantity="many">%1$d dados</item>
+        <item quantity="other">%1$d dados</item>
+    </plurals>
+    <string name="privacy_data_title">Tus datos</string>
+    <string name="privacy_data">Los ajustes se guardan solo en este teléfono y se eliminan al desinstalar la app. No se recopila, envía ni comparte nada con terceros. Las tiradas no se guardan.</string>
+    <string name="about_legal">Avisos legales</string>
+    <string name="legal_notes">%1$s es una app independiente. No contiene marcas de terceros.</string>
 </resources>

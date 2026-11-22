@@ -36,4 +36,36 @@
     <string name="licenses_intro">%1$s je izrađen s ovim dijelovima otvorenog koda:</string>
     <string name="license_text">Tekst licence: %1$s</string>
     <string name="tip_jar_text">Sviđa ti se %1$s? Skeniraj kôd drugim telefonom i ostavi napojnicu na %2$sju. Napojnice su dobrovoljne i ništa ne otključavaju.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Zbroji bacanja</string>
+    <string name="roll_die">Baci %1$s</string>
+    <string name="roll_custom">Baci vlastitu D%1$d</string>
+    <string name="edit_custom">Promijeni vlastiti raspon, sada D%1$d</string>
+    <string name="custom_label">Vlastita</string>
+    <string name="coin_label">Novčić</string>
+    <string name="flip_coin">Baci novčić</string>
+    <string name="roll_label">Baci</string>
+    <string name="coin_heads">Glava</string>
+    <string name="coin_tails">Pismo</string>
+    <string name="reroll_set">Ponovno</string>
+    <string name="combine_done">Gotovo</string>
+    <string name="coin_as_numbers">Novčić kao brojevi</string>
+    <string name="keep_screen_on">Zaslon uvijek uključen</string>
+    <string name="dark_theme">Tamna tema</string>
+    <string name="custom_dialog_title">Vlastita kocka</string>
+    <string name="custom_sides_label">Strane</string>
+    <string name="custom_invalid">Unesi cijeli broj od 2 do 9999.</string>
+    <string name="custom_range_hint">Baca od 1 do ovog broja.</string>
+    <string name="save_custom">Spremi</string>
+    <string name="total_description">Ukupno: %1$d</string>
+    <string name="result_description">%1$s, rezultat: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d kocka</item>
+        <item quantity="few">%1$d kocke</item>
+        <item quantity="other">%1$d kocaka</item>
+    </plurals>
+    <string name="privacy_data_title">Tvoji podaci</string>
+    <string name="privacy_data">Postavke se spremaju samo na ovom telefonu i brišu se kad deinstaliraš aplikaciju. Ništa se ne prikuplja, ne šalje niti dijeli s trećim stranama. Bacanja se ne spremaju.</string>
+    <string name="about_legal">Pravne napomene</string>
+    <string name="legal_notes">%1$s je neovisna aplikacija. Ne sadrži tuđe zaštitne znakove.</string>
 </resources>

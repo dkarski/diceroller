@@ -36,4 +36,36 @@
     <string name="licenses_intro">O %1$s é feito com estes componentes de código aberto:</string>
     <string name="license_text">Texto da licença: %1$s</string>
     <string name="tip_jar_text">Gosta do %1$s? Digitalize o código com outro telefone para deixar uma gorjeta no %2$s. As gorjetas são voluntárias e não desbloqueiam nada.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Somar lançamentos</string>
+    <string name="roll_die">Lançar %1$s</string>
+    <string name="roll_custom">Lançar dado próprio D%1$d</string>
+    <string name="edit_custom">Alterar intervalo próprio, agora D%1$d</string>
+    <string name="custom_label">Próprio</string>
+    <string name="coin_label">Moeda</string>
+    <string name="flip_coin">Atirar moeda</string>
+    <string name="roll_label">Lançar</string>
+    <string name="coin_heads">Cara</string>
+    <string name="coin_tails">Coroa</string>
+    <string name="reroll_set">Repetir</string>
+    <string name="combine_done">Concluído</string>
+    <string name="coin_as_numbers">Moeda como números</string>
+    <string name="keep_screen_on">Ecrã sempre ligado</string>
+    <string name="dark_theme">Tema escuro</string>
+    <string name="custom_dialog_title">Dado próprio</string>
+    <string name="custom_sides_label">Faces</string>
+    <string name="custom_invalid">Introduza um número inteiro de 2 a 9999.</string>
+    <string name="custom_range_hint">Lança de 1 até este número.</string>
+    <string name="save_custom">Guardar</string>
+    <string name="total_description">Total: %1$d</string>
+    <string name="result_description">%1$s, resultado: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d dado</item>
+        <item quantity="many">%1$d dados</item>
+        <item quantity="other">%1$d dados</item>
+    </plurals>
+    <string name="privacy_data_title">Os seus dados</string>
+    <string name="privacy_data">As definições ficam guardadas apenas neste telefone e são eliminadas quando desinstala a app. Nada é recolhido, enviado ou partilhado com terceiros. Os lançamentos não são guardados.</string>
+    <string name="about_legal">Notas legais</string>
+    <string name="legal_notes">%1$s é uma app independente. Não contém marcas de terceiros.</string>
 </resources>

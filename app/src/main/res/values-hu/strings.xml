@@ -36,4 +36,35 @@
     <string name="licenses_intro">A %1$s ezekkel a nyílt forráskódú összetevőkkel készült:</string>
     <string name="license_text">A licenc szövege: %1$s</string>
     <string name="tip_jar_text">Tetszik a %1$s? Olvasd be a kódot egy másik telefonnal, és adj borravalót a %2$sn. A borravaló önkéntes, és nem old fel semmit.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Dobások összeadása</string>
+    <string name="roll_die">%1$s dobása</string>
+    <string name="roll_custom">Saját D%1$d dobása</string>
+    <string name="edit_custom">Saját tartomány módosítása, most D%1$d</string>
+    <string name="custom_label">Saját</string>
+    <string name="coin_label">Érme</string>
+    <string name="flip_coin">Érmefeldobás</string>
+    <string name="roll_label">Dobás</string>
+    <string name="coin_heads">Fej</string>
+    <string name="coin_tails">Írás</string>
+    <string name="reroll_set">Újra</string>
+    <string name="combine_done">Kész</string>
+    <string name="coin_as_numbers">Érme számokkal</string>
+    <string name="keep_screen_on">Képernyő mindig be</string>
+    <string name="dark_theme">Sötét téma</string>
+    <string name="custom_dialog_title">Saját kocka</string>
+    <string name="custom_sides_label">Oldalak</string>
+    <string name="custom_invalid">Adj meg egy egész számot 2 és 9999 között.</string>
+    <string name="custom_range_hint">1 és e szám között dob.</string>
+    <string name="save_custom">Mentés</string>
+    <string name="total_description">Összesen: %1$d</string>
+    <string name="result_description">%1$s, eredmény: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d kocka</item>
+        <item quantity="other">%1$d kocka</item>
+    </plurals>
+    <string name="privacy_data_title">Az adataid</string>
+    <string name="privacy_data">A beállítások csak ezen a telefonon tárolódnak, és az alkalmazás eltávolításakor törlődnek. Semmit sem gyűjt, küld el vagy oszt meg harmadik féllel. A dobások nem mentődnek.</string>
+    <string name="about_legal">Jogi információk</string>
+    <string name="legal_notes">A(z) %1$s független alkalmazás. Nem tartalmaz harmadik féltől származó védjegyeket.</string>
 </resources>

@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s imejengwa kwa sehemu hizi za programu huria:</string>
     <string name="license_text">Maandishi ya leseni: %1$s</string>
     <string name="tip_jar_text">Unapenda %1$s? Changanua msimbo kwa simu nyingine ili kuacha bakshishi kwenye %2$s. Bakshishi ni ya hiari na haifungui chochote.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Jumlisha mirusho</string>
+    <string name="roll_die">Rusha %1$s</string>
+    <string name="roll_custom">Rusha D%1$d yako</string>
+    <string name="edit_custom">Badilisha kiwango chako, sasa D%1$d</string>
+    <string name="custom_label">Yako</string>
+    <string name="coin_label">Sarafu</string>
+    <string name="flip_coin">Rusha sarafu</string>
+    <string name="roll_label">Rusha</string>
+    <string name="coin_heads">Kichwa</string>
+    <string name="coin_tails">Mkia</string>
+    <string name="reroll_set">Tena</string>
+    <string name="combine_done">Imekamilika</string>
+    <string name="coin_as_numbers">Sarafu kama namba</string>
+    <string name="keep_screen_on">Skrini iwashwe daima</string>
+    <string name="dark_theme">Mandhari meusi</string>
+    <string name="custom_dialog_title">Kete yako</string>
+    <string name="custom_sides_label">Pande</string>
+    <string name="custom_invalid">Weka namba nzima kuanzia 2 hadi 9999.</string>
+    <string name="custom_range_hint">Hurusha kuanzia 1 hadi namba hii.</string>
+    <string name="save_custom">Hifadhi</string>
+    <string name="total_description">Jumla: %1$d</string>
+    <string name="result_description">Matokeo ya %1$s: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">kete %1$d</item>
+        <item quantity="other">kete %1$d</item>
+    </plurals>
+    <string name="privacy_data_title">Data yako</string>
+    <string name="privacy_data">Mipangilio huhifadhiwa kwenye simu hii pekee na hufutwa unapoondoa programu. Hakuna kinachokusanywa, kutumwa wala kushirikiwa na wengine. Mirusho haihifadhiwi.</string>
+    <string name="about_legal">Maelezo ya kisheria</string>
+    <string name="legal_notes">%1$s ni programu huru. Haina chapa za biashara za wengine.</string>
 </resources>

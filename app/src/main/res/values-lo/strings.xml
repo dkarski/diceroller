@@ -36,4 +36,34 @@
     <string name="licenses_intro">%1$s ສ້າງຂຶ້ນດ້ວຍສ່ວນປະກອບໂອເພັນຊອດເຫຼົ່ານີ້:</string>
     <string name="license_text">ຂໍ້ຄວາມໃບອະນຸຍາດ: %1$s</string>
     <string name="tip_jar_text">ມັກ %1$s ບໍ? ສະແກນລະຫັດດ້ວຍໂທລະສັບອື່ນເພື່ອໃຫ້ທິບໃນ %2$s. ທິບແມ່ນຕາມຄວາມສະໝັກໃຈ ແລະ ບໍ່ປົດລັອກຫຍັງ.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">ລວມການທອຍ</string>
+    <string name="roll_die">ທອຍ %1$s</string>
+    <string name="roll_custom">ທອຍ D%1$d ກຳນົດເອງ</string>
+    <string name="edit_custom">ປ່ຽນຂອບເຂດກຳນົດເອງ, ຕອນນີ້ D%1$d</string>
+    <string name="custom_label">ກຳນົດເອງ</string>
+    <string name="coin_label">ຫຼຽນ</string>
+    <string name="flip_coin">ໂຍນຫຼຽນ</string>
+    <string name="roll_label">ທອຍ</string>
+    <string name="coin_heads">ຫົວ</string>
+    <string name="coin_tails">ກ້ອຍ</string>
+    <string name="reroll_set">ທອຍໃໝ່</string>
+    <string name="combine_done">ແລ້ວ</string>
+    <string name="coin_as_numbers">ຫຼຽນເປັນຕົວເລກ</string>
+    <string name="keep_screen_on">ໜ້າຈໍເປີດຕະຫຼອດ</string>
+    <string name="dark_theme">ຮູບແບບມືດ</string>
+    <string name="custom_dialog_title">ໝາກລູກເຕົ໋າກຳນົດເອງ</string>
+    <string name="custom_sides_label">ໜ້າ</string>
+    <string name="custom_invalid">ໃສ່ຈຳນວນເຕັມແຕ່ 2 ຫາ 9999.</string>
+    <string name="custom_range_hint">ທອຍແຕ່ 1 ຫາຕົວເລກນີ້.</string>
+    <string name="save_custom">ບັນທຶກ</string>
+    <string name="total_description">ລວມ: %1$d</string>
+    <string name="result_description">ຜົນ %1$s: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="other">ໝາກລູກເຕົ໋າ %1$d ໜ່ວຍ</item>
+    </plurals>
+    <string name="privacy_data_title">ຂໍ້ມູນຂອງທ່ານ</string>
+    <string name="privacy_data">ການຕັ້ງຄ່າຖືກເກັບໄວ້ໃນໂທລະສັບນີ້ເທົ່ານັ້ນ ແລະ ຈະຖືກລຶບເມື່ອຖອນແອັບ. ບໍ່ມີຫຍັງຖືກເກັບກຳ, ສົ່ງ ຫຼື ແບ່ງປັນກັບບຸກຄົນທີສາມ. ການທອຍບໍ່ຖືກບັນທຶກ.</string>
+    <string name="about_legal">ຂໍ້ມູນທາງກົດໝາຍ</string>
+    <string name="legal_notes">%1$s ເປັນແອັບອິດສະຫຼະ. ມັນບໍ່ມີເຄື່ອງໝາຍການຄ້າຂອງບຸກຄົນທີສາມ.</string>
 </resources>

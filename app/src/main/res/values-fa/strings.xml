@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s با این اجزای متن‌باز ساخته شده است:</string>
     <string name="license_text">متن مجوز: %1$s</string>
     <string name="tip_jar_text">از %1$s لذت می‌برید؟ کد را با تلفن دیگری اسکن کنید تا در %2$s انعام بدهید. انعام داوطلبانه است و چیزی را باز نمی‌کند.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">جمع پرتاب‌ها</string>
+    <string name="roll_die">پرتاب %1$s</string>
+    <string name="roll_custom">پرتاب D%1$d سفارشی</string>
+    <string name="edit_custom">تغییر بازه سفارشی، اکنون D%1$d</string>
+    <string name="custom_label">سفارشی</string>
+    <string name="coin_label">سکه</string>
+    <string name="flip_coin">انداختن سکه</string>
+    <string name="roll_label">پرتاب</string>
+    <string name="coin_heads">شیر</string>
+    <string name="coin_tails">خط</string>
+    <string name="reroll_set">دوباره</string>
+    <string name="combine_done">تمام</string>
+    <string name="coin_as_numbers">سکه به‌صورت عدد</string>
+    <string name="keep_screen_on">صفحه همیشه روشن</string>
+    <string name="dark_theme">پوسته تیره</string>
+    <string name="custom_dialog_title">تاس سفارشی</string>
+    <string name="custom_sides_label">وجه‌ها</string>
+    <string name="custom_invalid">یک عدد صحیح از ۲ تا ۹۹۹۹ وارد کنید.</string>
+    <string name="custom_range_hint">از ۱ تا این عدد پرتاب می‌شود.</string>
+    <string name="save_custom">ذخیره</string>
+    <string name="total_description">مجموع: %1$d</string>
+    <string name="result_description">نتیجه %1$s: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d تاس</item>
+        <item quantity="other">%1$d تاس</item>
+    </plurals>
+    <string name="privacy_data_title">داده‌های شما</string>
+    <string name="privacy_data">تنظیمات فقط در همین تلفن ذخیره می‌شوند و با حذف برنامه پاک می‌شوند. هیچ چیزی جمع‌آوری، ارسال یا با دیگران به اشتراک گذاشته نمی‌شود. پرتاب‌ها ذخیره نمی‌شوند.</string>
+    <string name="about_legal">نکات حقوقی</string>
+    <string name="legal_notes">%1$s یک برنامه مستقل است و هیچ علامت تجاری شخص ثالثی ندارد.</string>
 </resources>

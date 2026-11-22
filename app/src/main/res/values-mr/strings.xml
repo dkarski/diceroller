@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s या ओपन सोर्स भागांनी बनले आहे:</string>
     <string name="license_text">परवान्याचा मजकूर: %1$s</string>
     <string name="tip_jar_text">%1$s आवडले? %2$s वर टिप देण्यासाठी दुसऱ्या फोनने कोड स्कॅन करा. टिप ऐच्छिक आहे आणि काहीही अनलॉक करत नाही.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">फेके जोडा</string>
+    <string name="roll_die">%1$s फेका</string>
+    <string name="roll_custom">स्वतःचा D%1$d फेका</string>
+    <string name="edit_custom">स्वतःची श्रेणी बदला, आता D%1$d</string>
+    <string name="custom_label">स्वतःचा</string>
+    <string name="coin_label">नाणे</string>
+    <string name="flip_coin">नाणे उडवा</string>
+    <string name="roll_label">फेका</string>
+    <string name="coin_heads">छापा</string>
+    <string name="coin_tails">काटा</string>
+    <string name="reroll_set">पुन्हा</string>
+    <string name="combine_done">झाले</string>
+    <string name="coin_as_numbers">नाणे अंकांत</string>
+    <string name="keep_screen_on">स्क्रीन नेहमी चालू</string>
+    <string name="dark_theme">डार्क थीम</string>
+    <string name="custom_dialog_title">स्वतःचा फासा</string>
+    <string name="custom_sides_label">बाजू</string>
+    <string name="custom_invalid">2 ते 9999 मधील पूर्ण संख्या टाका.</string>
+    <string name="custom_range_hint">1 पासून या संख्येपर्यंत फेकतो.</string>
+    <string name="save_custom">जतन करा</string>
+    <string name="total_description">एकूण: %1$d</string>
+    <string name="result_description">%1$s निकाल: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d फासा</item>
+        <item quantity="other">%1$d फासे</item>
+    </plurals>
+    <string name="privacy_data_title">तुमचा डेटा</string>
+    <string name="privacy_data">सेटिंग्ज फक्त याच फोनमध्ये जतन होतात आणि ॲप काढल्यावर हटतात. काहीही गोळा, पाठवले किंवा इतरांशी शेअर केले जात नाही. फेके जतन केले जात नाहीत.</string>
+    <string name="about_legal">कायदेशीर माहिती</string>
+    <string name="legal_notes">%1$s हे स्वतंत्र ॲप आहे. त्यात तृतीय पक्षाचे ट्रेडमार्क नाहीत.</string>
 </resources>

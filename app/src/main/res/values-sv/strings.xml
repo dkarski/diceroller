@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s är byggd med dessa delar med öppen källkod:</string>
     <string name="license_text">Licenstext: %1$s</string>
     <string name="tip_jar_text">Gillar du %1$s? Skanna koden med en annan telefon för att ge dricks på %2$s. Dricks är frivillig och låser inte upp något.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Lägg ihop slag</string>
+    <string name="roll_die">Slå %1$s</string>
+    <string name="roll_custom">Slå egen D%1$d</string>
+    <string name="edit_custom">Ändra eget intervall, nu D%1$d</string>
+    <string name="custom_label">Egen</string>
+    <string name="coin_label">Mynt</string>
+    <string name="flip_coin">Singla slant</string>
+    <string name="roll_label">Slå</string>
+    <string name="coin_heads">Krona</string>
+    <string name="coin_tails">Klave</string>
+    <string name="reroll_set">Slå igen</string>
+    <string name="combine_done">Klar</string>
+    <string name="coin_as_numbers">Mynt som siffror</string>
+    <string name="keep_screen_on">Skärmen alltid på</string>
+    <string name="dark_theme">Mörkt tema</string>
+    <string name="custom_dialog_title">Egen tärning</string>
+    <string name="custom_sides_label">Sidor</string>
+    <string name="custom_invalid">Ange ett heltal från 2 till 9999.</string>
+    <string name="custom_range_hint">Slår från 1 till detta tal.</string>
+    <string name="save_custom">Spara</string>
+    <string name="total_description">Totalt: %1$d</string>
+    <string name="result_description">%1$s, resultat: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d tärning</item>
+        <item quantity="other">%1$d tärningar</item>
+    </plurals>
+    <string name="privacy_data_title">Dina data</string>
+    <string name="privacy_data">Inställningarna sparas bara på den här telefonen och raderas när du avinstallerar appen. Inget samlas in, skickas eller delas med tredje part. Slag sparas inte.</string>
+    <string name="about_legal">Juridisk information</string>
+    <string name="legal_notes">%1$s är en oberoende app. Den innehåller inga varumärken från tredje part.</string>
 </resources>

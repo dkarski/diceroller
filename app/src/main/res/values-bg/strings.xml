@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s е създадено с тези компоненти с отворен код:</string>
     <string name="license_text">Текст на лиценза: %1$s</string>
     <string name="tip_jar_text">Харесва ли ви %1$s? Сканирайте кода с друг телефон, за да оставите бакшиш в %2$s. Бакшишите са доброволни и не отключват нищо.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Сумиране на хвърляния</string>
+    <string name="roll_die">Хвърли %1$s</string>
+    <string name="roll_custom">Хвърли собствен D%1$d</string>
+    <string name="edit_custom">Промяна на собствения диапазон, сега D%1$d</string>
+    <string name="custom_label">Собствен</string>
+    <string name="coin_label">Монета</string>
+    <string name="flip_coin">Хвърли монета</string>
+    <string name="roll_label">Хвърли</string>
+    <string name="coin_heads">Ези</string>
+    <string name="coin_tails">Тура</string>
+    <string name="reroll_set">Отново</string>
+    <string name="combine_done">Готово</string>
+    <string name="coin_as_numbers">Монета като числа</string>
+    <string name="keep_screen_on">Екранът винаги включен</string>
+    <string name="dark_theme">Тъмна тема</string>
+    <string name="custom_dialog_title">Собствен зар</string>
+    <string name="custom_sides_label">Страни</string>
+    <string name="custom_invalid">Въведете цяло число от 2 до 9999.</string>
+    <string name="custom_range_hint">Хвърля от 1 до това число.</string>
+    <string name="save_custom">Запази</string>
+    <string name="total_description">Общо: %1$d</string>
+    <string name="result_description">%1$s, резултат: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d зар</item>
+        <item quantity="other">%1$d зара</item>
+    </plurals>
+    <string name="privacy_data_title">Вашите данни</string>
+    <string name="privacy_data">Настройките се пазят само на този телефон и се изтриват, когато деинсталирате приложението. Нищо не се събира, изпраща или споделя с трети страни. Хвърлянията не се запазват.</string>
+    <string name="about_legal">Правна информация</string>
+    <string name="legal_notes">%1$s е независимо приложение. То не съдържа търговски марки на трети страни.</string>
 </resources>

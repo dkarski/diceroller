@@ -2,7 +2,7 @@ package dev.dkarski.diceroller.data
 
 import android.content.Context
 
-/** App preferences: vibration, keep screen on, theme and Coin presentation (language kept for future localization). */
+/** App preferences: language, vibration, keep screen on, theme and Coin presentation. */
 class SettingsStore(context: Context) {
     private val prefs = context.getSharedPreferences("settings", Context.MODE_PRIVATE)
 
