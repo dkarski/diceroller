@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">ການຕັ້ງຄ່າ</string>
+    <string name="settings_contact_tap_email">ແຕະເພື່ອຂຽນອີເມວ</string>
+    <string name="settings_contact_tap_copy">ແຕະເພື່ອສຳເນົາ</string>
+    <string name="settings_vibration">ການສັ່ນ</string>
+    <string name="coming_soon_copied">ສຳເນົາອີເມວແລ້ວ</string>
+    <string name="feedback_body">ສະບາຍດີ! ຄຳຕິຊົມຂອງຂ້ອຍ:\n\n</string>
+    <string name="settings_about">ກ່ຽວກັບ</string>
+    <string name="settings_section_app">ແອັບ</string>
+    <string name="back">ກັບຄືນ</string>
+    <string name="settings_language">ພາສາ</string>
+    <string name="language_system_default">ພາສາຂອງລະບົບ</string>
+    <string name="language_more">ພາສາອື່ນໆ</string>
+    <string name="language_search">ຊອກຫາ</string>
+    <string name="language_search_hint">ຊອກຫາພາສາ</string>
+    <string name="language_clear_search">ລຶບການຊອກຫາ</string>
+    <string name="language_no_results">ບໍ່ພົບພາສາ</string>
+    <string name="about_title">ກ່ຽວກັບ</string>
+    <string name="about_version">ເວີຊັນ %1$s</string>
+    <string name="about_made_by">ສ້າງໂດຍ:</string>
+    <string name="about_privacy">ຄວາມເປັນສ່ວນຕົວ</string>
+    <string name="about_terms">ເງື່ອນໄຂການນຳໃຊ້</string>
+    <string name="about_licenses">ໃບອະນຸຍາດໂອເພັນຊອດ</string>
+    <string name="about_tip_jar">ທິບ</string>
+    <string name="privacy_offline_title">ໃຊ້ແບບອອບລາຍ</string>
+    <string name="privacy_offline">%1$s ເຮັດວຽກໄດ້ໂດຍບໍ່ຕ້ອງໃຊ້ເຄືອຂ່າຍ. ມັນບໍ່ມີສິດເຂົ້າເຖິງອິນເຕີເນັດ ແລະ ບໍ່ເຄີຍເຊື່ອມຕໍ່ໄປໃສ.</string>
+    <string name="privacy_permissions_title">ສິດ</string>
+    <string name="privacy_permissions">ແອັບບໍ່ຂໍສິດໃດໆ.</string>
+    <string name="privacy_links_title">ລິ້ງ</string>
+    <string name="privacy_links">ທີ່ຢູ່ຕິດຕໍ່ພຽງແຕ່ເປີດແອັບອີເມວຂອງທ່ານ ຫຼື ສຳເນົາທີ່ຢູ່. ທິບພຽງແຕ່ສະແດງລະຫັດເພື່ອສະແກນດ້ວຍໂທລະສັບອື່ນ. ສິ່ງທີ່ເກີດຂຶ້ນຢູ່ບ່ອນນັ້ນແມ່ນຢູ່ນອກແອັບນີ້.</string>
+    <string name="terms_free_title">ຟຣີ ແລະ ບໍ່ມີການຮັບປະກັນ</string>
+    <string name="terms_free">%1$s ໃຊ້ໄດ້ຟຣີ ແລະ ສະໜອງໃຫ້ຕາມສະພາບ, ບໍ່ມີການຮັບປະກັນ. ທິບແມ່ນຕາມຄວາມສະໝັກໃຈ ແລະ ບໍ່ປົດລັອກຫຍັງ.</string>
+    <string name="terms_liability_title">ຄວາມຮັບຜິດຊອບ</string>
+    <string name="terms_liability">ພາຍໃນຂອບເຂດທີ່ກົດໝາຍອະນຸຍາດ, ຜູ້ພັດທະນາ (%1$s, %2$s) ບໍ່ຮັບຜິດຊອບຕໍ່ຄວາມເສຍຫາຍຈາກການໃຊ້ແອັບ. ສິດທາງກົດໝາຍຂອງທ່ານໃນຖານະຜູ້ບໍລິໂພກບໍ່ໄດ້ຮັບຜົນກະທົບ.</string>
+    <string name="licenses_intro">%1$s ສ້າງຂຶ້ນດ້ວຍສ່ວນປະກອບໂອເພັນຊອດເຫຼົ່ານີ້:</string>
+    <string name="license_text">ຂໍ້ຄວາມໃບອະນຸຍາດ: %1$s</string>
+    <string name="tip_jar_text">ມັກ %1$s ບໍ? ສະແກນລະຫັດດ້ວຍໂທລະສັບອື່ນເພື່ອໃຫ້ທິບໃນ %2$s. ທິບແມ່ນຕາມຄວາມສະໝັກໃຈ ແລະ ບໍ່ປົດລັອກຫຍັງ.</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">ဆက်တင်များ</string>
+    <string name="settings_contact_tap_email">အီးမေးလ်ရေးရန် တို့ပါ</string>
+    <string name="settings_contact_tap_copy">ကူးယူရန် တို့ပါ</string>
+    <string name="settings_vibration">တုန်ခါမှု</string>
+    <string name="coming_soon_copied">အီးမေးလ် ကူးယူပြီး</string>
+    <string name="feedback_body">မင်္ဂလာပါ! ကျွန်ုပ်၏ တုံ့ပြန်ချက်-\n\n</string>
+    <string name="settings_about">အကြောင်း</string>
+    <string name="settings_section_app">အက်ပ်</string>
+    <string name="back">နောက်သို့</string>
+    <string name="settings_language">ဘာသာစကား</string>
+    <string name="language_system_default">စနစ်ဘာသာစကား</string>
+    <string name="language_more">အခြားဘာသာစကားများ</string>
+    <string name="language_search">ရှာဖွေရန်</string>
+    <string name="language_search_hint">ဘာသာစကား ရှာပါ</string>
+    <string name="language_clear_search">ရှာဖွေမှု ရှင်းပါ</string>
+    <string name="language_no_results">ဘာသာစကား မတွေ့ပါ</string>
+    <string name="about_title">အကြောင်း</string>
+    <string name="about_version">ဗားရှင်း %1$s</string>
+    <string name="about_made_by">ဖန်တီးသူ-</string>
+    <string name="about_privacy">ကိုယ်ရေးလုံခြုံမှု</string>
+    <string name="about_terms">အသုံးပြုမှု စည်းမျဉ်းများ</string>
+    <string name="about_licenses">အိုးပင်းဆို့စ် လိုင်စင်များ</string>
+    <string name="about_tip_jar">ဆုကြေး</string>
+    <string name="privacy_offline_title">အော့ဖ်လိုင်း အသုံးပြုမှု</string>
+    <string name="privacy_offline">%1$s သည် ကွန်ရက်မလိုဘဲ အလုပ်လုပ်သည်။ အင်တာနက်ခွင့်ပြုချက် မရှိသလို ဘယ်နေရာနှင့်မျှ မချိတ်ဆက်ပါ။</string>
+    <string name="privacy_permissions_title">ခွင့်ပြုချက်များ</string>
+    <string name="privacy_permissions">အက်ပ်သည် မည်သည့်ခွင့်ပြုချက်မျှ မတောင်းပါ။</string>
+    <string name="privacy_links_title">လင့်ခ်များ</string>
+    <string name="privacy_links">ဆက်သွယ်ရန်လိပ်စာသည် သင့်အီးမေးလ်အက်ပ်ကို ဖွင့်ခြင်း သို့မဟုတ် လိပ်စာကို ကူးယူခြင်းသာ ပြုလုပ်သည်။ ဆုကြေးသည် အခြားဖုန်းဖြင့် စကင်ဖတ်ရန် ကုဒ်တစ်ခုကိုသာ ပြသည်။ ထိုနေရာတွင် ဖြစ်ပျက်သည့်အရာသည် ဤအက်ပ်၏ ပြင်ပတွင်ဖြစ်သည်။</string>
+    <string name="terms_free_title">အခမဲ့နှင့် အာမခံမရှိ</string>
+    <string name="terms_free">%1$s သည် အခမဲ့ဖြစ်ပြီး ရှိသည့်အတိုင်း အာမခံချက်မရှိဘဲ ပေးထားသည်။ ဆုကြေးသည် ဆန္ဒအလျောက်ဖြစ်ပြီး မည်သည့်အရာကိုမျှ ဖွင့်မပေးပါ။</string>
+    <string name="terms_liability_title">တာဝန်ယူမှု</string>
+    <string name="terms_liability">ဥပဒေက ခွင့်ပြုသည့်အတိုင်းအတာအထိ ဖန်တီးသူ (%1$s, %2$s) သည် အက်ပ်အသုံးပြုမှုကြောင့် ဖြစ်ပေါ်သည့် ထိခိုက်မှုအတွက် တာဝန်မယူပါ။ စားသုံးသူအဖြစ် သင်၏ တရားဝင်အခွင့်အရေးများကို မထိခိုက်ပါ။</string>
+    <string name="licenses_intro">%1$s ကို ဤအိုးပင်းဆို့စ် အစိတ်အပိုင်းများဖြင့် ဖန်တီးထားသည်-</string>
+    <string name="license_text">လိုင်စင်စာသား- %1$s</string>
+    <string name="tip_jar_text">%1$s ကို နှစ်သက်ပါသလား။ %2$s တွင် ဆုကြေးပေးရန် အခြားဖုန်းဖြင့် ကုဒ်ကို စကင်ဖတ်ပါ။ ဆုကြေးသည် ဆန္ဒအလျောက်ဖြစ်ပြီး မည်သည့်အရာကိုမျှ ဖွင့်မပေးပါ။</string>
+</resources>

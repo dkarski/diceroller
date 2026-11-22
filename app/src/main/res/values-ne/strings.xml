@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">सेटिङहरू</string>
+    <string name="settings_contact_tap_email">इमेल लेख्न ट्याप गर्नुहोस्</string>
+    <string name="settings_contact_tap_copy">कपी गर्न ट्याप गर्नुहोस्</string>
+    <string name="settings_vibration">कम्पन</string>
+    <string name="coming_soon_copied">इमेल कपी भयो</string>
+    <string name="feedback_body">नमस्ते! मेरो प्रतिक्रिया:\n\n</string>
+    <string name="settings_about">एपबारे</string>
+    <string name="settings_section_app">एप</string>
+    <string name="back">पछाडि</string>
+    <string name="settings_language">भाषा</string>
+    <string name="language_system_default">प्रणालीको भाषा</string>
+    <string name="language_more">थप भाषाहरू</string>
+    <string name="language_search">खोज्नुहोस्</string>
+    <string name="language_search_hint">भाषा खोज्नुहोस्</string>
+    <string name="language_clear_search">खोज हटाउनुहोस्</string>
+    <string name="language_no_results">कुनै भाषा भेटिएन</string>
+    <string name="about_title">एपबारे</string>
+    <string name="about_version">संस्करण %1$s</string>
+    <string name="about_made_by">निर्माता:</string>
+    <string name="about_privacy">गोपनीयता</string>
+    <string name="about_terms">प्रयोगका सर्तहरू</string>
+    <string name="about_licenses">खुला स्रोत इजाजतपत्रहरू</string>
+    <string name="about_tip_jar">टिप</string>
+    <string name="privacy_offline_title">अफलाइन प्रयोग</string>
+    <string name="privacy_offline">%1$s नेटवर्कबिना चल्छ। यसलाई इन्टरनेटको अनुमति छैन र यो कहिल्यै कतै जोडिँदैन।</string>
+    <string name="privacy_permissions_title">अनुमतिहरू</string>
+    <string name="privacy_permissions">एपले कुनै अनुमति माग्दैन।</string>
+    <string name="privacy_links_title">लिङ्कहरू</string>
+    <string name="privacy_links">सम्पर्क ठेगानाले तपाईंको इमेल एप मात्र खोल्छ वा ठेगाना कपी गर्छ। टिपले अर्को फोनबाट स्क्यान गर्ने कोड मात्र देखाउँछ। त्यहाँ जे हुन्छ, त्यो यो एपभन्दा बाहिर हो।</string>
+    <string name="terms_free_title">निःशुल्क र वारेन्टीबिना</string>
+    <string name="terms_free">%1$s निःशुल्क छ र जस्तो छ त्यस्तै, कुनै वारेन्टीबिना उपलब्ध छ। टिप स्वैच्छिक हो र केही पनि अनलक गर्दैन।</string>
+    <string name="terms_liability_title">दायित्व</string>
+    <string name="terms_liability">कानुनले अनुमति दिएसम्म डेभलपर (%1$s, %2$s) एपको प्रयोगबाट हुने हानिका लागि जिम्मेवार हुँदैन। यसले उपभोक्ताका रूपमा तपाईंका कानुनी अधिकारमा असर गर्दैन।</string>
+    <string name="licenses_intro">%1$s यी खुला स्रोत भागहरूबाट बनेको हो:</string>
+    <string name="license_text">इजाजतपत्रको पाठ: %1$s</string>
+    <string name="tip_jar_text">%1$s मन पर्‍यो? %2$s मा टिप दिन अर्को फोनबाट कोड स्क्यान गर्नुहोस्। टिप स्वैच्छिक हो र केही पनि अनलक गर्दैन।</string>
+</resources>

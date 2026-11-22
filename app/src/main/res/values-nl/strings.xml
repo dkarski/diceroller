@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Instellingen</string>
+    <string name="settings_contact_tap_email">Tik om een e-mail te schrijven</string>
+    <string name="settings_contact_tap_copy">Tik om te kopiëren</string>
+    <string name="settings_vibration">Trillen</string>
+    <string name="coming_soon_copied">E-mail gekopieerd</string>
+    <string name="feedback_body">Hoi! Mijn feedback:\n\n</string>
+    <string name="settings_about">Over</string>
+    <string name="settings_section_app">App</string>
+    <string name="back">Terug</string>
+    <string name="settings_language">Taal</string>
+    <string name="language_system_default">Systeemtaal</string>
+    <string name="language_more">Meer talen</string>
+    <string name="language_search">Zoeken</string>
+    <string name="language_search_hint">Taal zoeken</string>
+    <string name="language_clear_search">Zoekopdracht wissen</string>
+    <string name="language_no_results">Geen talen gevonden</string>
+    <string name="about_title">Over</string>
+    <string name="about_version">Versie %1$s</string>
+    <string name="about_made_by">Gemaakt door:</string>
+    <string name="about_privacy">Privacy</string>
+    <string name="about_terms">Gebruiksvoorwaarden</string>
+    <string name="about_licenses">Opensourcelicenties</string>
+    <string name="about_tip_jar">Fooi</string>
+    <string name="privacy_offline_title">Offline gebruik</string>
+    <string name="privacy_offline">%1$s werkt zonder netwerk. De app heeft geen internettoestemming en maakt nooit ergens verbinding mee.</string>
+    <string name="privacy_permissions_title">Toestemmingen</string>
+    <string name="privacy_permissions">De app vraagt geen toestemmingen.</string>
+    <string name="privacy_links_title">Links</string>
+    <string name="privacy_links">Het contactadres opent alleen je e-mailapp of kopieert het adres. De fooi toont alleen een code om met een andere telefoon te scannen. Wat daar gebeurt, valt buiten deze app.</string>
+    <string name="terms_free_title">Gratis en zonder garantie</string>
+    <string name="terms_free">%1$s is gratis en wordt geleverd zoals het is, zonder garanties. Fooien zijn vrijwillig en ontgrendelen niets.</string>
+    <string name="terms_liability_title">Aansprakelijkheid</string>
+    <string name="terms_liability">Voor zover wettelijk toegestaan is de ontwikkelaar (%1$s, %2$s) niet aansprakelijk voor schade door het gebruik van de app. Je wettelijke consumentenrechten blijven onverlet.</string>
+    <string name="licenses_intro">%1$s is gemaakt met deze opensourceonderdelen:</string>
+    <string name="license_text">Licentietekst: %1$s</string>
+    <string name="tip_jar_text">Vind je %1$s leuk? Scan de code met een andere telefoon om een fooi te geven op %2$s. Fooien zijn vrijwillig en ontgrendelen niets.</string>
+</resources>

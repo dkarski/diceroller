@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Asetukset</string>
+    <string name="settings_contact_tap_email">Kirjoita sähköposti napauttamalla</string>
+    <string name="settings_contact_tap_copy">Kopioi napauttamalla</string>
+    <string name="settings_vibration">Värinä</string>
+    <string name="coming_soon_copied">Sähköposti kopioitu</string>
+    <string name="feedback_body">Hei! Palautteeni:\n\n</string>
+    <string name="settings_about">Tietoja</string>
+    <string name="settings_section_app">Sovellus</string>
+    <string name="back">Takaisin</string>
+    <string name="settings_language">Kieli</string>
+    <string name="language_system_default">Järjestelmän kieli</string>
+    <string name="language_more">Lisää kieliä</string>
+    <string name="language_search">Haku</string>
+    <string name="language_search_hint">Hae kieltä</string>
+    <string name="language_clear_search">Tyhjennä haku</string>
+    <string name="language_no_results">Kieliä ei löytynyt</string>
+    <string name="about_title">Tietoja</string>
+    <string name="about_version">Versio %1$s</string>
+    <string name="about_made_by">Tekijä:</string>
+    <string name="about_privacy">Tietosuoja</string>
+    <string name="about_terms">Käyttöehdot</string>
+    <string name="about_licenses">Avoimen lähdekoodin lisenssit</string>
+    <string name="about_tip_jar">Juomaraha</string>
+    <string name="privacy_offline_title">Käyttö ilman verkkoa</string>
+    <string name="privacy_offline">%1$s toimii ilman verkkoa. Sillä ei ole internetlupaa, eikä se muodosta yhteyttä mihinkään.</string>
+    <string name="privacy_permissions_title">Luvat</string>
+    <string name="privacy_permissions">Sovellus ei pyydä lupia.</string>
+    <string name="privacy_links_title">Linkit</string>
+    <string name="privacy_links">Yhteysosoite vain avaa sähköpostisovelluksesi tai kopioi osoitteen. Juomaraha näyttää vain koodin, joka skannataan toisella puhelimella. Mitä siellä tapahtuu, on tämän sovelluksen ulkopuolella.</string>
+    <string name="terms_free_title">Maksuton ja ilman takuuta</string>
+    <string name="terms_free">%1$s on maksuton ja tarjotaan sellaisenaan ilman takuuta. Juomarahat ovat vapaaehtoisia eivätkä avaa mitään.</string>
+    <string name="terms_liability_title">Vastuu</string>
+    <string name="terms_liability">Lain sallimissa rajoissa kehittäjä (%1$s, %2$s) ei vastaa sovelluksen käytöstä aiheutuvista vahingoista. Tämä ei vaikuta lakisääteisiin kuluttajan oikeuksiisi.</string>
+    <string name="licenses_intro">%1$s on tehty näillä avoimen lähdekoodin osilla:</string>
+    <string name="license_text">Lisenssin teksti: %1$s</string>
+    <string name="tip_jar_text">Pidätkö %1$sista? Skannaa koodi toisella puhelimella ja jätä juomaraha %2$shin. Juomarahat ovat vapaaehtoisia eivätkä avaa mitään.</string>
+</resources>

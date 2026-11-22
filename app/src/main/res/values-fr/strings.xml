@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Réglages</string>
+    <string name="settings_contact_tap_email">Touchez pour écrire un e-mail</string>
+    <string name="settings_contact_tap_copy">Touchez pour copier</string>
+    <string name="settings_vibration">Vibration</string>
+    <string name="coming_soon_copied">E-mail copié</string>
+    <string name="feedback_body">Bonjour ! Mon avis :\n\n</string>
+    <string name="settings_about">À propos</string>
+    <string name="settings_section_app">Application</string>
+    <string name="back">Retour</string>
+    <string name="settings_language">Langue</string>
+    <string name="language_system_default">Langue du système</string>
+    <string name="language_more">Autres langues</string>
+    <string name="language_search">Rechercher</string>
+    <string name="language_search_hint">Rechercher une langue</string>
+    <string name="language_clear_search">Effacer la recherche</string>
+    <string name="language_no_results">Aucune langue trouvée</string>
+    <string name="about_title">À propos</string>
+    <string name="about_version">Version %1$s</string>
+    <string name="about_made_by">Créé par :</string>
+    <string name="about_privacy">Confidentialité</string>
+    <string name="about_terms">Conditions d\'utilisation</string>
+    <string name="about_licenses">Licences open source</string>
+    <string name="about_tip_jar">Pourboire</string>
+    <string name="privacy_offline_title">Utilisation hors ligne</string>
+    <string name="privacy_offline">%1$s fonctionne sans réseau. L\'app n\'a pas l\'autorisation d\'accéder à internet et ne se connecte jamais à rien.</string>
+    <string name="privacy_permissions_title">Autorisations</string>
+    <string name="privacy_permissions">L\'app ne demande aucune autorisation.</string>
+    <string name="privacy_links_title">Liens</string>
+    <string name="privacy_links">L\'adresse de contact ouvre seulement votre app de messagerie ou copie l\'adresse. Le pourboire affiche seulement un code à scanner avec un autre téléphone. Ce qui s\'y passe est en dehors de cette app.</string>
+    <string name="terms_free_title">Gratuit et sans garantie</string>
+    <string name="terms_free">%1$s est gratuit et fourni tel quel, sans garantie. Les pourboires sont facultatifs et ne débloquent rien.</string>
+    <string name="terms_liability_title">Responsabilité</string>
+    <string name="terms_liability">Dans la mesure permise par la loi, le développeur (%1$s, %2$s) n\'est pas responsable des dommages causés par l\'utilisation de l\'app. Vos droits légaux de consommateur ne sont pas affectés.</string>
+    <string name="licenses_intro">%1$s est conçu avec ces composants open source :</string>
+    <string name="license_text">Texte de la licence : %1$s</string>
+    <string name="tip_jar_text">Vous aimez %1$s ? Scannez le code avec un autre téléphone pour laisser un pourboire sur %2$s. Les pourboires sont facultatifs et ne débloquent rien.</string>
+</resources>

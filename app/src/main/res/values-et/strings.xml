@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Seaded</string>
+    <string name="settings_contact_tap_email">Puuduta, et kirjutada e-kiri</string>
+    <string name="settings_contact_tap_copy">Puuduta kopeerimiseks</string>
+    <string name="settings_vibration">Vibreerimine</string>
+    <string name="coming_soon_copied">E-post kopeeritud</string>
+    <string name="feedback_body">Tere! Minu tagasiside:\n\n</string>
+    <string name="settings_about">Teave</string>
+    <string name="settings_section_app">Rakendus</string>
+    <string name="back">Tagasi</string>
+    <string name="settings_language">Keel</string>
+    <string name="language_system_default">Süsteemi keel</string>
+    <string name="language_more">Rohkem keeli</string>
+    <string name="language_search">Otsi</string>
+    <string name="language_search_hint">Otsi keelt</string>
+    <string name="language_clear_search">Tühjenda otsing</string>
+    <string name="language_no_results">Keeli ei leitud</string>
+    <string name="about_title">Teave</string>
+    <string name="about_version">Versioon %1$s</string>
+    <string name="about_made_by">Autor:</string>
+    <string name="about_privacy">Privaatsus</string>
+    <string name="about_terms">Kasutustingimused</string>
+    <string name="about_licenses">Avatud lähtekoodi litsentsid</string>
+    <string name="about_tip_jar">Jootraha</string>
+    <string name="privacy_offline_title">Võrguta kasutus</string>
+    <string name="privacy_offline">%1$s töötab ilma võrguta. Rakendusel pole internetiluba ja see ei ühendu kunagi millegagi.</string>
+    <string name="privacy_permissions_title">Load</string>
+    <string name="privacy_permissions">Rakendus ei küsi ühtegi luba.</string>
+    <string name="privacy_links_title">Lingid</string>
+    <string name="privacy_links">Kontaktaadress ainult avab sinu e-posti rakenduse või kopeerib aadressi. Jootraha näitab ainult koodi, mida skannida teise telefoniga. See, mis seal juhtub, jääb rakendusest välja.</string>
+    <string name="terms_free_title">Tasuta ja garantiita</string>
+    <string name="terms_free">%1$s on tasuta ja seda pakutakse sellisena, nagu see on, ilma garantiita. Jootraha on vabatahtlik ega ava midagi.</string>
+    <string name="terms_liability_title">Vastutus</string>
+    <string name="terms_liability">Seadusega lubatud ulatuses ei vastuta arendaja (%1$s, %2$s) rakenduse kasutamisest tekkinud kahju eest. See ei mõjuta sinu seadusjärgseid tarbijaõigusi.</string>
+    <string name="licenses_intro">%1$s on loodud nende avatud lähtekoodiga osadega:</string>
+    <string name="license_text">Litsentsi tekst: %1$s</string>
+    <string name="tip_jar_text">Meeldib %1$s? Skanni kood teise telefoniga, et jätta %2$ss jootraha. Jootraha on vabatahtlik ega ava midagi.</string>
+</resources>

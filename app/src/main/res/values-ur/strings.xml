@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">ترتیبات</string>
+    <string name="settings_contact_tap_email">ای میل لکھنے کے لیے تھپتھپائیں</string>
+    <string name="settings_contact_tap_copy">کاپی کرنے کے لیے تھپتھپائیں</string>
+    <string name="settings_vibration">وائبریشن</string>
+    <string name="coming_soon_copied">ای میل کاپی ہو گئی</string>
+    <string name="feedback_body">السلام علیکم! میری رائے:\n\n</string>
+    <string name="settings_about">ایپ کے بارے میں</string>
+    <string name="settings_section_app">ایپ</string>
+    <string name="back">واپس</string>
+    <string name="settings_language">زبان</string>
+    <string name="language_system_default">سسٹم کی زبان</string>
+    <string name="language_more">مزید زبانیں</string>
+    <string name="language_search">تلاش</string>
+    <string name="language_search_hint">زبان تلاش کریں</string>
+    <string name="language_clear_search">تلاش صاف کریں</string>
+    <string name="language_no_results">کوئی زبان نہیں ملی</string>
+    <string name="about_title">ایپ کے بارے میں</string>
+    <string name="about_version">ورژن %1$s</string>
+    <string name="about_made_by">تیار کردہ:</string>
+    <string name="about_privacy">رازداری</string>
+    <string name="about_terms">استعمال کی شرائط</string>
+    <string name="about_licenses">اوپن سورس لائسنس</string>
+    <string name="about_tip_jar">ٹپ</string>
+    <string name="privacy_offline_title">آف لائن استعمال</string>
+    <string name="privacy_offline">%1$s نیٹ ورک کے بغیر کام کرتی ہے۔ اسے انٹرنیٹ کی اجازت نہیں اور یہ کبھی کہیں نہیں جڑتی۔</string>
+    <string name="privacy_permissions_title">اجازتیں</string>
+    <string name="privacy_permissions">ایپ کوئی اجازت نہیں مانگتی۔</string>
+    <string name="privacy_links_title">لنکس</string>
+    <string name="privacy_links">رابطے کا پتہ صرف آپ کی ای میل ایپ کھولتا ہے یا پتہ کاپی کرتا ہے۔ ٹپ صرف ایک کوڈ دکھاتی ہے جسے دوسرے فون سے اسکین کیا جائے۔ وہاں جو ہوتا ہے وہ اس ایپ سے باہر ہے۔</string>
+    <string name="terms_free_title">مفت اور بغیر ضمانت</string>
+    <string name="terms_free">%1$s مفت ہے اور جیسی ہے ویسی، بغیر کسی ضمانت کے فراہم کی جاتی ہے۔ ٹپ اختیاری ہے اور کچھ بھی ان لاک نہیں کرتی۔</string>
+    <string name="terms_liability_title">ذمہ داری</string>
+    <string name="terms_liability">قانون کی اجازت کی حد تک ڈیولپر (%1$s، %2$s) ایپ کے استعمال سے ہونے والے نقصان کا ذمہ دار نہیں۔ اس سے آپ کے قانونی صارف حقوق متاثر نہیں ہوتے۔</string>
+    <string name="licenses_intro">%1$s ان اوپن سورس حصوں سے بنی ہے:</string>
+    <string name="license_text">لائسنس کا متن: %1$s</string>
+    <string name="tip_jar_text">%1$s پسند آئی؟ %2$s پر ٹپ دینے کے لیے کوڈ کو دوسرے فون سے اسکین کریں۔ ٹپ اختیاری ہے اور کچھ بھی ان لاک نہیں کرتی۔</string>
+</resources>

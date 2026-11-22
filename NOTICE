@@ -1,0 +1,9 @@
+DiceRoller
+Copyright 2026 Daniel Karski.
+
+Application shell adapted from Kompakt App Template and Lifepoints,
+Copyright 2026 Daniel Karski, under the Apache License 2.0 (see LICENSE).
+
+DiceRoller adds dice and coin rolls, combined sets, custom dice, display
+preferences, original dice artwork, localization and release tooling.
+Runtime library attributions and license texts are available in Settings > About.

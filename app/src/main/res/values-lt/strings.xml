@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Nustatymai</string>
+    <string name="settings_contact_tap_email">Palieskite, kad parašytumėte el. laišką</string>
+    <string name="settings_contact_tap_copy">Palieskite, kad nukopijuotumėte</string>
+    <string name="settings_vibration">Vibracija</string>
+    <string name="coming_soon_copied">El. paštas nukopijuotas</string>
+    <string name="feedback_body">Labas! Mano atsiliepimas:\n\n</string>
+    <string name="settings_about">Apie</string>
+    <string name="settings_section_app">Programa</string>
+    <string name="back">Atgal</string>
+    <string name="settings_language">Kalba</string>
+    <string name="language_system_default">Sistemos kalba</string>
+    <string name="language_more">Daugiau kalbų</string>
+    <string name="language_search">Ieškoti</string>
+    <string name="language_search_hint">Ieškoti kalbos</string>
+    <string name="language_clear_search">Išvalyti paiešką</string>
+    <string name="language_no_results">Kalbų nerasta</string>
+    <string name="about_title">Apie</string>
+    <string name="about_version">Versija %1$s</string>
+    <string name="about_made_by">Sukūrė:</string>
+    <string name="about_privacy">Privatumas</string>
+    <string name="about_terms">Naudojimo sąlygos</string>
+    <string name="about_licenses">Atvirojo kodo licencijos</string>
+    <string name="about_tip_jar">Arbatpinigiai</string>
+    <string name="privacy_offline_title">Naudojimas neprisijungus</string>
+    <string name="privacy_offline">%1$s veikia be tinklo. Ji neturi interneto leidimo ir niekada niekur nesijungia.</string>
+    <string name="privacy_permissions_title">Leidimai</string>
+    <string name="privacy_permissions">Programėlė neprašo jokių leidimų.</string>
+    <string name="privacy_links_title">Nuorodos</string>
+    <string name="privacy_links">Kontaktinis adresas tik atidaro jūsų el. pašto programėlę arba nukopijuoja adresą. Arbatpinigiai tik parodo kodą, kurį reikia nuskaityti kitu telefonu. Kas vyksta ten, yra už šios programėlės ribų.</string>
+    <string name="terms_free_title">Nemokama ir be garantijų</string>
+    <string name="terms_free">%1$s yra nemokama ir teikiama tokia, kokia yra, be garantijų. Arbatpinigiai yra savanoriški ir nieko neatrakina.</string>
+    <string name="terms_liability_title">Atsakomybė</string>
+    <string name="terms_liability">Kiek leidžia įstatymai, kūrėjas (%1$s, %2$s) neatsako už žalą, patirtą naudojantis programėle. Tai neturi įtakos jūsų įstatyminėms vartotojo teisėms.</string>
+    <string name="licenses_intro">%1$s sukurta naudojant šias atvirojo kodo dalis:</string>
+    <string name="license_text">Licencijos tekstas: %1$s</string>
+    <string name="tip_jar_text">Patinka %1$s? Nuskaitykite kodą kitu telefonu ir palikite arbatpinigių %2$s. Arbatpinigiai yra savanoriški ir nieko neatrakina.</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Axustes</string>
+    <string name="settings_contact_tap_email">Toca para escribir un correo</string>
+    <string name="settings_contact_tap_copy">Toca para copiar</string>
+    <string name="settings_vibration">Vibración</string>
+    <string name="coming_soon_copied">Correo copiado</string>
+    <string name="feedback_body">Ola! A miña opinión:\n\n</string>
+    <string name="settings_about">Acerca de</string>
+    <string name="settings_section_app">Aplicación</string>
+    <string name="back">Atrás</string>
+    <string name="settings_language">Idioma</string>
+    <string name="language_system_default">Idioma do sistema</string>
+    <string name="language_more">Máis idiomas</string>
+    <string name="language_search">Buscar</string>
+    <string name="language_search_hint">Buscar idioma</string>
+    <string name="language_clear_search">Borrar busca</string>
+    <string name="language_no_results">Non se atoparon idiomas</string>
+    <string name="about_title">Acerca de</string>
+    <string name="about_version">Versión %1$s</string>
+    <string name="about_made_by">Creado por:</string>
+    <string name="about_privacy">Privacidade</string>
+    <string name="about_terms">Condicións de uso</string>
+    <string name="about_licenses">Licenzas de código aberto</string>
+    <string name="about_tip_jar">Propina</string>
+    <string name="privacy_offline_title">Uso sen conexión</string>
+    <string name="privacy_offline">%1$s funciona sen rede. Non ten permiso de acceso a internet e nunca se conecta a nada.</string>
+    <string name="privacy_permissions_title">Permisos</string>
+    <string name="privacy_permissions">A app non pide ningún permiso.</string>
+    <string name="privacy_links_title">Ligazóns</string>
+    <string name="privacy_links">O enderezo de contacto só abre a túa app de correo ou copia o enderezo. A propina só mostra un código para escanear con outro teléfono. O que pase alí queda fóra desta app.</string>
+    <string name="terms_free_title">Gratuíto e sen garantía</string>
+    <string name="terms_free">%1$s é gratuíto e ofrécese tal como é, sen garantías. As propinas son voluntarias e non desbloquean nada.</string>
+    <string name="terms_liability_title">Responsabilidade</string>
+    <string name="terms_liability">Na medida en que o permita a lei, o programador (%1$s, %2$s) non é responsable dos danos causados polo uso da app. Os teus dereitos legais como consumidor non se ven afectados.</string>
+    <string name="licenses_intro">%1$s está feito con estes compoñentes de código aberto:</string>
+    <string name="license_text">Texto da licenza: %1$s</string>
+    <string name="tip_jar_text">Gústache %1$s? Escanea o código con outro teléfono para deixar unha propina en %2$s. As propinas son voluntarias e non desbloquean nada.</string>
+</resources>

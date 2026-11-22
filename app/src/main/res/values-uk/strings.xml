@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Налаштування</string>
+    <string name="settings_contact_tap_email">Торкніться, щоб написати листа</string>
+    <string name="settings_contact_tap_copy">Торкніться, щоб скопіювати</string>
+    <string name="settings_vibration">Вібрація</string>
+    <string name="coming_soon_copied">Адресу скопійовано</string>
+    <string name="feedback_body">Вітаю! Мій відгук:\n\n</string>
+    <string name="settings_about">Про застосунок</string>
+    <string name="settings_section_app">Застосунок</string>
+    <string name="back">Назад</string>
+    <string name="settings_language">Мова</string>
+    <string name="language_system_default">Як у системі</string>
+    <string name="language_more">Інші мови</string>
+    <string name="language_search">Пошук</string>
+    <string name="language_search_hint">Пошук мови</string>
+    <string name="language_clear_search">Очистити пошук</string>
+    <string name="language_no_results">Мов не знайдено</string>
+    <string name="about_title">Про застосунок</string>
+    <string name="about_version">Версія %1$s</string>
+    <string name="about_made_by">Автор:</string>
+    <string name="about_privacy">Конфіденційність</string>
+    <string name="about_terms">Умови використання</string>
+    <string name="about_licenses">Ліцензії відкритого коду</string>
+    <string name="about_tip_jar">Чайові</string>
+    <string name="privacy_offline_title">Робота без мережі</string>
+    <string name="privacy_offline">%1$s працює без мережі. Застосунок не має доступу до інтернету й нікуди не підключається.</string>
+    <string name="privacy_permissions_title">Дозволи</string>
+    <string name="privacy_permissions">Застосунок не запитує жодних дозволів.</string>
+    <string name="privacy_links_title">Посилання</string>
+    <string name="privacy_links">Контактна адреса лише відкриває ваш поштовий застосунок або копіює адресу. Чайові лише показують код для сканування іншим телефоном. Усе, що відбувається далі, — поза цим застосунком.</string>
+    <string name="terms_free_title">Безкоштовно й без гарантій</string>
+    <string name="terms_free">%1$s безкоштовний і надається «як є», без гарантій. Чайові добровільні й нічого не відкривають.</string>
+    <string name="terms_liability_title">Відповідальність</string>
+    <string name="terms_liability">У межах, дозволених законом, розробник (%1$s, %2$s) не відповідає за шкоду від використання застосунку. Ваші законні права споживача при цьому не обмежуються.</string>
+    <string name="licenses_intro">%1$s створено з використанням цих компонентів відкритого коду:</string>
+    <string name="license_text">Текст ліцензії: %1$s</string>
+    <string name="tip_jar_text">Подобається %1$s? Відскануйте код іншим телефоном, щоб залишити чайові на %2$s. Чайові добровільні й нічого не відкривають.</string>
+</resources>

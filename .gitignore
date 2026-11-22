@@ -1,0 +1,16 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+*.jks
+*.keystore
+*.apk
+*.idsig
+.idea/
+*.iml
+.DS_Store
+/captures/
+/dist/
+/screenshots/
+/docs/i18n/screenshots/
+__pycache__/

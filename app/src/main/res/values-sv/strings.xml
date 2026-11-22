@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Inställningar</string>
+    <string name="settings_contact_tap_email">Tryck för att skriva ett mejl</string>
+    <string name="settings_contact_tap_copy">Tryck för att kopiera</string>
+    <string name="settings_vibration">Vibration</string>
+    <string name="coming_soon_copied">E-post kopierad</string>
+    <string name="feedback_body">Hej! Min feedback:\n\n</string>
+    <string name="settings_about">Om</string>
+    <string name="settings_section_app">App</string>
+    <string name="back">Tillbaka</string>
+    <string name="settings_language">Språk</string>
+    <string name="language_system_default">Systemets språk</string>
+    <string name="language_more">Fler språk</string>
+    <string name="language_search">Sök</string>
+    <string name="language_search_hint">Sök språk</string>
+    <string name="language_clear_search">Rensa sökning</string>
+    <string name="language_no_results">Inga språk hittades</string>
+    <string name="about_title">Om</string>
+    <string name="about_version">Version %1$s</string>
+    <string name="about_made_by">Skapad av:</string>
+    <string name="about_privacy">Integritet</string>
+    <string name="about_terms">Användarvillkor</string>
+    <string name="about_licenses">Licenser för öppen källkod</string>
+    <string name="about_tip_jar">Dricks</string>
+    <string name="privacy_offline_title">Användning offline</string>
+    <string name="privacy_offline">%1$s fungerar utan nätverk. Appen har ingen internetbehörighet och ansluter aldrig till något.</string>
+    <string name="privacy_permissions_title">Behörigheter</string>
+    <string name="privacy_permissions">Appen begär inga behörigheter.</string>
+    <string name="privacy_links_title">Länkar</string>
+    <string name="privacy_links">Kontaktadressen öppnar bara din e-postapp eller kopierar adressen. Dricks visar bara en kod att skanna med en annan telefon. Det som händer där ligger utanför den här appen.</string>
+    <string name="terms_free_title">Gratis och utan garanti</string>
+    <string name="terms_free">%1$s är gratis och tillhandahålls i befintligt skick, utan garantier. Dricks är frivillig och låser inte upp något.</string>
+    <string name="terms_liability_title">Ansvar</string>
+    <string name="terms_liability">I den mån lagen tillåter ansvarar utvecklaren (%1$s, %2$s) inte för skador som uppstår vid användning av appen. Dina lagstadgade konsumenträttigheter påverkas inte.</string>
+    <string name="licenses_intro">%1$s är byggd med dessa delar med öppen källkod:</string>
+    <string name="license_text">Licenstext: %1$s</string>
+    <string name="tip_jar_text">Gillar du %1$s? Skanna koden med en annan telefon för att ge dricks på %2$s. Dricks är frivillig och låser inte upp något.</string>
+</resources>

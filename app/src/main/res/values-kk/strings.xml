@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Параметрлер</string>
+    <string name="settings_contact_tap_email">Хат жазу үшін түртіңіз</string>
+    <string name="settings_contact_tap_copy">Көшіру үшін түртіңіз</string>
+    <string name="settings_vibration">Діріл</string>
+    <string name="coming_soon_copied">Мекенжай көшірілді</string>
+    <string name="feedback_body">Сәлеметсіз бе! Менің пікірім:\n\n</string>
+    <string name="settings_about">Қолданба туралы</string>
+    <string name="settings_section_app">Қолданба</string>
+    <string name="back">Артқа</string>
+    <string name="settings_language">Тіл</string>
+    <string name="language_system_default">Жүйе тілі</string>
+    <string name="language_more">Басқа тілдер</string>
+    <string name="language_search">Іздеу</string>
+    <string name="language_search_hint">Тіл іздеу</string>
+    <string name="language_clear_search">Іздеуді тазалау</string>
+    <string name="language_no_results">Тіл табылмады</string>
+    <string name="about_title">Қолданба туралы</string>
+    <string name="about_version">Нұсқа %1$s</string>
+    <string name="about_made_by">Авторы:</string>
+    <string name="about_privacy">Құпиялылық</string>
+    <string name="about_terms">Пайдалану шарттары</string>
+    <string name="about_licenses">Ашық бастапқы код лицензиялары</string>
+    <string name="about_tip_jar">Шайпұл</string>
+    <string name="privacy_offline_title">Желісіз пайдалану</string>
+    <string name="privacy_offline">%1$s желісіз жұмыс істейді. Қолданбада интернетке рұқсат жоқ және ол ешқайда қосылмайды.</string>
+    <string name="privacy_permissions_title">Рұқсаттар</string>
+    <string name="privacy_permissions">Қолданба ешқандай рұқсат сұрамайды.</string>
+    <string name="privacy_links_title">Сілтемелер</string>
+    <string name="privacy_links">Байланыс мекенжайы тек пошта қолданбаңызды ашады немесе мекенжайды көшіреді. Шайпұл тек басқа телефонмен сканерлеуге арналған кодты көрсетеді. Онда не болатыны бұл қолданбадан тыс.</string>
+    <string name="terms_free_title">Тегін және кепілдіксіз</string>
+    <string name="terms_free">%1$s тегін және кепілдіксіз «қалай болса, солай» ұсынылады. Шайпұл ерікті және ештеңені ашпайды.</string>
+    <string name="terms_liability_title">Жауапкершілік</string>
+    <string name="terms_liability">Заң рұқсат ететін шекте әзірлеуші (%1$s, %2$s) қолданбаны пайдаланудан келген зиян үшін жауап бермейді. Бұл тұтынушы ретіндегі заңды құқықтарыңызға әсер етпейді.</string>
+    <string name="licenses_intro">%1$s мына ашық бастапқы код бөліктерімен жасалған:</string>
+    <string name="license_text">Лицензия мәтіні: %1$s</string>
+    <string name="tip_jar_text">%1$s ұнай ма? %2$s-да шайпұл қалдыру үшін кодты басқа телефонмен сканерлеңіз. Шайпұл ерікті және ештеңені ашпайды.</string>
+</resources>

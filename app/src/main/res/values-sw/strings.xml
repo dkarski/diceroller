@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Mipangilio</string>
+    <string name="settings_contact_tap_email">Gusa ili kuandika barua pepe</string>
+    <string name="settings_contact_tap_copy">Gusa ili kunakili</string>
+    <string name="settings_vibration">Mtetemo</string>
+    <string name="coming_soon_copied">Barua pepe imenakiliwa</string>
+    <string name="feedback_body">Habari! Maoni yangu:\n\n</string>
+    <string name="settings_about">Kuhusu</string>
+    <string name="settings_section_app">Programu</string>
+    <string name="back">Rudi</string>
+    <string name="settings_language">Lugha</string>
+    <string name="language_system_default">Lugha ya mfumo</string>
+    <string name="language_more">Lugha zaidi</string>
+    <string name="language_search">Tafuta</string>
+    <string name="language_search_hint">Tafuta lugha</string>
+    <string name="language_clear_search">Futa utafutaji</string>
+    <string name="language_no_results">Hakuna lugha iliyopatikana</string>
+    <string name="about_title">Kuhusu</string>
+    <string name="about_version">Toleo %1$s</string>
+    <string name="about_made_by">Imetengenezwa na:</string>
+    <string name="about_privacy">Faragha</string>
+    <string name="about_terms">Masharti ya matumizi</string>
+    <string name="about_licenses">Leseni za programu huria</string>
+    <string name="about_tip_jar">Bakshishi</string>
+    <string name="privacy_offline_title">Matumizi nje ya mtandao</string>
+    <string name="privacy_offline">%1$s hufanya kazi bila mtandao. Haina ruhusa ya intaneti na haiunganishi popote.</string>
+    <string name="privacy_permissions_title">Ruhusa</string>
+    <string name="privacy_permissions">Programu haiombi ruhusa yoyote.</string>
+    <string name="privacy_links_title">Viungo</string>
+    <string name="privacy_links">Anwani ya mawasiliano hufungua tu programu yako ya barua pepe au kunakili anwani. Bakshishi huonyesha tu msimbo wa kuchanganua kwa simu nyingine. Kinachotokea huko kiko nje ya programu hii.</string>
+    <string name="terms_free_title">Bure na bila dhamana</string>
+    <string name="terms_free">%1$s ni bure na hutolewa jinsi ilivyo, bila dhamana. Bakshishi ni ya hiari na haifungui chochote.</string>
+    <string name="terms_liability_title">Dhima</string>
+    <string name="terms_liability">Kwa kadiri sheria inavyoruhusu, msanidi (%1$s, %2$s) hawajibiki kwa madhara yatokanayo na matumizi ya programu. Haki zako za kisheria kama mtumiaji haziathiriwi.</string>
+    <string name="licenses_intro">%1$s imejengwa kwa sehemu hizi za programu huria:</string>
+    <string name="license_text">Maandishi ya leseni: %1$s</string>
+    <string name="tip_jar_text">Unapenda %1$s? Changanua msimbo kwa simu nyingine ili kuacha bakshishi kwenye %2$s. Bakshishi ni ya hiari na haifungui chochote.</string>
+</resources>
