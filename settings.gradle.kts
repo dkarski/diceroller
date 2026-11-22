@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "dice-roller"
+rootProject.name = "diceroller"
 include(":app")
