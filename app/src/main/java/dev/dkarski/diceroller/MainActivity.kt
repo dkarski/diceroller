@@ -15,7 +15,7 @@ import dev.dkarski.diceroller.data.AppLocale
 import dev.dkarski.diceroller.data.SettingsStore
 import dev.dkarski.diceroller.ui.App
 import dev.dkarski.diceroller.ui.theme.AppTheme
-import dev.dkarski.diceroller.ui.theme.AppColors
+import dev.dkarski.diceroller.ui.theme.appColors
 
 class MainActivity : ComponentActivity() {
     /** Applies the app language chosen in Settings (or keeps the system language). */
@@ -26,34 +26,45 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         val settingsStore = SettingsStore(this)
-        applySystemBars()
+        applySystemBars(settingsStore.darkTheme)
 
         setContent {
+            var coinAsNumbers by remember { mutableStateOf(settingsStore.coinAsNumbers) }
             var vibration by remember { mutableStateOf(settingsStore.vibration) }
-            AppTheme {
+            var keepScreenOn by remember { mutableStateOf(settingsStore.keepScreenOn) }
+            var darkTheme by remember { mutableStateOf(settingsStore.darkTheme) }
+            AppTheme(dark = darkTheme) {
                 App(
-                    languageTag = settingsStore.languageTag,
+                    keepScreenOn = keepScreenOn,
+                    onKeepScreenOnChange = { on ->
+                        keepScreenOn = on
+                        settingsStore.keepScreenOn = on
+                    },
+                    darkTheme = darkTheme,
+                    onDarkThemeChange = { on ->
+                        darkTheme = on
+                        settingsStore.darkTheme = on
+                        applySystemBars(on)
+                    },
+                    coinAsNumbers = coinAsNumbers,
+                    onCoinAsNumbersChange = { numeric ->
+                        coinAsNumbers = numeric
+                        settingsStore.coinAsNumbers = numeric
+                    },
                     vibration = vibration,
                     onVibrationChange = { on ->
                         vibration = on
                         settingsStore.vibration = on
-                    },
-                    onLanguageChange = { tag ->
-                        if (tag != settingsStore.languageTag) {
-                            settingsStore.languageTag = tag
-                            // Rebuild resources while rememberSaveable restores navigation.
-                            recreate()
-                        }
                     },
                 )
             }
         }
     }
 
-    /** Window background and system bars in the app's colours: white with dark icons. */
+    /** Window background and system bars follow the theme (no white flash in Dark theme). */
     @Suppress("DEPRECATION") // statusBarColor/navigationBarColor are still the API on Android 12 (Kompakt).
-    private fun applySystemBars() {
-        val color = AppColors.background.toArgb()
+    private fun applySystemBars(dark: Boolean) {
+        val color = appColors(dark).background.toArgb()
         window.setBackgroundDrawable(ColorDrawable(color))
         window.statusBarColor = color
         window.navigationBarColor = color
@@ -61,6 +72,6 @@ class MainActivity : ComponentActivity() {
             WindowInsetsController.APPEARANCE_LIGHT_NAVIGATION_BARS
         // window.insetsController is null-unsafe before the decor view exists (NPE on Android 12);
         // decorView creates it on first access.
-        window.decorView.windowInsetsController?.setSystemBarsAppearance(lightBars, lightBars)
+        window.decorView.windowInsetsController?.setSystemBarsAppearance(if (dark) 0 else lightBars, lightBars)
     }
 }
