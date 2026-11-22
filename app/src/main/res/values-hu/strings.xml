@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Beállítások</string>
+    <string name="settings_contact_tap_email">Koppints e-mail írásához</string>
+    <string name="settings_contact_tap_copy">Koppints a másoláshoz</string>
+    <string name="settings_vibration">Rezgés</string>
+    <string name="coming_soon_copied">E-mail másolva</string>
+    <string name="feedback_body">Szia! A visszajelzésem:\n\n</string>
+    <string name="settings_about">Névjegy</string>
+    <string name="settings_section_app">Alkalmazás</string>
+    <string name="back">Vissza</string>
+    <string name="settings_language">Nyelv</string>
+    <string name="language_system_default">Rendszer nyelve</string>
+    <string name="language_more">További nyelvek</string>
+    <string name="language_search">Keresés</string>
+    <string name="language_search_hint">Nyelv keresése</string>
+    <string name="language_clear_search">Keresés törlése</string>
+    <string name="language_no_results">Nincs találat</string>
+    <string name="about_title">Névjegy</string>
+    <string name="about_version">Verzió: %1$s</string>
+    <string name="about_made_by">Készítette:</string>
+    <string name="about_privacy">Adatvédelem</string>
+    <string name="about_terms">Felhasználási feltételek</string>
+    <string name="about_licenses">Nyílt forráskódú licencek</string>
+    <string name="about_tip_jar">Borravaló</string>
+    <string name="privacy_offline_title">Offline használat</string>
+    <string name="privacy_offline">A %1$s hálózat nélkül működik. Nincs internet-engedélye, és soha nem csatlakozik semmihez.</string>
+    <string name="privacy_permissions_title">Engedélyek</string>
+    <string name="privacy_permissions">Az alkalmazás nem kér engedélyt.</string>
+    <string name="privacy_links_title">Hivatkozások</string>
+    <string name="privacy_links">A kapcsolattartási cím csak megnyitja a levelezőalkalmazásodat vagy kimásolja a címet. A borravaló csak egy kódot mutat, amelyet egy másik telefonnal kell beolvasni. Ami ott történik, az már kívül esik ezen az alkalmazáson.</string>
+    <string name="terms_free_title">Ingyenes és garancia nélküli</string>
+    <string name="terms_free">A %1$s ingyenes, és jelenlegi formájában, garancia nélkül érhető el. A borravaló önkéntes, és nem old fel semmit.</string>
+    <string name="terms_liability_title">Felelősség</string>
+    <string name="terms_liability">A jogszabályok által megengedett mértékben a fejlesztő (%1$s, %2$s) nem felel az alkalmazás használatából eredő károkért. Ez nem érinti a törvényes fogyasztói jogaidat.</string>
+    <string name="licenses_intro">A %1$s ezekkel a nyílt forráskódú összetevőkkel készült:</string>
+    <string name="license_text">A licenc szövege: %1$s</string>
+    <string name="tip_jar_text">Tetszik a %1$s? Olvasd be a kódot egy másik telefonnal, és adj borravalót a %2$sn. A borravaló önkéntes, és nem old fel semmit.</string>
+</resources>

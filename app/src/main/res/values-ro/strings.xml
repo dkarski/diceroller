@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Setări</string>
+    <string name="settings_contact_tap_email">Atingeți pentru a scrie un e-mail</string>
+    <string name="settings_contact_tap_copy">Atingeți pentru a copia</string>
+    <string name="settings_vibration">Vibrații</string>
+    <string name="coming_soon_copied">E-mail copiat</string>
+    <string name="feedback_body">Bună! Părerea mea:\n\n</string>
+    <string name="settings_about">Despre</string>
+    <string name="settings_section_app">Aplicație</string>
+    <string name="back">Înapoi</string>
+    <string name="settings_language">Limbă</string>
+    <string name="language_system_default">Limba sistemului</string>
+    <string name="language_more">Mai multe limbi</string>
+    <string name="language_search">Căutați</string>
+    <string name="language_search_hint">Căutați o limbă</string>
+    <string name="language_clear_search">Ștergeți căutarea</string>
+    <string name="language_no_results">Nu s-a găsit nicio limbă</string>
+    <string name="about_title">Despre</string>
+    <string name="about_version">Versiunea %1$s</string>
+    <string name="about_made_by">Creat de:</string>
+    <string name="about_privacy">Confidențialitate</string>
+    <string name="about_terms">Condiții de utilizare</string>
+    <string name="about_licenses">Licențe open source</string>
+    <string name="about_tip_jar">Bacșiș</string>
+    <string name="privacy_offline_title">Utilizare offline</string>
+    <string name="privacy_offline">%1$s funcționează fără rețea. Nu are permisiunea de a accesa internetul și nu se conectează niciodată la nimic.</string>
+    <string name="privacy_permissions_title">Permisiuni</string>
+    <string name="privacy_permissions">Aplicația nu cere nicio permisiune.</string>
+    <string name="privacy_links_title">Linkuri</string>
+    <string name="privacy_links">Adresa de contact doar deschide aplicația dvs. de e-mail sau copiază adresa. Bacșișul doar afișează un cod de scanat cu alt telefon. Ce se întâmplă acolo este în afara acestei aplicații.</string>
+    <string name="terms_free_title">Gratuit și fără garanție</string>
+    <string name="terms_free">%1$s este gratuită și oferită ca atare, fără garanții. Bacșișurile sunt voluntare și nu deblochează nimic.</string>
+    <string name="terms_liability_title">Răspundere</string>
+    <string name="terms_liability">În măsura permisă de lege, dezvoltatorul (%1$s, %2$s) nu răspunde pentru daunele cauzate de utilizarea aplicației. Drepturile dvs. legale de consumator nu sunt afectate.</string>
+    <string name="licenses_intro">%1$s este realizată cu aceste componente open source:</string>
+    <string name="license_text">Textul licenței: %1$s</string>
+    <string name="tip_jar_text">Vă place %1$s? Scanați codul cu alt telefon pentru a lăsa un bacșiș pe %2$s. Bacșișurile sunt voluntare și nu deblochează nimic.</string>
+</resources>

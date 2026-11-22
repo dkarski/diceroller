@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Nastavenia</string>
+    <string name="settings_contact_tap_email">Ťuknutím napíšete e-mail</string>
+    <string name="settings_contact_tap_copy">Ťuknutím skopírujete</string>
+    <string name="settings_vibration">Vibrácie</string>
+    <string name="coming_soon_copied">E-mail skopírovaný</string>
+    <string name="feedback_body">Dobrý deň! Moja spätná väzba:\n\n</string>
+    <string name="settings_about">O aplikácii</string>
+    <string name="settings_section_app">Aplikácia</string>
+    <string name="back">Späť</string>
+    <string name="settings_language">Jazyk</string>
+    <string name="language_system_default">Podľa systému</string>
+    <string name="language_more">Ďalšie jazyky</string>
+    <string name="language_search">Hľadať</string>
+    <string name="language_search_hint">Hľadať jazyk</string>
+    <string name="language_clear_search">Vymazať hľadanie</string>
+    <string name="language_no_results">Nenašiel sa žiadny jazyk</string>
+    <string name="about_title">O aplikácii</string>
+    <string name="about_version">Verzia %1$s</string>
+    <string name="about_made_by">Autor:</string>
+    <string name="about_privacy">Súkromie</string>
+    <string name="about_terms">Podmienky používania</string>
+    <string name="about_licenses">Licencie open source</string>
+    <string name="about_tip_jar">Prepitné</string>
+    <string name="privacy_offline_title">Bez internetu</string>
+    <string name="privacy_offline">%1$s funguje bez siete. Nemá povolenie na internet a nikam sa nepripája.</string>
+    <string name="privacy_permissions_title">Povolenia</string>
+    <string name="privacy_permissions">Aplikácia nežiada žiadne povolenia.</string>
+    <string name="privacy_links_title">Odkazy</string>
+    <string name="privacy_links">Kontaktná adresa iba otvorí vašu e-mailovú aplikáciu alebo adresu skopíruje. Prepitné zobrazí iba kód na naskenovanie iným telefónom. Čo sa deje potom, je mimo tejto aplikácie.</string>
+    <string name="terms_free_title">Zadarmo a bez záruky</string>
+    <string name="terms_free">%1$s je zadarmo a poskytuje sa tak, ako je, bez záruk. Prepitné je dobrovoľné a nič neodomyká.</string>
+    <string name="terms_liability_title">Zodpovednosť</string>
+    <string name="terms_liability">V rozsahu povolenom zákonom vývojár (%1$s, %2$s) nezodpovedá za škody spôsobené používaním aplikácie. Vaše zákonné práva spotrebiteľa tým nie sú dotknuté.</string>
+    <string name="licenses_intro">%1$s využíva tieto časti open source:</string>
+    <string name="license_text">Text licencie: %1$s</string>
+    <string name="tip_jar_text">Páči sa vám %1$s? Naskenujte kód iným telefónom a nechajte prepitné na %2$s. Prepitné je dobrovoľné a nič neodomyká.</string>
+</resources>

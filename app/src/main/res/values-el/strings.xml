@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Ρυθμίσεις</string>
+    <string name="settings_contact_tap_email">Πατήστε για να γράψετε email</string>
+    <string name="settings_contact_tap_copy">Πατήστε για αντιγραφή</string>
+    <string name="settings_vibration">Δόνηση</string>
+    <string name="coming_soon_copied">Το email αντιγράφηκε</string>
+    <string name="feedback_body">Γεια! Τα σχόλιά μου:\n\n</string>
+    <string name="settings_about">Πληροφορίες</string>
+    <string name="settings_section_app">Εφαρμογή</string>
+    <string name="back">Πίσω</string>
+    <string name="settings_language">Γλώσσα</string>
+    <string name="language_system_default">Γλώσσα συστήματος</string>
+    <string name="language_more">Περισσότερες γλώσσες</string>
+    <string name="language_search">Αναζήτηση</string>
+    <string name="language_search_hint">Αναζήτηση γλώσσας</string>
+    <string name="language_clear_search">Εκκαθάριση αναζήτησης</string>
+    <string name="language_no_results">Δεν βρέθηκαν γλώσσες</string>
+    <string name="about_title">Πληροφορίες</string>
+    <string name="about_version">Έκδοση %1$s</string>
+    <string name="about_made_by">Δημιουργός:</string>
+    <string name="about_privacy">Απόρρητο</string>
+    <string name="about_terms">Όροι χρήσης</string>
+    <string name="about_licenses">Άδειες ανοιχτού κώδικα</string>
+    <string name="about_tip_jar">Φιλοδώρημα</string>
+    <string name="privacy_offline_title">Χρήση εκτός σύνδεσης</string>
+    <string name="privacy_offline">Το %1$s λειτουργεί χωρίς δίκτυο. Δεν έχει άδεια πρόσβασης στο διαδίκτυο και δεν συνδέεται ποτέ πουθενά.</string>
+    <string name="privacy_permissions_title">Άδειες</string>
+    <string name="privacy_permissions">Η εφαρμογή δεν ζητά καμία άδεια.</string>
+    <string name="privacy_links_title">Σύνδεσμοι</string>
+    <string name="privacy_links">Η διεύθυνση επικοινωνίας απλώς ανοίγει την εφαρμογή email σας ή αντιγράφει τη διεύθυνση. Το φιλοδώρημα εμφανίζει μόνο έναν κωδικό για σάρωση με άλλο τηλέφωνο. Ό,τι συμβαίνει εκεί είναι εκτός αυτής της εφαρμογής.</string>
+    <string name="terms_free_title">Δωρεάν και χωρίς εγγύηση</string>
+    <string name="terms_free">Το %1$s είναι δωρεάν και παρέχεται ως έχει, χωρίς εγγυήσεις. Τα φιλοδωρήματα είναι προαιρετικά και δεν ξεκλειδώνουν τίποτα.</string>
+    <string name="terms_liability_title">Ευθύνη</string>
+    <string name="terms_liability">Στον βαθμό που επιτρέπει ο νόμος, ο δημιουργός (%1$s, %2$s) δεν ευθύνεται για ζημίες από τη χρήση της εφαρμογής. Τα νόμιμα δικαιώματά σας ως καταναλωτή δεν επηρεάζονται.</string>
+    <string name="licenses_intro">Το %1$s είναι φτιαγμένο με αυτά τα στοιχεία ανοιχτού κώδικα:</string>
+    <string name="license_text">Κείμενο άδειας: %1$s</string>
+    <string name="tip_jar_text">Σας αρέσει το %1$s; Σαρώστε τον κωδικό με άλλο τηλέφωνο για να αφήσετε φιλοδώρημα στο %2$s. Τα φιλοδωρήματα είναι προαιρετικά και δεν ξεκλειδώνουν τίποτα.</string>
+</resources>

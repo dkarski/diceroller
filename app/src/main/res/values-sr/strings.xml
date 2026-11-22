@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Подешавања</string>
+    <string name="settings_contact_tap_email">Додирните да бисте написали имејл</string>
+    <string name="settings_contact_tap_copy">Додирните да бисте копирали</string>
+    <string name="settings_vibration">Вибрација</string>
+    <string name="coming_soon_copied">Имејл је копиран</string>
+    <string name="feedback_body">Здраво! Мој утисак:\n\n</string>
+    <string name="settings_about">О апликацији</string>
+    <string name="settings_section_app">Апликација</string>
+    <string name="back">Назад</string>
+    <string name="settings_language">Језик</string>
+    <string name="language_system_default">Језик система</string>
+    <string name="language_more">Још језика</string>
+    <string name="language_search">Претрага</string>
+    <string name="language_search_hint">Претражи језике</string>
+    <string name="language_clear_search">Обриши претрагу</string>
+    <string name="language_no_results">Није пронађен ниједан језик</string>
+    <string name="about_title">О апликацији</string>
+    <string name="about_version">Верзија %1$s</string>
+    <string name="about_made_by">Аутор:</string>
+    <string name="about_privacy">Приватност</string>
+    <string name="about_terms">Услови коришћења</string>
+    <string name="about_licenses">Лиценце отвореног кода</string>
+    <string name="about_tip_jar">Напојница</string>
+    <string name="privacy_offline_title">Коришћење без мреже</string>
+    <string name="privacy_offline">%1$s ради без мреже. Нема дозволу за интернет и никада се нигде не повезује.</string>
+    <string name="privacy_permissions_title">Дозволе</string>
+    <string name="privacy_permissions">Апликација не тражи никакве дозволе.</string>
+    <string name="privacy_links_title">Линкови</string>
+    <string name="privacy_links">Адреса за контакт само отвара вашу апликацију за имејл или копира адресу. Напојница само приказује кôд за скенирање другим телефоном. Оно што се тамо дешава је ван ове апликације.</string>
+    <string name="terms_free_title">Бесплатно и без гаранције</string>
+    <string name="terms_free">%1$s је бесплатан и пружа се такав какав је, без гаранција. Напојнице су добровољне и ништа не откључавају.</string>
+    <string name="terms_liability_title">Одговорност</string>
+    <string name="terms_liability">У мери у којој то закон дозвољава, програмер (%1$s, %2$s) не одговара за штету насталу коришћењем апликације. То не утиче на ваша законска права потрошача.</string>
+    <string name="licenses_intro">%1$s је направљен помоћу ових делова отвореног кода:</string>
+    <string name="license_text">Текст лиценце: %1$s</string>
+    <string name="tip_jar_text">Свиђа вам се %1$s? Скенирајте кôд другим телефоном да бисте оставили напојницу на %2$s. Напојнице су добровољне и ништа не откључавају.</string>
+</resources>

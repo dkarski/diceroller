@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Ayarlar</string>
+    <string name="settings_contact_tap_email">E-posta yazmak için dokunun</string>
+    <string name="settings_contact_tap_copy">Kopyalamak için dokunun</string>
+    <string name="settings_vibration">Titreşim</string>
+    <string name="coming_soon_copied">E-posta kopyalandı</string>
+    <string name="feedback_body">Merhaba! Geri bildirimim:\n\n</string>
+    <string name="settings_about">Hakkında</string>
+    <string name="settings_section_app">Uygulama</string>
+    <string name="back">Geri</string>
+    <string name="settings_language">Dil</string>
+    <string name="language_system_default">Sistem dili</string>
+    <string name="language_more">Diğer diller</string>
+    <string name="language_search">Ara</string>
+    <string name="language_search_hint">Dil ara</string>
+    <string name="language_clear_search">Aramayı temizle</string>
+    <string name="language_no_results">Dil bulunamadı</string>
+    <string name="about_title">Hakkında</string>
+    <string name="about_version">Sürüm %1$s</string>
+    <string name="about_made_by">Geliştiren:</string>
+    <string name="about_privacy">Gizlilik</string>
+    <string name="about_terms">Kullanım koşulları</string>
+    <string name="about_licenses">Açık kaynak lisansları</string>
+    <string name="about_tip_jar">Bahşiş</string>
+    <string name="privacy_offline_title">Çevrimdışı kullanım</string>
+    <string name="privacy_offline">%1$s ağ olmadan çalışır. İnternet izni yoktur ve hiçbir yere bağlanmaz.</string>
+    <string name="privacy_permissions_title">İzinler</string>
+    <string name="privacy_permissions">Uygulama hiçbir izin istemez.</string>
+    <string name="privacy_links_title">Bağlantılar</string>
+    <string name="privacy_links">İletişim adresi yalnızca e-posta uygulamanızı açar veya adresi kopyalar. Bahşiş yalnızca başka bir telefonla taranacak bir kod gösterir. Orada olanlar bu uygulamanın dışındadır.</string>
+    <string name="terms_free_title">Ücretsiz ve garantisiz</string>
+    <string name="terms_free">%1$s ücretsizdir ve olduğu gibi, garanti olmadan sunulur. Bahşişler isteğe bağlıdır ve hiçbir şeyin kilidini açmaz.</string>
+    <string name="terms_liability_title">Sorumluluk</string>
+    <string name="terms_liability">Yasaların izin verdiği ölçüde geliştirici (%1$s, %2$s) uygulamanın kullanımından doğan zararlardan sorumlu değildir. Yasal tüketici haklarınız bundan etkilenmez.</string>
+    <string name="licenses_intro">%1$s şu açık kaynak bileşenleriyle yapılmıştır:</string>
+    <string name="license_text">Lisans metni: %1$s</string>
+    <string name="tip_jar_text">%1$s\'i beğendiniz mi? %2$s üzerinden bahşiş bırakmak için kodu başka bir telefonla tarayın. Bahşişler isteğe bağlıdır ve hiçbir şeyin kilidini açmaz.</string>
+</resources>

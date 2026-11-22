@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Definições</string>
+    <string name="settings_contact_tap_email">Toque para escrever um email</string>
+    <string name="settings_contact_tap_copy">Toque para copiar</string>
+    <string name="settings_vibration">Vibração</string>
+    <string name="coming_soon_copied">Email copiado</string>
+    <string name="feedback_body">Olá! A minha opinião:\n\n</string>
+    <string name="settings_about">Acerca de</string>
+    <string name="settings_section_app">Aplicação</string>
+    <string name="back">Voltar</string>
+    <string name="settings_language">Idioma</string>
+    <string name="language_system_default">Idioma do sistema</string>
+    <string name="language_more">Mais idiomas</string>
+    <string name="language_search">Pesquisar</string>
+    <string name="language_search_hint">Pesquisar idiomas</string>
+    <string name="language_clear_search">Limpar pesquisa</string>
+    <string name="language_no_results">Nenhum idioma encontrado</string>
+    <string name="about_title">Acerca de</string>
+    <string name="about_version">Versão %1$s</string>
+    <string name="about_made_by">Criado por:</string>
+    <string name="about_privacy">Privacidade</string>
+    <string name="about_terms">Termos de utilização</string>
+    <string name="about_licenses">Licenças de código aberto</string>
+    <string name="about_tip_jar">Gorjeta</string>
+    <string name="privacy_offline_title">Utilização offline</string>
+    <string name="privacy_offline">O %1$s funciona sem rede. Não tem permissão de acesso à internet e nunca se liga a nada.</string>
+    <string name="privacy_permissions_title">Permissões</string>
+    <string name="privacy_permissions">A app não pede nenhuma permissão.</string>
+    <string name="privacy_links_title">Ligações</string>
+    <string name="privacy_links">O endereço de contacto apenas abre a sua app de email ou copia o endereço. A gorjeta mostra apenas um código para digitalizar com outro telefone. O que acontece depois é exterior a esta app.</string>
+    <string name="terms_free_title">Gratuito e sem garantia</string>
+    <string name="terms_free">O %1$s é gratuito e fornecido tal como está, sem garantias. As gorjetas são voluntárias e não desbloqueiam nada.</string>
+    <string name="terms_liability_title">Responsabilidade</string>
+    <string name="terms_liability">Na medida permitida por lei, o programador (%1$s, %2$s) não é responsável por danos causados pela utilização da app. Os seus direitos legais de consumidor não são afetados.</string>
+    <string name="licenses_intro">O %1$s é feito com estes componentes de código aberto:</string>
+    <string name="license_text">Texto da licença: %1$s</string>
+    <string name="tip_jar_text">Gosta do %1$s? Digitalize o código com outro telefone para deixar uma gorjeta no %2$s. As gorjetas são voluntárias e não desbloqueiam nada.</string>
+</resources>

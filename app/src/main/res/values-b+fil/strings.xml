@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Mga Setting</string>
+    <string name="settings_contact_tap_email">I-tap para mag-email</string>
+    <string name="settings_contact_tap_copy">I-tap para kopyahin</string>
+    <string name="settings_vibration">Vibration</string>
+    <string name="coming_soon_copied">Nakopya ang email</string>
+    <string name="feedback_body">Kumusta! Ang aking feedback:\n\n</string>
+    <string name="settings_about">Tungkol</string>
+    <string name="settings_section_app">App</string>
+    <string name="back">Bumalik</string>
+    <string name="settings_language">Wika</string>
+    <string name="language_system_default">Default ng system</string>
+    <string name="language_more">Iba pang wika</string>
+    <string name="language_search">Maghanap</string>
+    <string name="language_search_hint">Maghanap ng wika</string>
+    <string name="language_clear_search">I-clear ang paghahanap</string>
+    <string name="language_no_results">Walang nakitang wika</string>
+    <string name="about_title">Tungkol</string>
+    <string name="about_version">Bersyon %1$s</string>
+    <string name="about_made_by">Ginawa ni:</string>
+    <string name="about_privacy">Privacy</string>
+    <string name="about_terms">Mga tuntunin ng paggamit</string>
+    <string name="about_licenses">Mga open source na lisensya</string>
+    <string name="about_tip_jar">Tip</string>
+    <string name="privacy_offline_title">Offline na paggamit</string>
+    <string name="privacy_offline">Gumagana ang %1$s nang walang network. Wala itong pahintulot sa internet at hindi ito kumokonekta kahit saan.</string>
+    <string name="privacy_permissions_title">Mga pahintulot</string>
+    <string name="privacy_permissions">Walang hinihinging pahintulot ang app.</string>
+    <string name="privacy_links_title">Mga link</string>
+    <string name="privacy_links">Binubuksan lang ng contact address ang iyong email app o kinokopya ang address. Ang Tip ay nagpapakita lang ng code na i-scan gamit ang ibang telepono. Ang nangyayari doon ay labas na sa app na ito.</string>
+    <string name="terms_free_title">Libre at walang warranty</string>
+    <string name="terms_free">Libre ang %1$s at ibinibigay nang as is, walang warranty. Boluntaryo ang mga tip at walang binubuksan.</string>
+    <string name="terms_liability_title">Pananagutan</string>
+    <string name="terms_liability">Hangga\'t pinapayagan ng batas, hindi mananagot ang developer (%1$s, %2$s) sa pinsalang dulot ng paggamit ng app. Hindi naaapektuhan ang iyong mga karapatan bilang consumer ayon sa batas.</string>
+    <string name="licenses_intro">Ginawa ang %1$s gamit ang mga open source na bahaging ito:</string>
+    <string name="license_text">Teksto ng lisensya: %1$s</string>
+    <string name="tip_jar_text">Gusto mo ba ang %1$s? I-scan ang code gamit ang ibang telepono para mag-iwan ng tip sa %2$s. Boluntaryo ang mga tip at walang binubuksan.</string>
+</resources>

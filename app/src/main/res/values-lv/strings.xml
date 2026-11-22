@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Iestatījumi</string>
+    <string name="settings_contact_tap_email">Pieskarieties, lai rakstītu e-pastu</string>
+    <string name="settings_contact_tap_copy">Pieskarieties, lai kopētu</string>
+    <string name="settings_vibration">Vibrācija</string>
+    <string name="coming_soon_copied">E-pasts nokopēts</string>
+    <string name="feedback_body">Sveiki! Mana atsauksme:\n\n</string>
+    <string name="settings_about">Par lietotni</string>
+    <string name="settings_section_app">Lietotne</string>
+    <string name="back">Atpakaļ</string>
+    <string name="settings_language">Valoda</string>
+    <string name="language_system_default">Sistēmas valoda</string>
+    <string name="language_more">Citas valodas</string>
+    <string name="language_search">Meklēt</string>
+    <string name="language_search_hint">Meklēt valodu</string>
+    <string name="language_clear_search">Notīrīt meklēšanu</string>
+    <string name="language_no_results">Valodas netika atrastas</string>
+    <string name="about_title">Par lietotni</string>
+    <string name="about_version">Versija %1$s</string>
+    <string name="about_made_by">Izstrādātājs:</string>
+    <string name="about_privacy">Privātums</string>
+    <string name="about_terms">Lietošanas noteikumi</string>
+    <string name="about_licenses">Atvērtā koda licences</string>
+    <string name="about_tip_jar">Dzeramnauda</string>
+    <string name="privacy_offline_title">Lietošana bezsaistē</string>
+    <string name="privacy_offline">%1$s darbojas bez tīkla. Tai nav interneta atļaujas, un tā nekad ne ar ko nesavienojas.</string>
+    <string name="privacy_permissions_title">Atļaujas</string>
+    <string name="privacy_permissions">Lietotne neprasa nekādas atļaujas.</string>
+    <string name="privacy_links_title">Saites</string>
+    <string name="privacy_links">Kontaktadrese tikai atver jūsu e-pasta lietotni vai nokopē adresi. Dzeramnauda tikai parāda kodu, ko noskenēt ar citu tālruni. Tas, kas notiek tur, ir ārpus šīs lietotnes.</string>
+    <string name="terms_free_title">Bez maksas un bez garantijas</string>
+    <string name="terms_free">%1$s ir bez maksas un tiek nodrošināta tāda, kāda tā ir, bez garantijām. Dzeramnauda ir brīvprātīga un neko neatbloķē.</string>
+    <string name="terms_liability_title">Atbildība</string>
+    <string name="terms_liability">Ciktāl to pieļauj likums, izstrādātājs (%1$s, %2$s) neatbild par zaudējumiem, kas radušies, lietojot lietotni. Tas neietekmē jūsu likumīgās patērētāja tiesības.</string>
+    <string name="licenses_intro">%1$s ir veidota ar šīm atvērtā koda daļām:</string>
+    <string name="license_text">Licences teksts: %1$s</string>
+    <string name="tip_jar_text">Patīk %1$s? Noskenējiet kodu ar citu tālruni, lai atstātu dzeramnaudu vietnē %2$s. Dzeramnauda ir brīvprātīga un neko neatbloķē.</string>
+</resources>

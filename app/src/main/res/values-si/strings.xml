@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">සැකසීම්</string>
+    <string name="settings_contact_tap_email">ඊමේල් ලිවීමට තට්ටු කරන්න</string>
+    <string name="settings_contact_tap_copy">පිටපත් කිරීමට තට්ටු කරන්න</string>
+    <string name="settings_vibration">කම්පනය</string>
+    <string name="coming_soon_copied">ඊමේල් පිටපත් විය</string>
+    <string name="feedback_body">ආයුබෝවන්! මගේ ප්‍රතිචාරය:\n\n</string>
+    <string name="settings_about">යෙදුම ගැන</string>
+    <string name="settings_section_app">යෙදුම</string>
+    <string name="back">ආපසු</string>
+    <string name="settings_language">භාෂාව</string>
+    <string name="language_system_default">පද්ධති භාෂාව</string>
+    <string name="language_more">තවත් භාෂා</string>
+    <string name="language_search">සොයන්න</string>
+    <string name="language_search_hint">භාෂාවක් සොයන්න</string>
+    <string name="language_clear_search">සෙවීම හිස් කරන්න</string>
+    <string name="language_no_results">භාෂා හමු නොවීය</string>
+    <string name="about_title">යෙදුම ගැන</string>
+    <string name="about_version">අනුවාදය %1$s</string>
+    <string name="about_made_by">නිර්මාණය:</string>
+    <string name="about_privacy">රහස්‍යතාව</string>
+    <string name="about_terms">භාවිත නියම</string>
+    <string name="about_licenses">විවෘත මූලාශ්‍ර බලපත්‍ර</string>
+    <string name="about_tip_jar">ටිප්</string>
+    <string name="privacy_offline_title">නොබැඳි භාවිතය</string>
+    <string name="privacy_offline">%1$s ජාලයක් නොමැතිව ක්‍රියා කරයි. එයට අන්තර්ජාල අවසරයක් නැති අතර කිසිවිටක කොතැනකටවත් සම්බන්ධ නොවේ.</string>
+    <string name="privacy_permissions_title">අවසර</string>
+    <string name="privacy_permissions">යෙදුම කිසිදු අවසරයක් ඉල්ලන්නේ නැත.</string>
+    <string name="privacy_links_title">සබැඳි</string>
+    <string name="privacy_links">සම්බන්ධතා ලිපිනය ඔබේ ඊමේල් යෙදුම විවෘත කරයි, නැතහොත් ලිපිනය පිටපත් කරයි. ටිප් වෙනත් දුරකථනයකින් ස්කෑන් කිරීමට කේතයක් පමණක් පෙන්වයි. එහි සිදු වන දේ මෙම යෙදුමෙන් පිටතය.</string>
+    <string name="terms_free_title">නොමිලේ සහ වගකීමක් නැතිව</string>
+    <string name="terms_free">%1$s නොමිලේ වන අතර පවතින ආකාරයෙන්ම, කිසිදු වගකීමක් නැතිව සපයනු ලැබේ. ටිප් ස්වේච්ඡාවෙන් වන අතර කිසිවක් අගුළු නොහරී.</string>
+    <string name="terms_liability_title">වගකීම</string>
+    <string name="terms_liability">නීතියෙන් ඉඩ දෙන තරමට, යෙදුම භාවිතයෙන් වන හානියට සංවර්ධකයා (%1$s, %2$s) වගකියන්නේ නැත. පාරිභෝගිකයෙකු ලෙස ඔබේ නීත්‍යනුකූල අයිතිවාසිකම්වලට මෙය බලපාන්නේ නැත.</string>
+    <string name="licenses_intro">%1$s මෙම විවෘත මූලාශ්‍ර කොටස් සමඟ සාදා ඇත:</string>
+    <string name="license_text">බලපත්‍ර පාඨය: %1$s</string>
+    <string name="tip_jar_text">%1$s ඔබට කැමතිද? %2$s හි ටිප් එකක් තැබීමට වෙනත් දුරකථනයකින් කේතය ස්කෑන් කරන්න. ටිප් ස්වේච්ඡාවෙන් වන අතර කිසිවක් අගුළු නොහරී.</string>
+</resources>

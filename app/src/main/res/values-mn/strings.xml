@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Тохиргоо</string>
+    <string name="settings_contact_tap_email">Имэйл бичихийн тулд дарна уу</string>
+    <string name="settings_contact_tap_copy">Хуулахын тулд дарна уу</string>
+    <string name="settings_vibration">Чичиргээ</string>
+    <string name="coming_soon_copied">Хаяг хуулагдлаа</string>
+    <string name="feedback_body">Сайн байна уу! Миний санал:\n\n</string>
+    <string name="settings_about">Аппын тухай</string>
+    <string name="settings_section_app">Апп</string>
+    <string name="back">Буцах</string>
+    <string name="settings_language">Хэл</string>
+    <string name="language_system_default">Системийн хэл</string>
+    <string name="language_more">Бусад хэл</string>
+    <string name="language_search">Хайх</string>
+    <string name="language_search_hint">Хэл хайх</string>
+    <string name="language_clear_search">Хайлтыг арилгах</string>
+    <string name="language_no_results">Хэл олдсонгүй</string>
+    <string name="about_title">Аппын тухай</string>
+    <string name="about_version">Хувилбар %1$s</string>
+    <string name="about_made_by">Зохиогч:</string>
+    <string name="about_privacy">Нууцлал</string>
+    <string name="about_terms">Ашиглалтын нөхцөл</string>
+    <string name="about_licenses">Нээлттэй эхийн лиценз</string>
+    <string name="about_tip_jar">Цайны мөнгө</string>
+    <string name="privacy_offline_title">Сүлжээгүй ашиглах</string>
+    <string name="privacy_offline">%1$s сүлжээгүйгээр ажиллана. Интернэтийн зөвшөөрөлгүй бөгөөд хаашаа ч холбогдохгүй.</string>
+    <string name="privacy_permissions_title">Зөвшөөрөл</string>
+    <string name="privacy_permissions">Апп ямар ч зөвшөөрөл хүсэхгүй.</string>
+    <string name="privacy_links_title">Холбоос</string>
+    <string name="privacy_links">Холбоо барих хаяг нь зөвхөн таны имэйлийн аппыг нээх эсвэл хаягийг хуулна. Цайны мөнгө нь зөвхөн өөр утсаар уншуулах код харуулна. Тэнд юу болох нь энэ аппаас гадуур юм.</string>
+    <string name="terms_free_title">Үнэгүй, баталгаагүй</string>
+    <string name="terms_free">%1$s үнэгүй бөгөөд баталгаагүйгээр байгаа чигээрээ олгогдоно. Цайны мөнгө сайн дурынх бөгөөд юуг ч нээхгүй.</string>
+    <string name="terms_liability_title">Хариуцлага</string>
+    <string name="terms_liability">Хуулиар зөвшөөрөгдсөн хэмжээнд хөгжүүлэгч (%1$s, %2$s) аппыг ашигласнаас үүдсэн хохирлыг хариуцахгүй. Энэ нь таны хэрэглэгчийн хууль ёсны эрхэд нөлөөлөхгүй.</string>
+    <string name="licenses_intro">%1$s нь эдгээр нээлттэй эхийн хэсгүүдээр бүтээгдсэн:</string>
+    <string name="license_text">Лицензийн текст: %1$s</string>
+    <string name="tip_jar_text">%1$s таалагдаж байна уу? %2$s дээр цайны мөнгө үлдээхийн тулд кодыг өөр утсаар уншуулна уу. Цайны мөнгө сайн дурынх бөгөөд юуг ч нээхгүй.</string>
+</resources>

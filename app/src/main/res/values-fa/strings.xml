@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">تنظیمات</string>
+    <string name="settings_contact_tap_email">برای نوشتن ایمیل ضربه بزنید</string>
+    <string name="settings_contact_tap_copy">برای کپی ضربه بزنید</string>
+    <string name="settings_vibration">لرزش</string>
+    <string name="coming_soon_copied">ایمیل کپی شد</string>
+    <string name="feedback_body">سلام! نظر من:\n\n</string>
+    <string name="settings_about">درباره</string>
+    <string name="settings_section_app">برنامه</string>
+    <string name="back">بازگشت</string>
+    <string name="settings_language">زبان</string>
+    <string name="language_system_default">زبان سیستم</string>
+    <string name="language_more">زبان‌های دیگر</string>
+    <string name="language_search">جستجو</string>
+    <string name="language_search_hint">جستجوی زبان</string>
+    <string name="language_clear_search">پاک کردن جستجو</string>
+    <string name="language_no_results">زبانی پیدا نشد</string>
+    <string name="about_title">درباره</string>
+    <string name="about_version">نسخه %1$s</string>
+    <string name="about_made_by">سازنده:</string>
+    <string name="about_privacy">حریم خصوصی</string>
+    <string name="about_terms">شرایط استفاده</string>
+    <string name="about_licenses">مجوزهای متن‌باز</string>
+    <string name="about_tip_jar">انعام</string>
+    <string name="privacy_offline_title">استفاده آفلاین</string>
+    <string name="privacy_offline">%1$s بدون شبکه کار می‌کند. اجازه دسترسی به اینترنت ندارد و هرگز به جایی وصل نمی‌شود.</string>
+    <string name="privacy_permissions_title">مجوزها</string>
+    <string name="privacy_permissions">برنامه هیچ مجوزی درخواست نمی‌کند.</string>
+    <string name="privacy_links_title">پیوندها</string>
+    <string name="privacy_links">نشانی تماس فقط برنامه ایمیل شما را باز می‌کند یا نشانی را کپی می‌کند. انعام فقط کدی برای اسکن با تلفن دیگر نشان می‌دهد. آنچه آنجا رخ می‌دهد خارج از این برنامه است.</string>
+    <string name="terms_free_title">رایگان و بدون ضمانت</string>
+    <string name="terms_free">%1$s رایگان است و همان‌گونه که هست، بدون ضمانت ارائه می‌شود. انعام داوطلبانه است و چیزی را باز نمی‌کند.</string>
+    <string name="terms_liability_title">مسئولیت</string>
+    <string name="terms_liability">تا جایی که قانون اجازه می‌دهد، سازنده (%1$s، %2$s) مسئول خسارت ناشی از استفاده از برنامه نیست. حقوق قانونی شما به‌عنوان مصرف‌کننده تحت تأثیر قرار نمی‌گیرد.</string>
+    <string name="licenses_intro">%1$s با این اجزای متن‌باز ساخته شده است:</string>
+    <string name="license_text">متن مجوز: %1$s</string>
+    <string name="tip_jar_text">از %1$s لذت می‌برید؟ کد را با تلفن دیگری اسکن کنید تا در %2$s انعام بدهید. انعام داوطلبانه است و چیزی را باز نمی‌کند.</string>
+</resources>

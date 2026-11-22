@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Innstillinger</string>
+    <string name="settings_contact_tap_email">Trykk for å skrive en e-post</string>
+    <string name="settings_contact_tap_copy">Trykk for å kopiere</string>
+    <string name="settings_vibration">Vibrering</string>
+    <string name="coming_soon_copied">E-post kopiert</string>
+    <string name="feedback_body">Hei! Tilbakemeldingen min:\n\n</string>
+    <string name="settings_about">Om</string>
+    <string name="settings_section_app">App</string>
+    <string name="back">Tilbake</string>
+    <string name="settings_language">Språk</string>
+    <string name="language_system_default">Systemspråk</string>
+    <string name="language_more">Flere språk</string>
+    <string name="language_search">Søk</string>
+    <string name="language_search_hint">Søk etter språk</string>
+    <string name="language_clear_search">Tøm søket</string>
+    <string name="language_no_results">Fant ingen språk</string>
+    <string name="about_title">Om</string>
+    <string name="about_version">Versjon %1$s</string>
+    <string name="about_made_by">Laget av:</string>
+    <string name="about_privacy">Personvern</string>
+    <string name="about_terms">Bruksvilkår</string>
+    <string name="about_licenses">Lisenser for åpen kildekode</string>
+    <string name="about_tip_jar">Tips</string>
+    <string name="privacy_offline_title">Bruk uten nett</string>
+    <string name="privacy_offline">%1$s fungerer uten nettverk. Appen har ingen internettillatelse og kobler seg aldri til noe.</string>
+    <string name="privacy_permissions_title">Tillatelser</string>
+    <string name="privacy_permissions">Appen ber ikke om noen tillatelser.</string>
+    <string name="privacy_links_title">Lenker</string>
+    <string name="privacy_links">Kontaktadressen åpner bare e-postappen din eller kopierer adressen. Tips viser bare en kode som skannes med en annen telefon. Det som skjer der, er utenfor denne appen.</string>
+    <string name="terms_free_title">Gratis og uten garanti</string>
+    <string name="terms_free">%1$s er gratis og leveres som den er, uten garanti. Tips er frivillig og låser ikke opp noe.</string>
+    <string name="terms_liability_title">Ansvar</string>
+    <string name="terms_liability">I den grad loven tillater det, er utvikleren (%1$s, %2$s) ikke ansvarlig for skade som følge av bruk av appen. Dine lovfestede forbrukerrettigheter påvirkes ikke.</string>
+    <string name="licenses_intro">%1$s er laget med disse delene med åpen kildekode:</string>
+    <string name="license_text">Lisenstekst: %1$s</string>
+    <string name="tip_jar_text">Liker du %1$s? Skann koden med en annen telefon for å gi tips på %2$s. Tips er frivillig og låser ikke opp noe.</string>
+</resources>

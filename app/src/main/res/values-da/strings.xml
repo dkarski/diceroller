@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Indstillinger</string>
+    <string name="settings_contact_tap_email">Tryk for at skrive en e-mail</string>
+    <string name="settings_contact_tap_copy">Tryk for at kopiere</string>
+    <string name="settings_vibration">Vibration</string>
+    <string name="coming_soon_copied">E-mail kopieret</string>
+    <string name="feedback_body">Hej! Min feedback:\n\n</string>
+    <string name="settings_about">Om</string>
+    <string name="settings_section_app">App</string>
+    <string name="back">Tilbage</string>
+    <string name="settings_language">Sprog</string>
+    <string name="language_system_default">Systemets sprog</string>
+    <string name="language_more">Flere sprog</string>
+    <string name="language_search">Søg</string>
+    <string name="language_search_hint">Søg efter sprog</string>
+    <string name="language_clear_search">Ryd søgning</string>
+    <string name="language_no_results">Ingen sprog fundet</string>
+    <string name="about_title">Om</string>
+    <string name="about_version">Version %1$s</string>
+    <string name="about_made_by">Lavet af:</string>
+    <string name="about_privacy">Privatliv</string>
+    <string name="about_terms">Vilkår for brug</string>
+    <string name="about_licenses">Open source-licenser</string>
+    <string name="about_tip_jar">Drikkepenge</string>
+    <string name="privacy_offline_title">Offlinebrug</string>
+    <string name="privacy_offline">%1$s virker uden netværk. Appen har ingen internettilladelse og forbinder sig aldrig til noget.</string>
+    <string name="privacy_permissions_title">Tilladelser</string>
+    <string name="privacy_permissions">Appen beder ikke om nogen tilladelser.</string>
+    <string name="privacy_links_title">Links</string>
+    <string name="privacy_links">Kontaktadressen åbner kun din e-mailapp eller kopierer adressen. Drikkepenge viser kun en kode, der scannes med en anden telefon. Det, der sker dér, ligger uden for denne app.</string>
+    <string name="terms_free_title">Gratis og uden garanti</string>
+    <string name="terms_free">%1$s er gratis og leveres, som den er, uden garanti. Drikkepenge er frivillige og låser ikke noget op.</string>
+    <string name="terms_liability_title">Ansvar</string>
+    <string name="terms_liability">I det omfang loven tillader det, er udvikleren (%1$s, %2$s) ikke ansvarlig for skader som følge af brugen af appen. Dine lovbestemte forbrugerrettigheder påvirkes ikke.</string>
+    <string name="licenses_intro">%1$s er lavet med disse open source-dele:</string>
+    <string name="license_text">Licenstekst: %1$s</string>
+    <string name="tip_jar_text">Kan du lide %1$s? Scan koden med en anden telefon for at give drikkepenge på %2$s. Drikkepenge er frivillige og låser ikke noget op.</string>
+</resources>
