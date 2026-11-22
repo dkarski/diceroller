@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s ਇਨ੍ਹਾਂ ਓਪਨ ਸੋਰਸ ਹਿੱਸਿਆਂ ਨਾਲ ਬਣੀ ਹੈ:</string>
     <string name="license_text">ਲਾਇਸੰਸ ਦਾ ਪਾਠ: %1$s</string>
     <string name="tip_jar_text">%1$s ਪਸੰਦ ਆਈ? %2$s \'ਤੇ ਟਿੱਪ ਦੇਣ ਲਈ ਦੂਜੇ ਫ਼ੋਨ ਨਾਲ ਕੋਡ ਸਕੈਨ ਕਰੋ। ਟਿੱਪ ਆਪਣੀ ਮਰਜ਼ੀ ਨਾਲ ਹੈ ਅਤੇ ਕੁਝ ਵੀ ਅਨਲੌਕ ਨਹੀਂ ਕਰਦੀ।</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">ਸੁੱਟਾਂ ਜੋੜੋ</string>
+    <string name="roll_die">%1$s ਸੁੱਟੋ</string>
+    <string name="roll_custom">ਆਪਣਾ D%1$d ਸੁੱਟੋ</string>
+    <string name="edit_custom">ਆਪਣੀ ਰੇਂਜ ਬਦਲੋ, ਹੁਣ D%1$d</string>
+    <string name="custom_label">ਆਪਣਾ</string>
+    <string name="coin_label">ਸਿੱਕਾ</string>
+    <string name="flip_coin">ਸਿੱਕਾ ਉਛਾਲੋ</string>
+    <string name="roll_label">ਸੁੱਟੋ</string>
+    <string name="coin_heads">ਚਿੱਤ</string>
+    <string name="coin_tails">ਪੱਟ</string>
+    <string name="reroll_set">ਫਿਰ</string>
+    <string name="combine_done">ਹੋ ਗਿਆ</string>
+    <string name="coin_as_numbers">ਸਿੱਕਾ ਅੰਕਾਂ ਵਿੱਚ</string>
+    <string name="keep_screen_on">ਸਕ੍ਰੀਨ ਹਮੇਸ਼ਾਂ ਚਾਲੂ</string>
+    <string name="dark_theme">ਗੂੜ੍ਹਾ ਥੀਮ</string>
+    <string name="custom_dialog_title">ਆਪਣਾ ਪਾਸਾ</string>
+    <string name="custom_sides_label">ਪਾਸੇ</string>
+    <string name="custom_invalid">2 ਤੋਂ 9999 ਤੱਕ ਪੂਰੀ ਸੰਖਿਆ ਦਾਖ਼ਲ ਕਰੋ।</string>
+    <string name="custom_range_hint">1 ਤੋਂ ਇਸ ਸੰਖਿਆ ਤੱਕ ਸੁੱਟਦਾ ਹੈ।</string>
+    <string name="save_custom">ਸੰਭਾਲੋ</string>
+    <string name="total_description">ਕੁੱਲ: %1$d</string>
+    <string name="result_description">%1$s ਨਤੀਜਾ: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d ਪਾਸਾ</item>
+        <item quantity="other">%1$d ਪਾਸੇ</item>
+    </plurals>
+    <string name="privacy_data_title">ਤੁਹਾਡਾ ਡਾਟਾ</string>
+    <string name="privacy_data">ਸੈਟਿੰਗਾਂ ਸਿਰਫ਼ ਇਸੇ ਫ਼ੋਨ ਵਿੱਚ ਸੰਭਾਲੀਆਂ ਜਾਂਦੀਆਂ ਹਨ ਅਤੇ ਐਪ ਹਟਾਉਣ \'ਤੇ ਮਿਟ ਜਾਂਦੀਆਂ ਹਨ। ਕੁਝ ਵੀ ਇਕੱਠਾ, ਭੇਜਿਆ ਜਾਂ ਕਿਸੇ ਨਾਲ ਸਾਂਝਾ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ। ਸੁੱਟਾਂ ਸੰਭਾਲੀਆਂ ਨਹੀਂ ਜਾਂਦੀਆਂ।</string>
+    <string name="about_legal">ਕਾਨੂੰਨੀ ਜਾਣਕਾਰੀ</string>
+    <string name="legal_notes">%1$s ਇੱਕ ਸੁਤੰਤਰ ਐਪ ਹੈ। ਇਸ ਵਿੱਚ ਕਿਸੇ ਤੀਜੀ ਧਿਰ ਦੇ ਟ੍ਰੇਡਮਾਰਕ ਨਹੀਂ ਹਨ।</string>
 </resources>

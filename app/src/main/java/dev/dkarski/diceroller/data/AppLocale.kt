@@ -14,13 +14,14 @@ import java.util.Locale
  * Only the active language's strings are ever read; nothing else is loaded.
  */
 object AppLocale {
-    /**
-     * Called from Activity.attachBaseContext. DiceRoller 1.0 is English-only (docs/CONTINUATION.md): the inherited
-     * starter translations would otherwise mix with the English-only dice labels. The language picker and the
-     * translation folders stay in the code base for a future full localization.
-     */
+    /** Called from Activity.attachBaseContext. Returns [base] unchanged when the app follows the system language. */
     fun wrap(base: Context): Context {
-        val locale = Locale.ENGLISH
+        val language = AppLanguages.find(SettingsStore(base).languageTag)
+        if (language == null) {
+            Locale.setDefault(systemLocale())
+            return base
+        }
+        val locale = language.locale
         Locale.setDefault(locale)
         val config = Configuration(base.resources.configuration).apply { setLocale(locale) } // also sets layout direction
         return base.createConfigurationContext(config)

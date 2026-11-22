@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s ഈ ഓപ്പൺ സോഴ്സ് ഭാഗങ്ങൾ ഉപയോഗിച്ച് നിർമ്മിച്ചതാണ്:</string>
     <string name="license_text">ലൈസൻസ് വാചകം: %1$s</string>
     <string name="tip_jar_text">%1$s ഇഷ്ടമായോ? %2$s-യിൽ ടിപ്പ് നൽകാൻ മറ്റൊരു ഫോൺ കൊണ്ട് കോഡ് സ്കാൻ ചെയ്യുക. ടിപ്പ് സ്വമേധയാ ഉള്ളതാണ്, ഒന്നും അൺലോക്ക് ചെയ്യുന്നില്ല.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">എറിയലുകൾ കൂട്ടുക</string>
+    <string name="roll_die">%1$s എറിയുക</string>
+    <string name="roll_custom">സ്വന്തം D%1$d എറിയുക</string>
+    <string name="edit_custom">സ്വന്തം പരിധി മാറ്റുക, ഇപ്പോൾ D%1$d</string>
+    <string name="custom_label">സ്വന്തം</string>
+    <string name="coin_label">നാണയം</string>
+    <string name="flip_coin">നാണയം എറിയുക</string>
+    <string name="roll_label">എറിയുക</string>
+    <string name="coin_heads">തല</string>
+    <string name="coin_tails">വാൽ</string>
+    <string name="reroll_set">വീണ്ടും</string>
+    <string name="combine_done">പൂർത്തിയായി</string>
+    <string name="coin_as_numbers">നാണയം അക്കങ്ങളായി</string>
+    <string name="keep_screen_on">സ്ക്രീൻ എപ്പോഴും ഓൺ</string>
+    <string name="dark_theme">ഡാർക്ക് തീം</string>
+    <string name="custom_dialog_title">സ്വന്തം ഡൈസ്</string>
+    <string name="custom_sides_label">വശങ്ങൾ</string>
+    <string name="custom_invalid">2 മുതൽ 9999 വരെയുള്ള ഒരു പൂർണ്ണസംഖ്യ നൽകുക.</string>
+    <string name="custom_range_hint">1 മുതൽ ഈ സംഖ്യ വരെ എറിയുന്നു.</string>
+    <string name="save_custom">സംരക്ഷിക്കുക</string>
+    <string name="total_description">ആകെ: %1$d</string>
+    <string name="result_description">%1$s ഫലം: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d ഡൈസ്</item>
+        <item quantity="other">%1$d ഡൈസുകൾ</item>
+    </plurals>
+    <string name="privacy_data_title">നിങ്ങളുടെ ഡാറ്റ</string>
+    <string name="privacy_data">ക്രമീകരണങ്ങൾ ഈ ഫോണിൽ മാത്രം സൂക്ഷിക്കുന്നു, ആപ്പ് നീക്കം ചെയ്യുമ്പോൾ മായുന്നു. ഒന്നും ശേഖരിക്കുകയോ അയയ്ക്കുകയോ മറ്റുള്ളവരുമായി പങ്കിടുകയോ ചെയ്യുന്നില്ല. എറിയലുകൾ സംരക്ഷിക്കുന്നില്ല.</string>
+    <string name="about_legal">നിയമപരമായ വിവരം</string>
+    <string name="legal_notes">%1$s ഒരു സ്വതന്ത്ര ആപ്പാണ്. മൂന്നാം കക്ഷികളുടെ ട്രേഡ്‌മാർക്കുകൾ ഇതിലില്ല.</string>
 </resources>

@@ -36,4 +36,36 @@
     <string name="licenses_intro">%1$s este realizată cu aceste componente open source:</string>
     <string name="license_text">Textul licenței: %1$s</string>
     <string name="tip_jar_text">Vă place %1$s? Scanați codul cu alt telefon pentru a lăsa un bacșiș pe %2$s. Bacșișurile sunt voluntare și nu deblochează nimic.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Adună aruncările</string>
+    <string name="roll_die">Aruncă %1$s</string>
+    <string name="roll_custom">Aruncă zarul propriu D%1$d</string>
+    <string name="edit_custom">Schimbă intervalul propriu, acum D%1$d</string>
+    <string name="custom_label">Propriu</string>
+    <string name="coin_label">Monedă</string>
+    <string name="flip_coin">Aruncă moneda</string>
+    <string name="roll_label">Aruncă</string>
+    <string name="coin_heads">Cap</string>
+    <string name="coin_tails">Pajură</string>
+    <string name="reroll_set">Din nou</string>
+    <string name="combine_done">Gata</string>
+    <string name="coin_as_numbers">Moneda ca numere</string>
+    <string name="keep_screen_on">Ecran mereu pornit</string>
+    <string name="dark_theme">Temă întunecată</string>
+    <string name="custom_dialog_title">Zar propriu</string>
+    <string name="custom_sides_label">Fețe</string>
+    <string name="custom_invalid">Introduceți un număr întreg de la 2 la 9999.</string>
+    <string name="custom_range_hint">Aruncă de la 1 la acest număr.</string>
+    <string name="save_custom">Salvează</string>
+    <string name="total_description">Total: %1$d</string>
+    <string name="result_description">%1$s, rezultat: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d zar</item>
+        <item quantity="few">%1$d zaruri</item>
+        <item quantity="other">%1$d de zaruri</item>
+    </plurals>
+    <string name="privacy_data_title">Datele dvs.</string>
+    <string name="privacy_data">Setările sunt salvate doar pe acest telefon și sunt șterse când dezinstalați aplicația. Nimic nu este colectat, trimis sau partajat cu terți. Aruncările nu sunt salvate.</string>
+    <string name="about_legal">Mențiuni legale</string>
+    <string name="legal_notes">%1$s este o aplicație independentă. Nu conține mărci comerciale ale terților.</string>
 </resources>

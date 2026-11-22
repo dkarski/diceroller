@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s ان اوپن سورس حصوں سے بنی ہے:</string>
     <string name="license_text">لائسنس کا متن: %1$s</string>
     <string name="tip_jar_text">%1$s پسند آئی؟ %2$s پر ٹپ دینے کے لیے کوڈ کو دوسرے فون سے اسکین کریں۔ ٹپ اختیاری ہے اور کچھ بھی ان لاک نہیں کرتی۔</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">تھرو جمع کریں</string>
+    <string name="roll_die">%1$s پھینکیں</string>
+    <string name="roll_custom">اپنا D%1$d پھینکیں</string>
+    <string name="edit_custom">اپنی حد بدلیں، ابھی D%1$d</string>
+    <string name="custom_label">اپنا</string>
+    <string name="coin_label">سکہ</string>
+    <string name="flip_coin">سکہ اچھالیں</string>
+    <string name="roll_label">پھینکیں</string>
+    <string name="coin_heads">چت</string>
+    <string name="coin_tails">پٹ</string>
+    <string name="reroll_set">دوبارہ</string>
+    <string name="combine_done">ہو گیا</string>
+    <string name="coin_as_numbers">سکہ عدد کے طور پر</string>
+    <string name="keep_screen_on">اسکرین ہمیشہ آن</string>
+    <string name="dark_theme">ڈارک تھیم</string>
+    <string name="custom_dialog_title">اپنا پانسہ</string>
+    <string name="custom_sides_label">رخ</string>
+    <string name="custom_invalid">2 سے 9999 تک کوئی مکمل عدد درج کریں۔</string>
+    <string name="custom_range_hint">1 سے اس عدد تک پھینکتا ہے۔</string>
+    <string name="save_custom">محفوظ کریں</string>
+    <string name="total_description">کل: %1$d</string>
+    <string name="result_description">%1$s کا نتیجہ: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d پانسہ</item>
+        <item quantity="other">%1$d پانسے</item>
+    </plurals>
+    <string name="privacy_data_title">آپ کا ڈیٹا</string>
+    <string name="privacy_data">ترتیبات صرف اسی فون میں محفوظ ہوتی ہیں اور ایپ ہٹانے پر مٹ جاتی ہیں۔ کچھ بھی جمع، بھیجا یا کسی اور کے ساتھ شیئر نہیں کیا جاتا۔ تھرو محفوظ نہیں کیے جاتے۔</string>
+    <string name="about_legal">قانونی نوٹس</string>
+    <string name="legal_notes">%1$s ایک آزاد ایپ ہے۔ اس میں کسی تیسرے فریق کے ٹریڈ مارک شامل نہیں۔</string>
 </resources>

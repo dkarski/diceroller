@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s මෙම විවෘත මූලාශ්‍ර කොටස් සමඟ සාදා ඇත:</string>
     <string name="license_text">බලපත්‍ර පාඨය: %1$s</string>
     <string name="tip_jar_text">%1$s ඔබට කැමතිද? %2$s හි ටිප් එකක් තැබීමට වෙනත් දුරකථනයකින් කේතය ස්කෑන් කරන්න. ටිප් ස්වේච්ඡාවෙන් වන අතර කිසිවක් අගුළු නොහරී.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">විසි කිරීම් එකතු කරන්න</string>
+    <string name="roll_die">%1$s විසි කරන්න</string>
+    <string name="roll_custom">ස්වකීය D%1$d විසි කරන්න</string>
+    <string name="edit_custom">ස්වකීය පරාසය වෙනස් කරන්න, දැන් D%1$d</string>
+    <string name="custom_label">ස්වකීය</string>
+    <string name="coin_label">කාසිය</string>
+    <string name="flip_coin">කාසිය උඩ දමන්න</string>
+    <string name="roll_label">විසි කරන්න</string>
+    <string name="coin_heads">හිස</string>
+    <string name="coin_tails">පිට</string>
+    <string name="reroll_set">නැවත</string>
+    <string name="combine_done">අවසන්</string>
+    <string name="coin_as_numbers">කාසිය අංක ලෙස</string>
+    <string name="keep_screen_on">තිරය සැමවිට ක්‍රියාත්මක</string>
+    <string name="dark_theme">අඳුරු තේමාව</string>
+    <string name="custom_dialog_title">ස්වකීය දාදු කැටය</string>
+    <string name="custom_sides_label">පැති</string>
+    <string name="custom_invalid">2 සිට 9999 දක්වා පූර්ණ සංඛ්‍යාවක් ඇතුළු කරන්න.</string>
+    <string name="custom_range_hint">1 සිට මෙම අංකය දක්වා විසි කරයි.</string>
+    <string name="save_custom">සුරකින්න</string>
+    <string name="total_description">එකතුව: %1$d</string>
+    <string name="result_description">%1$s ප්‍රතිඵලය: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">දාදු කැට %1$d</item>
+        <item quantity="other">දාදු කැට %1$d</item>
+    </plurals>
+    <string name="privacy_data_title">ඔබේ දත්ත</string>
+    <string name="privacy_data">සැකසීම් මෙම දුරකථනයේ පමණක් සුරැකෙන අතර යෙදුම ඉවත් කළ විට මැකේ. කිසිවක් එකතු කිරීම, යැවීම හෝ අන් අය සමඟ බෙදා ගැනීම සිදු නොවේ. විසි කිරීම් සුරැකෙන්නේ නැත.</string>
+    <string name="about_legal">නීතිමය තොරතුරු</string>
+    <string name="legal_notes">%1$s ස්වාධීන යෙදුමකි. තෙවන පාර්ශ්ව වෙළඳ ලකුණු එහි නැත.</string>
 </resources>

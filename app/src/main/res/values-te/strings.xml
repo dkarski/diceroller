@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s ఈ ఓపెన్ సోర్స్ భాగాలతో రూపొందింది:</string>
     <string name="license_text">లైసెన్స్ పాఠం: %1$s</string>
     <string name="tip_jar_text">%1$s నచ్చిందా? %2$sలో టిప్ ఇవ్వడానికి వేరే ఫోన్‌తో కోడ్‌ను స్కాన్ చేయండి. టిప్‌లు స్వచ్ఛందం, ఏదీ అన్‌లాక్ చేయవు.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">విసరడాలను కూడండి</string>
+    <string name="roll_die">%1$s విసరండి</string>
+    <string name="roll_custom">సొంత D%1$d విసరండి</string>
+    <string name="edit_custom">సొంత పరిధిని మార్చండి, ఇప్పుడు D%1$d</string>
+    <string name="custom_label">సొంతం</string>
+    <string name="coin_label">నాణెం</string>
+    <string name="flip_coin">నాణెం ఎగరేయండి</string>
+    <string name="roll_label">విసరు</string>
+    <string name="coin_heads">బొమ్మ</string>
+    <string name="coin_tails">బొరుసు</string>
+    <string name="reroll_set">మళ్లీ</string>
+    <string name="combine_done">పూర్తయింది</string>
+    <string name="coin_as_numbers">నాణెం సంఖ్యలుగా</string>
+    <string name="keep_screen_on">స్క్రీన్ ఎల్లప్పుడూ ఆన్</string>
+    <string name="dark_theme">డార్క్ థీమ్</string>
+    <string name="custom_dialog_title">సొంత పాచిక</string>
+    <string name="custom_sides_label">ముఖాలు</string>
+    <string name="custom_invalid">2 నుండి 9999 వరకు పూర్ణ సంఖ్యను నమోదు చేయండి.</string>
+    <string name="custom_range_hint">1 నుండి ఈ సంఖ్య వరకు విసురుతుంది.</string>
+    <string name="save_custom">సేవ్ చేయండి</string>
+    <string name="total_description">మొత్తం: %1$d</string>
+    <string name="result_description">%1$s ఫలితం: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d పాచిక</item>
+        <item quantity="other">%1$d పాచికలు</item>
+    </plurals>
+    <string name="privacy_data_title">మీ డేటా</string>
+    <string name="privacy_data">సెట్టింగ్‌లు ఈ ఫోన్‌లో మాత్రమే సేవ్ అవుతాయి, యాప్‌ను తీసివేసినప్పుడు తొలగిపోతాయి. ఏదీ సేకరించబడదు, పంపబడదు లేదా ఇతరులతో షేర్ చేయబడదు. విసరడాలు సేవ్ చేయబడవు.</string>
+    <string name="about_legal">చట్టపరమైన సమాచారం</string>
+    <string name="legal_notes">%1$s ఒక స్వతంత్ర యాప్. ఇందులో మూడవ పక్ష ట్రేడ్‌మార్క్‌లు లేవు.</string>
 </resources>

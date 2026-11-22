@@ -36,4 +36,37 @@
     <string name="licenses_intro">%1$s využívá tyto části open source:</string>
     <string name="license_text">Text licence: %1$s</string>
     <string name="tip_jar_text">Líbí se vám %1$s? Naskenujte kód jiným telefonem a nechte spropitné na %2$s. Spropitné je dobrovolné a nic neodemyká.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Sčítat hody</string>
+    <string name="roll_die">Hodit %1$s</string>
+    <string name="roll_custom">Hodit vlastní D%1$d</string>
+    <string name="edit_custom">Změnit vlastní rozsah, nyní D%1$d</string>
+    <string name="custom_label">Vlastní</string>
+    <string name="coin_label">Mince</string>
+    <string name="flip_coin">Hodit mincí</string>
+    <string name="roll_label">Hodit</string>
+    <string name="coin_heads">Panna</string>
+    <string name="coin_tails">Orel</string>
+    <string name="reroll_set">Znovu</string>
+    <string name="combine_done">Hotovo</string>
+    <string name="coin_as_numbers">Mince jako čísla</string>
+    <string name="keep_screen_on">Obrazovka stále zapnutá</string>
+    <string name="dark_theme">Tmavý motiv</string>
+    <string name="custom_dialog_title">Vlastní kostka</string>
+    <string name="custom_sides_label">Stěny</string>
+    <string name="custom_invalid">Zadejte celé číslo od 2 do 9999.</string>
+    <string name="custom_range_hint">Hází od 1 do tohoto čísla.</string>
+    <string name="save_custom">Uložit</string>
+    <string name="total_description">Celkem: %1$d</string>
+    <string name="result_description">%1$s, výsledek: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d kostka</item>
+        <item quantity="few">%1$d kostky</item>
+        <item quantity="many">%1$d kostky</item>
+        <item quantity="other">%1$d kostek</item>
+    </plurals>
+    <string name="privacy_data_title">Vaše data</string>
+    <string name="privacy_data">Nastavení jsou uložena pouze v tomto telefonu a po odinstalování aplikace se smažou. Nic se neshromažďuje, neodesílá ani nesdílí s třetími stranami. Hody se neukládají.</string>
+    <string name="about_legal">Právní informace</string>
+    <string name="legal_notes">%1$s je nezávislá aplikace. Neobsahuje ochranné známky třetích stran.</string>
 </resources>

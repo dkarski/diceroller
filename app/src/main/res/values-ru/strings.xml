@@ -36,4 +36,37 @@
     <string name="licenses_intro">%1$s создано с использованием этих компонентов открытого ПО:</string>
     <string name="license_text">Текст лицензии: %1$s</string>
     <string name="tip_jar_text">Нравится %1$s? Отсканируйте код другим телефоном, чтобы оставить чаевые на %2$s. Чаевые добровольны и ничего не открывают.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Суммировать броски</string>
+    <string name="roll_die">Бросить %1$s</string>
+    <string name="roll_custom">Бросить свой D%1$d</string>
+    <string name="edit_custom">Изменить свой диапазон, сейчас D%1$d</string>
+    <string name="custom_label">Свой</string>
+    <string name="coin_label">Монета</string>
+    <string name="flip_coin">Подбросить монету</string>
+    <string name="roll_label">Бросить</string>
+    <string name="coin_heads">Орёл</string>
+    <string name="coin_tails">Решка</string>
+    <string name="reroll_set">Ещё раз</string>
+    <string name="combine_done">Готово</string>
+    <string name="coin_as_numbers">Монета как числа</string>
+    <string name="keep_screen_on">Экран всегда включён</string>
+    <string name="dark_theme">Тёмная тема</string>
+    <string name="custom_dialog_title">Свой кубик</string>
+    <string name="custom_sides_label">Грани</string>
+    <string name="custom_invalid">Введите целое число от 2 до 9999.</string>
+    <string name="custom_range_hint">Бросок от 1 до этого числа.</string>
+    <string name="save_custom">Сохранить</string>
+    <string name="total_description">Сумма: %1$d</string>
+    <string name="result_description">%1$s, результат: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d кубик</item>
+        <item quantity="few">%1$d кубика</item>
+        <item quantity="many">%1$d кубиков</item>
+        <item quantity="other">%1$d кубика</item>
+    </plurals>
+    <string name="privacy_data_title">Ваши данные</string>
+    <string name="privacy_data">Настройки хранятся только на этом телефоне и удаляются вместе с приложением. Ничего не собирается, не отправляется и не передаётся третьим лицам. Броски не сохраняются.</string>
+    <string name="about_legal">Правовая информация</string>
+    <string name="legal_notes">%1$s — независимое приложение. Оно не содержит товарных знаков третьих лиц.</string>
 </resources>

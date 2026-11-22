@@ -36,4 +36,37 @@
     <string name="licenses_intro">%1$s sukurta naudojant šias atvirojo kodo dalis:</string>
     <string name="license_text">Licencijos tekstas: %1$s</string>
     <string name="tip_jar_text">Patinka %1$s? Nuskaitykite kodą kitu telefonu ir palikite arbatpinigių %2$s. Arbatpinigiai yra savanoriški ir nieko neatrakina.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Sudėti metimus</string>
+    <string name="roll_die">Mesti %1$s</string>
+    <string name="roll_custom">Mesti savo D%1$d</string>
+    <string name="edit_custom">Keisti savo intervalą, dabar D%1$d</string>
+    <string name="custom_label">Savas</string>
+    <string name="coin_label">Moneta</string>
+    <string name="flip_coin">Mesti monetą</string>
+    <string name="roll_label">Mesti</string>
+    <string name="coin_heads">Herbas</string>
+    <string name="coin_tails">Skaičius</string>
+    <string name="reroll_set">Iš naujo</string>
+    <string name="combine_done">Atlikta</string>
+    <string name="coin_as_numbers">Moneta skaičiais</string>
+    <string name="keep_screen_on">Ekranas visada įjungtas</string>
+    <string name="dark_theme">Tamsi tema</string>
+    <string name="custom_dialog_title">Savas kauliukas</string>
+    <string name="custom_sides_label">Sienelės</string>
+    <string name="custom_invalid">Įveskite sveikąjį skaičių nuo 2 iki 9999.</string>
+    <string name="custom_range_hint">Meta nuo 1 iki šio skaičiaus.</string>
+    <string name="save_custom">Išsaugoti</string>
+    <string name="total_description">Iš viso: %1$d</string>
+    <string name="result_description">%1$s, rezultatas: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d kauliukas</item>
+        <item quantity="few">%1$d kauliukai</item>
+        <item quantity="many">%1$d kauliuko</item>
+        <item quantity="other">%1$d kauliukų</item>
+    </plurals>
+    <string name="privacy_data_title">Jūsų duomenys</string>
+    <string name="privacy_data">Nustatymai saugomi tik šiame telefone ir ištrinami pašalinus programėlę. Niekas nerenkama, nesiunčiama ir nebendrinama su trečiosiomis šalimis. Metimai neišsaugomi.</string>
+    <string name="about_legal">Teisinė informacija</string>
+    <string name="legal_notes">%1$s yra nepriklausoma programėlė. Joje nėra trečiųjų šalių prekių ženklų.</string>
 </resources>

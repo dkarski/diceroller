@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s यी खुला स्रोत भागहरूबाट बनेको हो:</string>
     <string name="license_text">इजाजतपत्रको पाठ: %1$s</string>
     <string name="tip_jar_text">%1$s मन पर्‍यो? %2$s मा टिप दिन अर्को फोनबाट कोड स्क्यान गर्नुहोस्। टिप स्वैच्छिक हो र केही पनि अनलक गर्दैन।</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">फ्याँकहरू जोड्नुहोस्</string>
+    <string name="roll_die">%1$s फ्याँक्नुहोस्</string>
+    <string name="roll_custom">आफ्नै D%1$d फ्याँक्नुहोस्</string>
+    <string name="edit_custom">आफ्नै दायरा बदल्नुहोस्, अहिले D%1$d</string>
+    <string name="custom_label">आफ्नै</string>
+    <string name="coin_label">सिक्का</string>
+    <string name="flip_coin">सिक्का उछाल्नुहोस्</string>
+    <string name="roll_label">फ्याँक</string>
+    <string name="coin_heads">टाउको</string>
+    <string name="coin_tails">पुच्छर</string>
+    <string name="reroll_set">फेरि</string>
+    <string name="combine_done">भयो</string>
+    <string name="coin_as_numbers">सिक्का अङ्कमा</string>
+    <string name="keep_screen_on">स्क्रिन सधैँ खुला</string>
+    <string name="dark_theme">डार्क थिम</string>
+    <string name="custom_dialog_title">आफ्नै पासा</string>
+    <string name="custom_sides_label">पाटाहरू</string>
+    <string name="custom_invalid">2 देखि 9999 सम्मको पूर्ण सङ्ख्या लेख्नुहोस्।</string>
+    <string name="custom_range_hint">1 देखि यो सङ्ख्यासम्म फ्याँक्छ।</string>
+    <string name="save_custom">सेभ गर्नुहोस्</string>
+    <string name="total_description">जम्मा: %1$d</string>
+    <string name="result_description">%1$s नतिजा: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d पासा</item>
+        <item quantity="other">%1$d पासा</item>
+    </plurals>
+    <string name="privacy_data_title">तपाईंको डेटा</string>
+    <string name="privacy_data">सेटिङहरू यही फोनमा मात्र सुरक्षित हुन्छन् र एप हटाउँदा मेटिन्छन्। केही पनि सङ्कलन, पठाइँदैन वा अरूसँग साझा गरिँदैन। फ्याँकहरू सेभ हुँदैनन्।</string>
+    <string name="about_legal">कानुनी जानकारी</string>
+    <string name="legal_notes">%1$s एउटा स्वतन्त्र एप हो। यसमा तेस्रो पक्षका ट्रेडमार्कहरू छैनन्।</string>
 </resources>

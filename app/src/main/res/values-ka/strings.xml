@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s შექმნილია ღია კოდის ამ ნაწილებით:</string>
     <string name="license_text">ლიცენზიის ტექსტი: %1$s</string>
     <string name="tip_jar_text">მოგწონთ %1$s? დაასკანერეთ კოდი სხვა ტელეფონით და დატოვეთ ჩაის ფული %2$s-ზე. ჩაის ფული ნებაყოფლობითია და არაფერს ხსნის.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">გაგორებების შეჯამება</string>
+    <string name="roll_die">გააგორე %1$s</string>
+    <string name="roll_custom">გააგორე საკუთარი D%1$d</string>
+    <string name="edit_custom">საკუთარი დიაპაზონის შეცვლა, ახლა D%1$d</string>
+    <string name="custom_label">საკუთარი</string>
+    <string name="coin_label">მონეტა</string>
+    <string name="flip_coin">მონეტის აგდება</string>
+    <string name="roll_label">გაგორება</string>
+    <string name="coin_heads">ბორჯღალო</string>
+    <string name="coin_tails">საფასური</string>
+    <string name="reroll_set">თავიდან</string>
+    <string name="combine_done">მზადაა</string>
+    <string name="coin_as_numbers">მონეტა რიცხვებით</string>
+    <string name="keep_screen_on">ეკრანი ყოველთვის ჩართული</string>
+    <string name="dark_theme">მუქი თემა</string>
+    <string name="custom_dialog_title">საკუთარი კამათელი</string>
+    <string name="custom_sides_label">წახნაგები</string>
+    <string name="custom_invalid">შეიყვანეთ მთელი რიცხვი 2-დან 9999-მდე.</string>
+    <string name="custom_range_hint">აგორებს 1-დან ამ რიცხვამდე.</string>
+    <string name="save_custom">შენახვა</string>
+    <string name="total_description">ჯამი: %1$d</string>
+    <string name="result_description">%1$s, შედეგი: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d კამათელი</item>
+        <item quantity="other">%1$d კამათელი</item>
+    </plurals>
+    <string name="privacy_data_title">თქვენი მონაცემები</string>
+    <string name="privacy_data">პარამეტრები ინახება მხოლოდ ამ ტელეფონზე და იშლება აპის წაშლისას. არაფერი გროვდება, იგზავნება ან ეზიარება მესამე პირებს. გაგორებები არ ინახება.</string>
+    <string name="about_legal">იურიდიული ინფორმაცია</string>
+    <string name="legal_notes">%1$s დამოუკიდებელი აპია. ის არ შეიცავს მესამე პირების სავაჭრო ნიშნებს.</string>
 </resources>

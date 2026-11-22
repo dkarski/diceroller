@@ -36,4 +36,34 @@
     <string name="licenses_intro">%1$s は次のオープンソースコンポーネントを使用しています：</string>
     <string name="license_text">ライセンス全文：%1$s</string>
     <string name="tip_jar_text">%1$s を気に入りましたか？別のスマートフォンでコードを読み取ると、%2$s でチップを送れます。チップは任意で、何も解除されません。</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">合計する</string>
+    <string name="roll_die">%1$s を振る</string>
+    <string name="roll_custom">カスタム D%1$d を振る</string>
+    <string name="edit_custom">カスタム範囲を変更（現在 D%1$d）</string>
+    <string name="custom_label">カスタム</string>
+    <string name="coin_label">コイン</string>
+    <string name="flip_coin">コインを投げる</string>
+    <string name="roll_label">振る</string>
+    <string name="coin_heads">表</string>
+    <string name="coin_tails">裏</string>
+    <string name="reroll_set">振り直す</string>
+    <string name="combine_done">完了</string>
+    <string name="coin_as_numbers">コインを数字で表示</string>
+    <string name="keep_screen_on">画面を常にオン</string>
+    <string name="dark_theme">ダークテーマ</string>
+    <string name="custom_dialog_title">カスタムダイス</string>
+    <string name="custom_sides_label">面の数</string>
+    <string name="custom_invalid">2〜9999 の整数を入力してください。</string>
+    <string name="custom_range_hint">1 からこの数までを振ります。</string>
+    <string name="save_custom">保存</string>
+    <string name="total_description">合計：%1$d</string>
+    <string name="result_description">%1$s の結果：%2$s</string>
+    <plurals name="dice_count">
+        <item quantity="other">ダイス %1$d 個</item>
+    </plurals>
+    <string name="privacy_data_title">あなたのデータ</string>
+    <string name="privacy_data">設定はこのスマートフォンにのみ保存され、アプリをアンインストールすると削除されます。収集、送信、第三者との共有は一切ありません。出目は保存されません。</string>
+    <string name="about_legal">法的情報</string>
+    <string name="legal_notes">%1$s は独立したアプリです。第三者の商標は含みません。</string>
 </resources>

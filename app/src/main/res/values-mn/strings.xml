@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s нь эдгээр нээлттэй эхийн хэсгүүдээр бүтээгдсэн:</string>
     <string name="license_text">Лицензийн текст: %1$s</string>
     <string name="tip_jar_text">%1$s таалагдаж байна уу? %2$s дээр цайны мөнгө үлдээхийн тулд кодыг өөр утсаар уншуулна уу. Цайны мөнгө сайн дурынх бөгөөд юуг ч нээхгүй.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Шидэлтийг нэмэх</string>
+    <string name="roll_die">%1$s шидэх</string>
+    <string name="roll_custom">Өөрийн D%1$d шидэх</string>
+    <string name="edit_custom">Өөрийн хүрээг өөрчлөх, одоо D%1$d</string>
+    <string name="custom_label">Өөрийн</string>
+    <string name="coin_label">Зоос</string>
+    <string name="flip_coin">Зоос хаях</string>
+    <string name="roll_label">Шидэх</string>
+    <string name="coin_heads">Сүлд</string>
+    <string name="coin_tails">Тоо</string>
+    <string name="reroll_set">Дахин</string>
+    <string name="combine_done">Болсон</string>
+    <string name="coin_as_numbers">Зоосыг тоогоор</string>
+    <string name="keep_screen_on">Дэлгэц үргэлж асаалттай</string>
+    <string name="dark_theme">Бараан загвар</string>
+    <string name="custom_dialog_title">Өөрийн шоо</string>
+    <string name="custom_sides_label">Талууд</string>
+    <string name="custom_invalid">2-оос 9999 хүртэлх бүхэл тоо оруулна уу.</string>
+    <string name="custom_range_hint">1-ээс энэ тоо хүртэл шиднэ.</string>
+    <string name="save_custom">Хадгалах</string>
+    <string name="total_description">Нийт: %1$d</string>
+    <string name="result_description">%1$s, үр дүн: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d шоо</item>
+        <item quantity="other">%1$d шоо</item>
+    </plurals>
+    <string name="privacy_data_title">Таны өгөгдөл</string>
+    <string name="privacy_data">Тохиргоо зөвхөн энэ утсанд хадгалагдах ба аппыг устгахад устна. Юу ч цуглуулахгүй, илгээхгүй, гуравдагч этгээдтэй хуваалцахгүй. Шидэлтийг хадгалдаггүй.</string>
+    <string name="about_legal">Хууль зүйн мэдээлэл</string>
+    <string name="legal_notes">%1$s бол бие даасан апп. Гуравдагч этгээдийн барааны тэмдэг агуулаагүй.</string>
 </resources>

@@ -36,4 +36,37 @@
     <string name="licenses_intro">%1$s je narejen s temi odprtokodnimi deli:</string>
     <string name="license_text">Besedilo licence: %1$s</string>
     <string name="tip_jar_text">Vam je %1$s všeč? Skenirajte kodo z drugim telefonom in pustite napitnino na %2$s. Napitnine so prostovoljne in ničesar ne odklenejo.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Seštej mete</string>
+    <string name="roll_die">Vrzi %1$s</string>
+    <string name="roll_custom">Vrzi svojo D%1$d</string>
+    <string name="edit_custom">Spremeni svoj obseg, zdaj D%1$d</string>
+    <string name="custom_label">Svoja</string>
+    <string name="coin_label">Kovanec</string>
+    <string name="flip_coin">Vrzi kovanec</string>
+    <string name="roll_label">Vrzi</string>
+    <string name="coin_heads">Grb</string>
+    <string name="coin_tails">Cifra</string>
+    <string name="reroll_set">Znova</string>
+    <string name="combine_done">Končano</string>
+    <string name="coin_as_numbers">Kovanec kot številke</string>
+    <string name="keep_screen_on">Zaslon vedno vklopljen</string>
+    <string name="dark_theme">Temna tema</string>
+    <string name="custom_dialog_title">Svoja kocka</string>
+    <string name="custom_sides_label">Ploskve</string>
+    <string name="custom_invalid">Vnesite celo število od 2 do 9999.</string>
+    <string name="custom_range_hint">Meče od 1 do tega števila.</string>
+    <string name="save_custom">Shrani</string>
+    <string name="total_description">Skupaj: %1$d</string>
+    <string name="result_description">%1$s, rezultat: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d kocka</item>
+        <item quantity="two">%1$d kocki</item>
+        <item quantity="few">%1$d kocke</item>
+        <item quantity="other">%1$d kock</item>
+    </plurals>
+    <string name="privacy_data_title">Vaši podatki</string>
+    <string name="privacy_data">Nastavitve so shranjene samo v tem telefonu in se izbrišejo, ko odstranite aplikacijo. Nič se ne zbira, pošilja ali deli s tretjimi osebami. Meti se ne shranjujejo.</string>
+    <string name="about_legal">Pravna obvestila</string>
+    <string name="legal_notes">%1$s je neodvisna aplikacija. Ne vsebuje blagovnih znamk tretjih oseb.</string>
 </resources>

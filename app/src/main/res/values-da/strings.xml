@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s er lavet med disse open source-dele:</string>
     <string name="license_text">Licenstekst: %1$s</string>
     <string name="tip_jar_text">Kan du lide %1$s? Scan koden med en anden telefon for at give drikkepenge på %2$s. Drikkepenge er frivillige og låser ikke noget op.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Læg slag sammen</string>
+    <string name="roll_die">Slå %1$s</string>
+    <string name="roll_custom">Slå egen D%1$d</string>
+    <string name="edit_custom">Skift eget interval, nu D%1$d</string>
+    <string name="custom_label">Egen</string>
+    <string name="coin_label">Mønt</string>
+    <string name="flip_coin">Slå plat eller krone</string>
+    <string name="roll_label">Slå</string>
+    <string name="coin_heads">Krone</string>
+    <string name="coin_tails">Plat</string>
+    <string name="reroll_set">Slå igen</string>
+    <string name="combine_done">Færdig</string>
+    <string name="coin_as_numbers">Mønt som tal</string>
+    <string name="keep_screen_on">Skærmen altid tændt</string>
+    <string name="dark_theme">Mørkt tema</string>
+    <string name="custom_dialog_title">Egen terning</string>
+    <string name="custom_sides_label">Sider</string>
+    <string name="custom_invalid">Indtast et helt tal fra 2 til 9999.</string>
+    <string name="custom_range_hint">Slår fra 1 til dette tal.</string>
+    <string name="save_custom">Gem</string>
+    <string name="total_description">I alt: %1$d</string>
+    <string name="result_description">%1$s, resultat: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d terning</item>
+        <item quantity="other">%1$d terninger</item>
+    </plurals>
+    <string name="privacy_data_title">Dine data</string>
+    <string name="privacy_data">Dine indstillinger gemmes kun på denne telefon og slettes, når du afinstallerer appen. Intet indsamles, sendes eller deles med tredjeparter. Slag gemmes ikke.</string>
+    <string name="about_legal">Juridiske oplysninger</string>
+    <string name="legal_notes">%1$s er en uafhængig app. Den indeholder ingen tredjepartsvaremærker.</string>
 </resources>

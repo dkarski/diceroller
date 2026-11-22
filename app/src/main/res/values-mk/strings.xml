@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s е изработена со овие делови со отворен код:</string>
     <string name="license_text">Текст на лиценцата: %1$s</string>
     <string name="tip_jar_text">Ви се допаѓа %1$s? Скенирајте го кодот со друг телефон за да оставите бакшиш на %2$s. Бакшишите се доброволни и не отклучуваат ништо.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Собирај фрлања</string>
+    <string name="roll_die">Фрли %1$s</string>
+    <string name="roll_custom">Фрли сопствена D%1$d</string>
+    <string name="edit_custom">Промени сопствен опсег, сега D%1$d</string>
+    <string name="custom_label">Сопствена</string>
+    <string name="coin_label">Паричка</string>
+    <string name="flip_coin">Фрли паричка</string>
+    <string name="roll_label">Фрли</string>
+    <string name="coin_heads">Глава</string>
+    <string name="coin_tails">Писмо</string>
+    <string name="reroll_set">Повторно</string>
+    <string name="combine_done">Готово</string>
+    <string name="coin_as_numbers">Паричка како броеви</string>
+    <string name="keep_screen_on">Екранот секогаш вклучен</string>
+    <string name="dark_theme">Темна тема</string>
+    <string name="custom_dialog_title">Сопствена коцка</string>
+    <string name="custom_sides_label">Страни</string>
+    <string name="custom_invalid">Внесете цел број од 2 до 9999.</string>
+    <string name="custom_range_hint">Фрла од 1 до овој број.</string>
+    <string name="save_custom">Зачувај</string>
+    <string name="total_description">Вкупно: %1$d</string>
+    <string name="result_description">%1$s, резултат: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d коцка</item>
+        <item quantity="other">%1$d коцки</item>
+    </plurals>
+    <string name="privacy_data_title">Вашите податоци</string>
+    <string name="privacy_data">Поставките се зачувуваат само на овој телефон и се бришат кога ќе ја деинсталирате апликацијата. Ништо не се собира, испраќа или споделува со трети страни. Фрлањата не се зачувуваат.</string>
+    <string name="about_legal">Правни информации</string>
+    <string name="legal_notes">%1$s е независна апликација. Не содржи заштитни знаци на трети страни.</string>
 </resources>

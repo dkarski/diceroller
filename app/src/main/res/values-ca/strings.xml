@@ -36,4 +36,36 @@
     <string name="licenses_intro">%1$s està fet amb aquests components de codi obert:</string>
     <string name="license_text">Text de la llicència: %1$s</string>
     <string name="tip_jar_text">T\'agrada %1$s? Escaneja el codi amb un altre telèfon per deixar una propina a %2$s. Les propines són voluntàries i no desbloquegen res.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Suma les tirades</string>
+    <string name="roll_die">Tira %1$s</string>
+    <string name="roll_custom">Tira el dau propi D%1$d</string>
+    <string name="edit_custom">Canvia l\'interval propi, ara D%1$d</string>
+    <string name="custom_label">Propi</string>
+    <string name="coin_label">Moneda</string>
+    <string name="flip_coin">Llança la moneda</string>
+    <string name="roll_label">Tira</string>
+    <string name="coin_heads">Cara</string>
+    <string name="coin_tails">Creu</string>
+    <string name="reroll_set">Torna a tirar</string>
+    <string name="combine_done">Fet</string>
+    <string name="coin_as_numbers">Moneda com a números</string>
+    <string name="keep_screen_on">Pantalla sempre encesa</string>
+    <string name="dark_theme">Tema fosc</string>
+    <string name="custom_dialog_title">Dau propi</string>
+    <string name="custom_sides_label">Cares</string>
+    <string name="custom_invalid">Introdueix un nombre enter del 2 al 9999.</string>
+    <string name="custom_range_hint">Tira de l\'1 a aquest nombre.</string>
+    <string name="save_custom">Desa</string>
+    <string name="total_description">Total: %1$d</string>
+    <string name="result_description">%1$s, resultat: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d dau</item>
+        <item quantity="many">%1$d daus</item>
+        <item quantity="other">%1$d daus</item>
+    </plurals>
+    <string name="privacy_data_title">Les teves dades</string>
+    <string name="privacy_data">La configuració es desa només en aquest telèfon i s\'esborra quan desinstal·les l\'app. No es recull, no s\'envia ni es comparteix res amb tercers. Les tirades no es desen.</string>
+    <string name="about_legal">Avisos legals</string>
+    <string name="legal_notes">%1$s és una app independent. No conté marques de tercers.</string>
 </resources>

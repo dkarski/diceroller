@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s is gemaakt met deze opensourceonderdelen:</string>
     <string name="license_text">Licentietekst: %1$s</string>
     <string name="tip_jar_text">Vind je %1$s leuk? Scan de code met een andere telefoon om een fooi te geven op %2$s. Fooien zijn vrijwillig en ontgrendelen niets.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Worpen optellen</string>
+    <string name="roll_die">%1$s gooien</string>
+    <string name="roll_custom">Eigen D%1$d gooien</string>
+    <string name="edit_custom">Eigen bereik wijzigen, nu D%1$d</string>
+    <string name="custom_label">Eigen</string>
+    <string name="coin_label">Munt</string>
+    <string name="flip_coin">Munt opgooien</string>
+    <string name="roll_label">Gooi</string>
+    <string name="coin_heads">Kop</string>
+    <string name="coin_tails">Munt</string>
+    <string name="reroll_set">Opnieuw</string>
+    <string name="combine_done">Klaar</string>
+    <string name="coin_as_numbers">Munt als getallen</string>
+    <string name="keep_screen_on">Scherm altijd aan</string>
+    <string name="dark_theme">Donker thema</string>
+    <string name="custom_dialog_title">Eigen dobbelsteen</string>
+    <string name="custom_sides_label">Zijden</string>
+    <string name="custom_invalid">Voer een geheel getal van 2 tot 9999 in.</string>
+    <string name="custom_range_hint">Gooit van 1 tot dit getal.</string>
+    <string name="save_custom">Opslaan</string>
+    <string name="total_description">Totaal: %1$d</string>
+    <string name="result_description">%1$s, resultaat: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d dobbelsteen</item>
+        <item quantity="other">%1$d dobbelstenen</item>
+    </plurals>
+    <string name="privacy_data_title">Je gegevens</string>
+    <string name="privacy_data">Je instellingen worden alleen op deze telefoon opgeslagen en verwijderd als je de app verwijdert. Er wordt niets verzameld, verstuurd of met derden gedeeld. Worpen worden niet opgeslagen.</string>
+    <string name="about_legal">Juridische informatie</string>
+    <string name="legal_notes">%1$s is een onafhankelijke app. De app bevat geen handelsmerken van derden.</string>
 </resources>
