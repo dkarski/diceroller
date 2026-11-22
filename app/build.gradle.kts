@@ -6,6 +6,14 @@ plugins {
     alias(libs.plugins.kotlin.compose)
 }
 
+// Updated by release-please; the first stable version is 1.0.0.
+val appVersion = rootProject.file("version.txt").readText().trim()
+val versionParts = Regex("""(\d+)\.(\d+)\.(\d+)""").matchEntire(appVersion)
+    ?.destructured?.toList()?.map(String::toInt) ?: error("version.txt must contain X.Y.Z")
+require(versionParts[1] < 1000 && versionParts[2] < 1000) { "minor and patch must be below 1000" }
+val appVersionCode = Math.addExact(Math.multiplyExact(versionParts[0], 1_000_000),
+    versionParts[1] * 1000 + versionParts[2])
+
 // Release signing: the keystore lives outside the repo; paths/passwords come from local.properties.
 val localProps = Properties().apply {
     val f = rootProject.file("local.properties")
@@ -21,8 +29,8 @@ android {
         applicationId = "dev.dkarski.diceroller"
         minSdk = 31 // Mudita Kompakt: MuditaOS K, AOSP 12 (API 31)
         targetSdk = 35
-        versionCode = 2
-        versionName = "1.0.0"
+        versionCode = appVersionCode
+        versionName = appVersion
         resourceConfigurations += listOf(
             "en", "it", "pl", "cs", "pt", "es", "de", "fr", "nl",
             "in", "ms", "ca", "da", "et", "b+fil", "tl", "gl", "hr", "is", "sw", "lv", "lt", "hu", "nb", "ro", "rm",
@@ -59,6 +67,7 @@ android {
             versionNameSuffix = "-debug"
         }
         release {
+            vcsInfo.include = false
             isMinifyEnabled = true
             isShrinkResources = true
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
@@ -88,6 +97,8 @@ android {
         )
     }
 }
+
+base { archivesName = "diceroller-${android.defaultConfig.versionName}" }
 
 dependencies {
     implementation(platform(libs.androidx.compose.bom))
