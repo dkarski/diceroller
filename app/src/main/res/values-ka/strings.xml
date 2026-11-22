@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">პარამეტრები</string>
+    <string name="settings_contact_tap_email">შეეხეთ ელფოსტის დასაწერად</string>
+    <string name="settings_contact_tap_copy">შეეხეთ დასაკოპირებლად</string>
+    <string name="settings_vibration">ვიბრაცია</string>
+    <string name="coming_soon_copied">ელფოსტა დაკოპირდა</string>
+    <string name="feedback_body">გამარჯობა! ჩემი გამოხმაურება:\n\n</string>
+    <string name="settings_about">აპის შესახებ</string>
+    <string name="settings_section_app">აპი</string>
+    <string name="back">უკან</string>
+    <string name="settings_language">ენა</string>
+    <string name="language_system_default">სისტემის ენა</string>
+    <string name="language_more">სხვა ენები</string>
+    <string name="language_search">ძიება</string>
+    <string name="language_search_hint">ენის ძიება</string>
+    <string name="language_clear_search">ძიების გასუფთავება</string>
+    <string name="language_no_results">ენა ვერ მოიძებნა</string>
+    <string name="about_title">აპის შესახებ</string>
+    <string name="about_version">ვერსია %1$s</string>
+    <string name="about_made_by">ავტორი:</string>
+    <string name="about_privacy">კონფიდენციალურობა</string>
+    <string name="about_terms">გამოყენების პირობები</string>
+    <string name="about_licenses">ღია კოდის ლიცენზიები</string>
+    <string name="about_tip_jar">ჩაის ფული</string>
+    <string name="privacy_offline_title">ქსელის გარეშე</string>
+    <string name="privacy_offline">%1$s მუშაობს ქსელის გარეშე. მას არ აქვს ინტერნეტის ნებართვა და არასდროს არსად უკავშირდება.</string>
+    <string name="privacy_permissions_title">ნებართვები</string>
+    <string name="privacy_permissions">აპი არანაირ ნებართვას არ ითხოვს.</string>
+    <string name="privacy_links_title">ბმულები</string>
+    <string name="privacy_links">საკონტაქტო მისამართი მხოლოდ ხსნის თქვენს ელფოსტის აპს ან აკოპირებს მისამართს. ჩაის ფული მხოლოდ აჩვენებს კოდს სხვა ტელეფონით დასასკანერებლად. რაც იქ ხდება, ამ აპის მიღმაა.</string>
+    <string name="terms_free_title">უფასო და გარანტიის გარეშე</string>
+    <string name="terms_free">%1$s უფასოა და მოწოდებულია ისე, როგორც არის, გარანტიის გარეშე. ჩაის ფული ნებაყოფლობითია და არაფერს ხსნის.</string>
+    <string name="terms_liability_title">პასუხისმგებლობა</string>
+    <string name="terms_liability">კანონით დაშვებულ ფარგლებში დეველოპერი (%1$s, %2$s) არ აგებს პასუხს აპის გამოყენებით მიყენებულ ზიანზე. ეს არ ეხება მომხმარებლის თქვენს კანონიერ უფლებებს.</string>
+    <string name="licenses_intro">%1$s შექმნილია ღია კოდის ამ ნაწილებით:</string>
+    <string name="license_text">ლიცენზიის ტექსტი: %1$s</string>
+    <string name="tip_jar_text">მოგწონთ %1$s? დაასკანერეთ კოდი სხვა ტელეფონით და დატოვეთ ჩაის ფული %2$s-ზე. ჩაის ფული ნებაყოფლობითია და არაფერს ხსნის.</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Cài đặt</string>
+    <string name="settings_contact_tap_email">Chạm để viết email</string>
+    <string name="settings_contact_tap_copy">Chạm để sao chép</string>
+    <string name="settings_vibration">Rung</string>
+    <string name="coming_soon_copied">Đã sao chép email</string>
+    <string name="feedback_body">Xin chào! Góp ý của tôi:\n\n</string>
+    <string name="settings_about">Giới thiệu</string>
+    <string name="settings_section_app">Ứng dụng</string>
+    <string name="back">Quay lại</string>
+    <string name="settings_language">Ngôn ngữ</string>
+    <string name="language_system_default">Mặc định hệ thống</string>
+    <string name="language_more">Ngôn ngữ khác</string>
+    <string name="language_search">Tìm kiếm</string>
+    <string name="language_search_hint">Tìm ngôn ngữ</string>
+    <string name="language_clear_search">Xóa tìm kiếm</string>
+    <string name="language_no_results">Không tìm thấy ngôn ngữ</string>
+    <string name="about_title">Giới thiệu</string>
+    <string name="about_version">Phiên bản %1$s</string>
+    <string name="about_made_by">Tác giả:</string>
+    <string name="about_privacy">Quyền riêng tư</string>
+    <string name="about_terms">Điều khoản sử dụng</string>
+    <string name="about_licenses">Giấy phép nguồn mở</string>
+    <string name="about_tip_jar">Tiền boa</string>
+    <string name="privacy_offline_title">Dùng ngoại tuyến</string>
+    <string name="privacy_offline">%1$s hoạt động không cần mạng. Ứng dụng không có quyền truy cập internet và không bao giờ kết nối đến bất cứ đâu.</string>
+    <string name="privacy_permissions_title">Quyền</string>
+    <string name="privacy_permissions">Ứng dụng không yêu cầu quyền nào.</string>
+    <string name="privacy_links_title">Liên kết</string>
+    <string name="privacy_links">Địa chỉ liên hệ chỉ mở ứng dụng email của bạn hoặc sao chép địa chỉ. Tiền boa chỉ hiển thị một mã để quét bằng điện thoại khác. Những gì diễn ra ở đó nằm ngoài ứng dụng này.</string>
+    <string name="terms_free_title">Miễn phí và không bảo hành</string>
+    <string name="terms_free">%1$s miễn phí và được cung cấp nguyên trạng, không có bảo hành. Tiền boa là tự nguyện và không mở khóa gì.</string>
+    <string name="terms_liability_title">Trách nhiệm</string>
+    <string name="terms_liability">Trong phạm vi pháp luật cho phép, nhà phát triển (%1$s, %2$s) không chịu trách nhiệm về thiệt hại do việc sử dụng ứng dụng. Các quyền hợp pháp của người tiêu dùng không bị ảnh hưởng.</string>
+    <string name="licenses_intro">%1$s được xây dựng với các thành phần nguồn mở sau:</string>
+    <string name="license_text">Nội dung giấy phép: %1$s</string>
+    <string name="tip_jar_text">Bạn thích %1$s? Quét mã bằng điện thoại khác để gửi tiền boa trên %2$s. Tiền boa là tự nguyện và không mở khóa gì.</string>
+</resources>

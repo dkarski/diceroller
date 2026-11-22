@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Жөндөөлөр</string>
+    <string name="settings_contact_tap_email">Кат жазуу үчүн басыңыз</string>
+    <string name="settings_contact_tap_copy">Көчүрүү үчүн басыңыз</string>
+    <string name="settings_vibration">Титирөө</string>
+    <string name="coming_soon_copied">Дарек көчүрүлдү</string>
+    <string name="feedback_body">Саламатсызбы! Менин пикирим:\n\n</string>
+    <string name="settings_about">Колдонмо жөнүндө</string>
+    <string name="settings_section_app">Колдонмо</string>
+    <string name="back">Артка</string>
+    <string name="settings_language">Тил</string>
+    <string name="language_system_default">Тутумдун тили</string>
+    <string name="language_more">Башка тилдер</string>
+    <string name="language_search">Издөө</string>
+    <string name="language_search_hint">Тил издөө</string>
+    <string name="language_clear_search">Издөөнү тазалоо</string>
+    <string name="language_no_results">Тил табылган жок</string>
+    <string name="about_title">Колдонмо жөнүндө</string>
+    <string name="about_version">Версия %1$s</string>
+    <string name="about_made_by">Автору:</string>
+    <string name="about_privacy">Купуялык</string>
+    <string name="about_terms">Колдонуу шарттары</string>
+    <string name="about_licenses">Ачык булак лицензиялары</string>
+    <string name="about_tip_jar">Чайпул</string>
+    <string name="privacy_offline_title">Тармаксыз колдонуу</string>
+    <string name="privacy_offline">%1$s тармаксыз иштейт. Колдонмонун интернетке уруксаты жок жана ал эч жакка туташпайт.</string>
+    <string name="privacy_permissions_title">Уруксаттар</string>
+    <string name="privacy_permissions">Колдонмо эч кандай уруксат сурабайт.</string>
+    <string name="privacy_links_title">Шилтемелер</string>
+    <string name="privacy_links">Байланыш дареги почта колдонмоңузду гана ачат же даректи көчүрөт. Чайпул башка телефон менен сканерлөө үчүн кодду гана көрсөтөт. Ал жакта эмне болору бул колдонмодон тышкары.</string>
+    <string name="terms_free_title">Акысыз жана кепилдиксиз</string>
+    <string name="terms_free">%1$s акысыз жана кепилдиксиз «кандай болсо, ошондой» берилет. Чайпул ыктыярдуу жана эч нерсени ачпайт.</string>
+    <string name="terms_liability_title">Жоопкерчилик</string>
+    <string name="terms_liability">Мыйзам уруксат берген чекте иштеп чыгуучу (%1$s, %2$s) колдонмону колдонуудан келген зыян үчүн жооп бербейт. Бул керектөөчү катары мыйзамдуу укуктарыңызга таасир этпейт.</string>
+    <string name="licenses_intro">%1$s бул ачык булак бөлүктөрү менен түзүлгөн:</string>
+    <string name="license_text">Лицензиянын тексти: %1$s</string>
+    <string name="tip_jar_text">%1$s жактыбы? %2$s\'да чайпул калтыруу үчүн кодду башка телефон менен сканерлеңиз. Чайпул ыктыярдуу жана эч нерсени ачпайт.</string>
+</resources>

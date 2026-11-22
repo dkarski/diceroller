@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Ustawienia</string>
+    <string name="settings_contact_tap_email">Stuknij, aby napisać e-mail</string>
+    <string name="settings_contact_tap_copy">Stuknij, aby skopiować</string>
+    <string name="settings_vibration">Wibracje</string>
+    <string name="coming_soon_copied">E-mail skopiowany</string>
+    <string name="feedback_body">Cześć! Moja opinia:\n\n</string>
+    <string name="settings_about">O aplikacji</string>
+    <string name="settings_section_app">Aplikacja</string>
+    <string name="back">Wstecz</string>
+    <string name="settings_language">Język</string>
+    <string name="language_system_default">Język systemu</string>
+    <string name="language_more">Więcej języków</string>
+    <string name="language_search">Szukaj</string>
+    <string name="language_search_hint">Szukaj języka</string>
+    <string name="language_clear_search">Wyczyść wyszukiwanie</string>
+    <string name="language_no_results">Nie znaleziono języków</string>
+    <string name="about_title">O aplikacji</string>
+    <string name="about_version">Wersja %1$s</string>
+    <string name="about_made_by">Twórca:</string>
+    <string name="about_privacy">Prywatność</string>
+    <string name="about_terms">Warunki korzystania</string>
+    <string name="about_licenses">Licencje open source</string>
+    <string name="about_tip_jar">Napiwek</string>
+    <string name="privacy_offline_title">Bez internetu</string>
+    <string name="privacy_offline">%1$s działa bez sieci. Aplikacja nie ma uprawnienia do internetu i nigdzie się nie łączy.</string>
+    <string name="privacy_permissions_title">Uprawnienia</string>
+    <string name="privacy_permissions">Aplikacja nie prosi o żadne uprawnienia.</string>
+    <string name="privacy_links_title">Linki</string>
+    <string name="privacy_links">Adres kontaktowy tylko otwiera Twoją aplikację pocztową albo kopiuje adres. Napiwek to wyłącznie kod do zeskanowania innym telefonem. To, co dzieje się dalej, jest poza tą aplikacją.</string>
+    <string name="terms_free_title">Za darmo i bez gwarancji</string>
+    <string name="terms_free">%1$s jest darmowa i udostępniana w obecnej postaci, bez gwarancji. Napiwki są dobrowolne i niczego nie odblokowują.</string>
+    <string name="terms_liability_title">Odpowiedzialność</string>
+    <string name="terms_liability">W zakresie dozwolonym przez prawo twórca (%1$s, %2$s) nie odpowiada za szkody wynikłe z korzystania z aplikacji. Nie ogranicza to Twoich ustawowych praw konsumenta.</string>
+    <string name="licenses_intro">%1$s korzysta z tych elementów open source:</string>
+    <string name="license_text">Tekst licencji: %1$s</string>
+    <string name="tip_jar_text">Podoba Ci się %1$s? Zeskanuj kod innym telefonem, żeby zostawić napiwek na %2$s. Napiwki są dobrowolne i niczego nie odblokowują.</string>
+</resources>

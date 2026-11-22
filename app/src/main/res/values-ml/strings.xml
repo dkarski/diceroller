@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">ക്രമീകരണം</string>
+    <string name="settings_contact_tap_email">ഇമെയിൽ എഴുതാൻ ടാപ്പ് ചെയ്യുക</string>
+    <string name="settings_contact_tap_copy">പകർത്താൻ ടാപ്പ് ചെയ്യുക</string>
+    <string name="settings_vibration">വൈബ്രേഷൻ</string>
+    <string name="coming_soon_copied">ഇമെയിൽ പകർത്തി</string>
+    <string name="feedback_body">നമസ്കാരം! എന്റെ അഭിപ്രായം:\n\n</string>
+    <string name="settings_about">ആപ്പിനെക്കുറിച്ച്</string>
+    <string name="settings_section_app">ആപ്പ്</string>
+    <string name="back">തിരികെ</string>
+    <string name="settings_language">ഭാഷ</string>
+    <string name="language_system_default">സിസ്റ്റം ഭാഷ</string>
+    <string name="language_more">കൂടുതൽ ഭാഷകൾ</string>
+    <string name="language_search">തിരയുക</string>
+    <string name="language_search_hint">ഭാഷ തിരയുക</string>
+    <string name="language_clear_search">തിരയൽ മായ്ക്കുക</string>
+    <string name="language_no_results">ഭാഷകളൊന്നും കണ്ടെത്തിയില്ല</string>
+    <string name="about_title">ആപ്പിനെക്കുറിച്ച്</string>
+    <string name="about_version">പതിപ്പ് %1$s</string>
+    <string name="about_made_by">നിർമ്മിച്ചത്:</string>
+    <string name="about_privacy">സ്വകാര്യത</string>
+    <string name="about_terms">ഉപയോഗ നിബന്ധനകൾ</string>
+    <string name="about_licenses">ഓപ്പൺ സോഴ്സ് ലൈസൻസുകൾ</string>
+    <string name="about_tip_jar">ടിപ്പ്</string>
+    <string name="privacy_offline_title">ഓഫ്‌ലൈൻ ഉപയോഗം</string>
+    <string name="privacy_offline">%1$s നെറ്റ്‌വർക്കില്ലാതെ പ്രവർത്തിക്കുന്നു. ഇതിന് ഇന്റർനെറ്റ് അനുമതിയില്ല, ഒരിടത്തും കണക്റ്റ് ചെയ്യുന്നുമില്ല.</string>
+    <string name="privacy_permissions_title">അനുമതികൾ</string>
+    <string name="privacy_permissions">ആപ്പ് ഒരു അനുമതിയും ചോദിക്കുന്നില്ല.</string>
+    <string name="privacy_links_title">ലിങ്കുകൾ</string>
+    <string name="privacy_links">ബന്ധപ്പെടാനുള്ള വിലാസം നിങ്ങളുടെ ഇമെയിൽ ആപ്പ് തുറക്കുകയോ വിലാസം പകർത്തുകയോ മാത്രം ചെയ്യുന്നു. ടിപ്പ് മറ്റൊരു ഫോൺ കൊണ്ട് സ്കാൻ ചെയ്യാനുള്ള കോഡ് മാത്രം കാണിക്കുന്നു. അവിടെ നടക്കുന്നത് ഈ ആപ്പിന് പുറത്താണ്.</string>
+    <string name="terms_free_title">സൗജന്യം, വാറന്റിയില്ല</string>
+    <string name="terms_free">%1$s സൗജന്യമാണ്, ഉള്ളതുപോലെ വാറന്റിയില്ലാതെ നൽകുന്നു. ടിപ്പ് സ്വമേധയാ ഉള്ളതാണ്, ഒന്നും അൺലോക്ക് ചെയ്യുന്നില്ല.</string>
+    <string name="terms_liability_title">ബാധ്യത</string>
+    <string name="terms_liability">നിയമം അനുവദിക്കുന്ന പരിധി വരെ, ആപ്പ് ഉപയോഗിച്ചതുമൂലമുള്ള നഷ്ടത്തിന് ഡെവലപ്പർ (%1$s, %2$s) ഉത്തരവാദിയല്ല. ഉപഭോക്താവെന്ന നിലയിലുള്ള നിങ്ങളുടെ നിയമപരമായ അവകാശങ്ങളെ ഇത് ബാധിക്കുന്നില്ല.</string>
+    <string name="licenses_intro">%1$s ഈ ഓപ്പൺ സോഴ്സ് ഭാഗങ്ങൾ ഉപയോഗിച്ച് നിർമ്മിച്ചതാണ്:</string>
+    <string name="license_text">ലൈസൻസ് വാചകം: %1$s</string>
+    <string name="tip_jar_text">%1$s ഇഷ്ടമായോ? %2$s-യിൽ ടിപ്പ് നൽകാൻ മറ്റൊരു ഫോൺ കൊണ്ട് കോഡ് സ്കാൻ ചെയ്യുക. ടിപ്പ് സ്വമേധയാ ഉള്ളതാണ്, ഒന്നും അൺലോക്ക് ചെയ്യുന്നില്ല.</string>
+</resources>

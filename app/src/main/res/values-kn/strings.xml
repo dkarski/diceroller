@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="settings_contact_tap_email">ಇಮೇಲ್ ಬರೆಯಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+    <string name="settings_contact_tap_copy">ನಕಲಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+    <string name="settings_vibration">ಕಂಪನ</string>
+    <string name="coming_soon_copied">ಇಮೇಲ್ ನಕಲಿಸಲಾಗಿದೆ</string>
+    <string name="feedback_body">ನಮಸ್ಕಾರ! ನನ್ನ ಅಭಿಪ್ರಾಯ:\n\n</string>
+    <string name="settings_about">ಆ್ಯಪ್ ಕುರಿತು</string>
+    <string name="settings_section_app">ಆ್ಯಪ್</string>
+    <string name="back">ಹಿಂದೆ</string>
+    <string name="settings_language">ಭಾಷೆ</string>
+    <string name="language_system_default">ಸಿಸ್ಟಮ್ ಭಾಷೆ</string>
+    <string name="language_more">ಇನ್ನಷ್ಟು ಭಾಷೆಗಳು</string>
+    <string name="language_search">ಹುಡುಕಿ</string>
+    <string name="language_search_hint">ಭಾಷೆ ಹುಡುಕಿ</string>
+    <string name="language_clear_search">ಹುಡುಕಾಟ ತೆರವುಗೊಳಿಸಿ</string>
+    <string name="language_no_results">ಯಾವುದೇ ಭಾಷೆ ಕಂಡುಬಂದಿಲ್ಲ</string>
+    <string name="about_title">ಆ್ಯಪ್ ಕುರಿತು</string>
+    <string name="about_version">ಆವೃತ್ತಿ %1$s</string>
+    <string name="about_made_by">ರಚನೆಕಾರ:</string>
+    <string name="about_privacy">ಗೌಪ್ಯತೆ</string>
+    <string name="about_terms">ಬಳಕೆಯ ನಿಯಮಗಳು</string>
+    <string name="about_licenses">ಓಪನ್ ಸೋರ್ಸ್ ಪರವಾನಗಿಗಳು</string>
+    <string name="about_tip_jar">ಟಿಪ್</string>
+    <string name="privacy_offline_title">ಆಫ್‌ಲೈನ್ ಬಳಕೆ</string>
+    <string name="privacy_offline">%1$s ನೆಟ್‌ವರ್ಕ್ ಇಲ್ಲದೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ. ಇದಕ್ಕೆ ಇಂಟರ್ನೆಟ್ ಅನುಮತಿ ಇಲ್ಲ ಮತ್ತು ಇದು ಎಂದಿಗೂ ಎಲ್ಲಿಗೂ ಸಂಪರ್ಕಿಸುವುದಿಲ್ಲ.</string>
+    <string name="privacy_permissions_title">ಅನುಮತಿಗಳು</string>
+    <string name="privacy_permissions">ಆ್ಯಪ್ ಯಾವುದೇ ಅನುಮತಿ ಕೇಳುವುದಿಲ್ಲ.</string>
+    <string name="privacy_links_title">ಲಿಂಕ್‌ಗಳು</string>
+    <string name="privacy_links">ಸಂಪರ್ಕ ವಿಳಾಸ ನಿಮ್ಮ ಇಮೇಲ್ ಆ್ಯಪ್ ತೆರೆಯುತ್ತದೆ ಅಥವಾ ವಿಳಾಸವನ್ನು ನಕಲಿಸುತ್ತದೆ, ಅಷ್ಟೇ. ಟಿಪ್ ಬೇರೆ ಫೋನ್‌ನಿಂದ ಸ್ಕ್ಯಾನ್ ಮಾಡಲು ಒಂದು ಕೋಡ್ ಮಾತ್ರ ತೋರಿಸುತ್ತದೆ. ಅಲ್ಲಿ ನಡೆಯುವುದು ಈ ಆ್ಯಪ್‌ನ ಹೊರಗಿದೆ.</string>
+    <string name="terms_free_title">ಉಚಿತ ಮತ್ತು ಖಾತರಿ ಇಲ್ಲ</string>
+    <string name="terms_free">%1$s ಉಚಿತ ಮತ್ತು ಇರುವಂತೆಯೇ, ಖಾತರಿ ಇಲ್ಲದೆ ನೀಡಲಾಗುತ್ತದೆ. ಟಿಪ್ ಸ್ವಯಂಪ್ರೇರಿತ ಮತ್ತು ಏನನ್ನೂ ಅನ್‌ಲಾಕ್ ಮಾಡುವುದಿಲ್ಲ.</string>
+    <string name="terms_liability_title">ಹೊಣೆಗಾರಿಕೆ</string>
+    <string name="terms_liability">ಕಾನೂನು ಅನುಮತಿಸುವಷ್ಟು ಮಟ್ಟಿಗೆ, ಆ್ಯಪ್ ಬಳಕೆಯಿಂದಾದ ಹಾನಿಗೆ ಡೆವಲಪರ್ (%1$s, %2$s) ಹೊಣೆಯಲ್ಲ. ಇದು ಗ್ರಾಹಕರಾಗಿ ನಿಮ್ಮ ಕಾನೂನು ಹಕ್ಕುಗಳ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುವುದಿಲ್ಲ.</string>
+    <string name="licenses_intro">%1$s ಈ ಓಪನ್ ಸೋರ್ಸ್ ಭಾಗಗಳಿಂದ ನಿರ್ಮಿತವಾಗಿದೆ:</string>
+    <string name="license_text">ಪರವಾನಗಿ ಪಠ್ಯ: %1$s</string>
+    <string name="tip_jar_text">%1$s ಇಷ್ಟವಾಯಿತೇ? %2$s ನಲ್ಲಿ ಟಿಪ್ ನೀಡಲು ಬೇರೆ ಫೋನ್‌ನಿಂದ ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ. ಟಿಪ್ ಸ್ವಯಂಪ್ರೇರಿತ ಮತ್ತು ಏನನ್ನೂ ಅನ್‌ಲಾಕ್ ಮಾಡುವುದಿಲ್ಲ.</string>
+</resources>

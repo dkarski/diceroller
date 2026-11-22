@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">ਸੈਟਿੰਗਾਂ</string>
+    <string name="settings_contact_tap_email">ਈਮੇਲ ਲਿਖਣ ਲਈ ਟੈਪ ਕਰੋ</string>
+    <string name="settings_contact_tap_copy">ਕਾਪੀ ਕਰਨ ਲਈ ਟੈਪ ਕਰੋ</string>
+    <string name="settings_vibration">ਵਾਈਬ੍ਰੇਸ਼ਨ</string>
+    <string name="coming_soon_copied">ਈਮੇਲ ਕਾਪੀ ਹੋ ਗਈ</string>
+    <string name="feedback_body">ਸਤ ਸ੍ਰੀ ਅਕਾਲ! ਮੇਰਾ ਸੁਝਾਅ:\n\n</string>
+    <string name="settings_about">ਐਪ ਬਾਰੇ</string>
+    <string name="settings_section_app">ਐਪ</string>
+    <string name="back">ਪਿੱਛੇ</string>
+    <string name="settings_language">ਭਾਸ਼ਾ</string>
+    <string name="language_system_default">ਸਿਸਟਮ ਦੀ ਭਾਸ਼ਾ</string>
+    <string name="language_more">ਹੋਰ ਭਾਸ਼ਾਵਾਂ</string>
+    <string name="language_search">ਖੋਜੋ</string>
+    <string name="language_search_hint">ਭਾਸ਼ਾ ਖੋਜੋ</string>
+    <string name="language_clear_search">ਖੋਜ ਸਾਫ਼ ਕਰੋ</string>
+    <string name="language_no_results">ਕੋਈ ਭਾਸ਼ਾ ਨਹੀਂ ਮਿਲੀ</string>
+    <string name="about_title">ਐਪ ਬਾਰੇ</string>
+    <string name="about_version">ਵਰਜਨ %1$s</string>
+    <string name="about_made_by">ਨਿਰਮਾਤਾ:</string>
+    <string name="about_privacy">ਪਰਦੇਦਾਰੀ</string>
+    <string name="about_terms">ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ</string>
+    <string name="about_licenses">ਓਪਨ ਸੋਰਸ ਲਾਇਸੰਸ</string>
+    <string name="about_tip_jar">ਟਿੱਪ</string>
+    <string name="privacy_offline_title">ਆਫ਼ਲਾਈਨ ਵਰਤੋਂ</string>
+    <string name="privacy_offline">%1$s ਨੈੱਟਵਰਕ ਤੋਂ ਬਿਨਾਂ ਚੱਲਦੀ ਹੈ। ਇਸ ਕੋਲ ਇੰਟਰਨੈੱਟ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਅਤੇ ਇਹ ਕਦੇ ਵੀ ਕਿਤੇ ਕਨੈਕਟ ਨਹੀਂ ਹੁੰਦੀ।</string>
+    <string name="privacy_permissions_title">ਇਜਾਜ਼ਤਾਂ</string>
+    <string name="privacy_permissions">ਐਪ ਕੋਈ ਇਜਾਜ਼ਤ ਨਹੀਂ ਮੰਗਦੀ।</string>
+    <string name="privacy_links_title">ਲਿੰਕ</string>
+    <string name="privacy_links">ਸੰਪਰਕ ਪਤਾ ਸਿਰਫ਼ ਤੁਹਾਡੀ ਈਮੇਲ ਐਪ ਖੋਲ੍ਹਦਾ ਹੈ ਜਾਂ ਪਤਾ ਕਾਪੀ ਕਰਦਾ ਹੈ। ਟਿੱਪ ਸਿਰਫ਼ ਦੂਜੇ ਫ਼ੋਨ ਨਾਲ ਸਕੈਨ ਕਰਨ ਲਈ ਕੋਡ ਦਿਖਾਉਂਦੀ ਹੈ। ਉੱਥੇ ਜੋ ਹੁੰਦਾ ਹੈ, ਉਹ ਇਸ ਐਪ ਤੋਂ ਬਾਹਰ ਹੈ।</string>
+    <string name="terms_free_title">ਮੁਫ਼ਤ ਅਤੇ ਬਿਨਾਂ ਵਾਰੰਟੀ</string>
+    <string name="terms_free">%1$s ਮੁਫ਼ਤ ਹੈ ਅਤੇ ਜਿਵੇਂ ਹੈ ਉਵੇਂ, ਬਿਨਾਂ ਕਿਸੇ ਵਾਰੰਟੀ ਦੇ ਦਿੱਤੀ ਜਾਂਦੀ ਹੈ। ਟਿੱਪ ਆਪਣੀ ਮਰਜ਼ੀ ਨਾਲ ਹੈ ਅਤੇ ਕੁਝ ਵੀ ਅਨਲੌਕ ਨਹੀਂ ਕਰਦੀ।</string>
+    <string name="terms_liability_title">ਜ਼ਿੰਮੇਵਾਰੀ</string>
+    <string name="terms_liability">ਕਾਨੂੰਨ ਵੱਲੋਂ ਦਿੱਤੀ ਇਜਾਜ਼ਤ ਦੀ ਹੱਦ ਤੱਕ ਡਿਵੈਲਪਰ (%1$s, %2$s) ਐਪ ਦੀ ਵਰਤੋਂ ਨਾਲ ਹੋਏ ਨੁਕਸਾਨ ਲਈ ਜ਼ਿੰਮੇਵਾਰ ਨਹੀਂ ਹੈ। ਇਸ ਨਾਲ ਖਪਤਕਾਰ ਵਜੋਂ ਤੁਹਾਡੇ ਕਾਨੂੰਨੀ ਹੱਕਾਂ \'ਤੇ ਕੋਈ ਅਸਰ ਨਹੀਂ ਪੈਂਦਾ।</string>
+    <string name="licenses_intro">%1$s ਇਨ੍ਹਾਂ ਓਪਨ ਸੋਰਸ ਹਿੱਸਿਆਂ ਨਾਲ ਬਣੀ ਹੈ:</string>
+    <string name="license_text">ਲਾਇਸੰਸ ਦਾ ਪਾਠ: %1$s</string>
+    <string name="tip_jar_text">%1$s ਪਸੰਦ ਆਈ? %2$s \'ਤੇ ਟਿੱਪ ਦੇਣ ਲਈ ਦੂਜੇ ਫ਼ੋਨ ਨਾਲ ਕੋਡ ਸਕੈਨ ਕਰੋ। ਟਿੱਪ ਆਪਣੀ ਮਰਜ਼ੀ ਨਾਲ ਹੈ ਅਤੇ ਕੁਝ ਵੀ ਅਨਲੌਕ ਨਹੀਂ ਕਰਦੀ।</string>
+</resources>

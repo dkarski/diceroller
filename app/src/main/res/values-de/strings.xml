@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Einstellungen</string>
+    <string name="settings_contact_tap_email">Tippen, um eine E-Mail zu schreiben</string>
+    <string name="settings_contact_tap_copy">Tippen zum Kopieren</string>
+    <string name="settings_vibration">Vibration</string>
+    <string name="coming_soon_copied">E-Mail kopiert</string>
+    <string name="feedback_body">Hallo! Mein Feedback:\n\n</string>
+    <string name="settings_about">Über</string>
+    <string name="settings_section_app">App</string>
+    <string name="back">Zurück</string>
+    <string name="settings_language">Sprache</string>
+    <string name="language_system_default">Systemsprache</string>
+    <string name="language_more">Weitere Sprachen</string>
+    <string name="language_search">Suchen</string>
+    <string name="language_search_hint">Sprache suchen</string>
+    <string name="language_clear_search">Suche löschen</string>
+    <string name="language_no_results">Keine Sprache gefunden</string>
+    <string name="about_title">Über</string>
+    <string name="about_version">Version %1$s</string>
+    <string name="about_made_by">Entwickelt von:</string>
+    <string name="about_privacy">Datenschutz</string>
+    <string name="about_terms">Nutzungsbedingungen</string>
+    <string name="about_licenses">Open-Source-Lizenzen</string>
+    <string name="about_tip_jar">Trinkgeld</string>
+    <string name="privacy_offline_title">Offline-Nutzung</string>
+    <string name="privacy_offline">%1$s funktioniert ohne Netzwerk. Die App hat keine Internetberechtigung und verbindet sich nie mit etwas.</string>
+    <string name="privacy_permissions_title">Berechtigungen</string>
+    <string name="privacy_permissions">Die App fragt keine Berechtigungen an.</string>
+    <string name="privacy_links_title">Links</string>
+    <string name="privacy_links">Die Kontaktadresse öffnet nur deine E-Mail-App oder kopiert die Adresse. Das Trinkgeld zeigt nur einen Code zum Scannen mit einem anderen Telefon. Was dort passiert, liegt außerhalb dieser App.</string>
+    <string name="terms_free_title">Kostenlos und ohne Gewährleistung</string>
+    <string name="terms_free">%1$s ist kostenlos und wird ohne Gewährleistung so bereitgestellt, wie es ist. Trinkgeld ist freiwillig und schaltet nichts frei.</string>
+    <string name="terms_liability_title">Haftung</string>
+    <string name="terms_liability">Soweit gesetzlich zulässig, haftet der Entwickler (%1$s, %2$s) nicht für Schäden durch die Nutzung der App. Deine gesetzlichen Verbraucherrechte bleiben unberührt.</string>
+    <string name="licenses_intro">%1$s verwendet diese Open-Source-Bestandteile:</string>
+    <string name="license_text">Lizenztext: %1$s</string>
+    <string name="tip_jar_text">Gefällt dir %1$s? Scanne den Code mit einem anderen Telefon, um auf %2$s Trinkgeld zu geben. Trinkgeld ist freiwillig und schaltet nichts frei.</string>
+</resources>

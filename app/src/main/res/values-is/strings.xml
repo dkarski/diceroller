@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Stillingar</string>
+    <string name="settings_contact_tap_email">Ýttu til að skrifa tölvupóst</string>
+    <string name="settings_contact_tap_copy">Ýttu til að afrita</string>
+    <string name="settings_vibration">Titringur</string>
+    <string name="coming_soon_copied">Netfang afritað</string>
+    <string name="feedback_body">Hæ! Ábendingin mín:\n\n</string>
+    <string name="settings_about">Um forritið</string>
+    <string name="settings_section_app">Forrit</string>
+    <string name="back">Til baka</string>
+    <string name="settings_language">Tungumál</string>
+    <string name="language_system_default">Tungumál kerfis</string>
+    <string name="language_more">Fleiri tungumál</string>
+    <string name="language_search">Leita</string>
+    <string name="language_search_hint">Leita að tungumáli</string>
+    <string name="language_clear_search">Hreinsa leit</string>
+    <string name="language_no_results">Engin tungumál fundust</string>
+    <string name="about_title">Um forritið</string>
+    <string name="about_version">Útgáfa %1$s</string>
+    <string name="about_made_by">Höfundur:</string>
+    <string name="about_privacy">Persónuvernd</string>
+    <string name="about_terms">Notkunarskilmálar</string>
+    <string name="about_licenses">Leyfi fyrir opinn hugbúnað</string>
+    <string name="about_tip_jar">Þjórfé</string>
+    <string name="privacy_offline_title">Notkun án nettengingar</string>
+    <string name="privacy_offline">%1$s virkar án nettengingar. Forritið hefur ekki netheimild og tengist aldrei neinu.</string>
+    <string name="privacy_permissions_title">Heimildir</string>
+    <string name="privacy_permissions">Forritið biður ekki um neinar heimildir.</string>
+    <string name="privacy_links_title">Tenglar</string>
+    <string name="privacy_links">Netfangið opnar aðeins tölvupóstforritið þitt eða afritar netfangið. Þjórfé sýnir aðeins kóða til að skanna með öðrum síma. Það sem gerist þar er utan þessa forrits.</string>
+    <string name="terms_free_title">Ókeypis og án ábyrgðar</string>
+    <string name="terms_free">%1$s er ókeypis og afhent eins og það er, án ábyrgðar. Þjórfé er valfrjálst og opnar ekkert.</string>
+    <string name="terms_liability_title">Ábyrgð</string>
+    <string name="terms_liability">Að því marki sem lög leyfa ber forritarinn (%1$s, %2$s) ekki ábyrgð á tjóni sem hlýst af notkun forritsins. Þetta hefur ekki áhrif á lögbundin neytendaréttindi þín.</string>
+    <string name="licenses_intro">%1$s er byggt á þessum hlutum úr opnum hugbúnaði:</string>
+    <string name="license_text">Texti leyfis: %1$s</string>
+    <string name="tip_jar_text">Líkar þér %1$s? Skannaðu kóðann með öðrum síma til að gefa þjórfé á %2$s. Þjórfé er valfrjálst og opnar ekkert.</string>
+</resources>

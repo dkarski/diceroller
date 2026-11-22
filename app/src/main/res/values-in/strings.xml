@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Setelan</string>
+    <string name="settings_contact_tap_email">Ketuk untuk menulis email</string>
+    <string name="settings_contact_tap_copy">Ketuk untuk menyalin</string>
+    <string name="settings_vibration">Getaran</string>
+    <string name="coming_soon_copied">Email disalin</string>
+    <string name="feedback_body">Halo! Masukan saya:\n\n</string>
+    <string name="settings_about">Tentang</string>
+    <string name="settings_section_app">Aplikasi</string>
+    <string name="back">Kembali</string>
+    <string name="settings_language">Bahasa</string>
+    <string name="language_system_default">Bawaan sistem</string>
+    <string name="language_more">Bahasa lainnya</string>
+    <string name="language_search">Cari</string>
+    <string name="language_search_hint">Cari bahasa</string>
+    <string name="language_clear_search">Hapus pencarian</string>
+    <string name="language_no_results">Bahasa tidak ditemukan</string>
+    <string name="about_title">Tentang</string>
+    <string name="about_version">Versi %1$s</string>
+    <string name="about_made_by">Dibuat oleh:</string>
+    <string name="about_privacy">Privasi</string>
+    <string name="about_terms">Ketentuan penggunaan</string>
+    <string name="about_licenses">Lisensi sumber terbuka</string>
+    <string name="about_tip_jar">Tip</string>
+    <string name="privacy_offline_title">Penggunaan offline</string>
+    <string name="privacy_offline">%1$s berfungsi tanpa jaringan. Aplikasi ini tidak punya izin internet dan tidak pernah terhubung ke mana pun.</string>
+    <string name="privacy_permissions_title">Izin</string>
+    <string name="privacy_permissions">Aplikasi ini tidak meminta izin apa pun.</string>
+    <string name="privacy_links_title">Tautan</string>
+    <string name="privacy_links">Alamat kontak hanya membuka aplikasi email Anda atau menyalin alamat. Tip hanya menampilkan kode untuk dipindai dengan ponsel lain. Apa yang terjadi di sana berada di luar aplikasi ini.</string>
+    <string name="terms_free_title">Gratis dan tanpa jaminan</string>
+    <string name="terms_free">%1$s gratis dan disediakan apa adanya, tanpa jaminan. Tip bersifat sukarela dan tidak membuka apa pun.</string>
+    <string name="terms_liability_title">Tanggung jawab</string>
+    <string name="terms_liability">Sejauh diizinkan oleh hukum, pengembang (%1$s, %2$s) tidak bertanggung jawab atas kerugian akibat penggunaan aplikasi. Hak konsumen Anda menurut hukum tidak terpengaruh.</string>
+    <string name="licenses_intro">%1$s dibuat dengan komponen sumber terbuka berikut:</string>
+    <string name="license_text">Teks lisensi: %1$s</string>
+    <string name="tip_jar_text">Suka %1$s? Pindai kode dengan ponsel lain untuk memberi tip di %2$s. Tip bersifat sukarela dan tidak membuka apa pun.</string>
+</resources>

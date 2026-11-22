@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">הגדרות</string>
+    <string name="settings_contact_tap_email">הקש כדי לכתוב אימייל</string>
+    <string name="settings_contact_tap_copy">הקש כדי להעתיק</string>
+    <string name="settings_vibration">רטט</string>
+    <string name="coming_soon_copied">האימייל הועתק</string>
+    <string name="feedback_body">שלום! המשוב שלי:\n\n</string>
+    <string name="settings_about">אודות</string>
+    <string name="settings_section_app">אפליקציה</string>
+    <string name="back">חזרה</string>
+    <string name="settings_language">שפה</string>
+    <string name="language_system_default">שפת המערכת</string>
+    <string name="language_more">שפות נוספות</string>
+    <string name="language_search">חיפוש</string>
+    <string name="language_search_hint">חיפוש שפה</string>
+    <string name="language_clear_search">ניקוי החיפוש</string>
+    <string name="language_no_results">לא נמצאו שפות</string>
+    <string name="about_title">אודות</string>
+    <string name="about_version">גרסה %1$s</string>
+    <string name="about_made_by">נוצר על ידי:</string>
+    <string name="about_privacy">פרטיות</string>
+    <string name="about_terms">תנאי שימוש</string>
+    <string name="about_licenses">רישיונות קוד פתוח</string>
+    <string name="about_tip_jar">טיפ</string>
+    <string name="privacy_offline_title">שימוש ללא רשת</string>
+    <string name="privacy_offline">%1$s פועלת ללא רשת. אין לה הרשאת אינטרנט והיא אף פעם לא מתחברת לשום דבר.</string>
+    <string name="privacy_permissions_title">הרשאות</string>
+    <string name="privacy_permissions">האפליקציה לא מבקשת שום הרשאה.</string>
+    <string name="privacy_links_title">קישורים</string>
+    <string name="privacy_links">כתובת הקשר רק פותחת את אפליקציית האימייל שלך או מעתיקה את הכתובת. הטיפ רק מציג קוד לסריקה בטלפון אחר. מה שקורה שם הוא מחוץ לאפליקציה הזו.</string>
+    <string name="terms_free_title">חינם וללא אחריות</string>
+    <string name="terms_free">%1$s חינמית ומסופקת כמו שהיא, ללא אחריות. טיפים הם וולונטריים ואינם פותחים דבר.</string>
+    <string name="terms_liability_title">אחריות</string>
+    <string name="terms_liability">במידה המותרת בחוק, המפתח (%1$s, %2$s) אינו אחראי לנזק שנגרם משימוש באפליקציה. זכויות הצרכן שלך על פי חוק אינן נפגעות.</string>
+    <string name="licenses_intro">%1$s בנויה עם רכיבי הקוד הפתוח האלה:</string>
+    <string name="license_text">נוסח הרישיון: %1$s</string>
+    <string name="tip_jar_text">נהנים מ-%1$s? סרקו את הקוד בטלפון אחר כדי להשאיר טיפ ב-%2$s. טיפים הם וולונטריים ואינם פותחים דבר.</string>
+</resources>

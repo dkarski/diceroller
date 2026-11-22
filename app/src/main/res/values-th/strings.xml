@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">การตั้งค่า</string>
+    <string name="settings_contact_tap_email">แตะเพื่อเขียนอีเมล</string>
+    <string name="settings_contact_tap_copy">แตะเพื่อคัดลอก</string>
+    <string name="settings_vibration">การสั่น</string>
+    <string name="coming_soon_copied">คัดลอกอีเมลแล้ว</string>
+    <string name="feedback_body">สวัสดี! ความคิดเห็นของฉัน:\n\n</string>
+    <string name="settings_about">เกี่ยวกับ</string>
+    <string name="settings_section_app">แอป</string>
+    <string name="back">ย้อนกลับ</string>
+    <string name="settings_language">ภาษา</string>
+    <string name="language_system_default">ภาษาของระบบ</string>
+    <string name="language_more">ภาษาอื่นๆ</string>
+    <string name="language_search">ค้นหา</string>
+    <string name="language_search_hint">ค้นหาภาษา</string>
+    <string name="language_clear_search">ล้างการค้นหา</string>
+    <string name="language_no_results">ไม่พบภาษา</string>
+    <string name="about_title">เกี่ยวกับ</string>
+    <string name="about_version">เวอร์ชัน %1$s</string>
+    <string name="about_made_by">สร้างโดย:</string>
+    <string name="about_privacy">ความเป็นส่วนตัว</string>
+    <string name="about_terms">ข้อกำหนดการใช้งาน</string>
+    <string name="about_licenses">สัญญาอนุญาตโอเพนซอร์ส</string>
+    <string name="about_tip_jar">ทิป</string>
+    <string name="privacy_offline_title">ใช้งานแบบออฟไลน์</string>
+    <string name="privacy_offline">%1$s ทำงานได้โดยไม่ต้องใช้เครือข่าย ไม่มีสิทธิ์เข้าถึงอินเทอร์เน็ตและไม่เชื่อมต่อกับที่ใดเลย</string>
+    <string name="privacy_permissions_title">สิทธิ์</string>
+    <string name="privacy_permissions">แอปไม่ขอสิทธิ์ใดๆ</string>
+    <string name="privacy_links_title">ลิงก์</string>
+    <string name="privacy_links">ที่อยู่ติดต่อจะเปิดแอปอีเมลหรือคัดลอกที่อยู่เท่านั้น ทิปจะแสดงเพียงโค้ดสำหรับสแกนด้วยโทรศัพท์อีกเครื่อง สิ่งที่เกิดขึ้นที่นั่นอยู่นอกแอปนี้</string>
+    <string name="terms_free_title">ฟรีและไม่มีการรับประกัน</string>
+    <string name="terms_free">%1$s ใช้ได้ฟรีและให้บริการตามสภาพ โดยไม่มีการรับประกัน ทิปเป็นไปโดยสมัครใจและไม่ปลดล็อกสิ่งใด</string>
+    <string name="terms_liability_title">ความรับผิด</string>
+    <string name="terms_liability">ภายในขอบเขตที่กฎหมายอนุญาต ผู้พัฒนา (%1$s, %2$s) ไม่รับผิดชอบต่อความเสียหายจากการใช้แอป สิทธิตามกฎหมายของคุณในฐานะผู้บริโภคจะไม่ได้รับผลกระทบ</string>
+    <string name="licenses_intro">%1$s สร้างขึ้นด้วยส่วนประกอบโอเพนซอร์สเหล่านี้:</string>
+    <string name="license_text">ข้อความสัญญาอนุญาต: %1$s</string>
+    <string name="tip_jar_text">ชอบ %1$s ไหม สแกนโค้ดด้วยโทรศัพท์อีกเครื่องเพื่อให้ทิปบน %2$s ทิปเป็นไปโดยสมัครใจและไม่ปลดล็อกสิ่งใด</string>
+</resources>

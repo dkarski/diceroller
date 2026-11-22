@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">設定</string>
+    <string name="settings_contact_tap_email">輕觸即可寫信</string>
+    <string name="settings_contact_tap_copy">輕觸即可複製</string>
+    <string name="settings_vibration">震動</string>
+    <string name="coming_soon_copied">已複製電子郵件</string>
+    <string name="feedback_body">你好！我的意見：\n\n</string>
+    <string name="settings_about">關於</string>
+    <string name="settings_section_app">應用程式</string>
+    <string name="back">返回</string>
+    <string name="settings_language">語言</string>
+    <string name="language_system_default">跟隨系統</string>
+    <string name="language_more">更多語言</string>
+    <string name="language_search">搜尋</string>
+    <string name="language_search_hint">搜尋語言</string>
+    <string name="language_clear_search">清除搜尋</string>
+    <string name="language_no_results">找不到語言</string>
+    <string name="about_title">關於</string>
+    <string name="about_version">版本 %1$s</string>
+    <string name="about_made_by">開發者：</string>
+    <string name="about_privacy">隱私</string>
+    <string name="about_terms">使用條款</string>
+    <string name="about_licenses">開放原始碼授權</string>
+    <string name="about_tip_jar">小費</string>
+    <string name="privacy_offline_title">離線使用</string>
+    <string name="privacy_offline">%1$s 不需網路即可使用。它沒有網路權限，也從不連線到任何地方。</string>
+    <string name="privacy_permissions_title">權限</string>
+    <string name="privacy_permissions">本 App 不要求任何權限。</string>
+    <string name="privacy_links_title">連結</string>
+    <string name="privacy_links">聯絡地址只會開啟你的郵件 App 或複製地址。小費只會顯示一個 QR 碼，需用另一支手機掃描。之後發生的事與本 App 無關。</string>
+    <string name="terms_free_title">免費且不提供保固</string>
+    <string name="terms_free">%1$s 免費，依現狀提供，不作任何保證。小費完全自願，不會解鎖任何內容。</string>
+    <string name="terms_liability_title">責任</string>
+    <string name="terms_liability">在法律允許的範圍內，開發者（%1$s，%2$s）不對因使用本 App 造成的損害負責。這不影響你作為消費者的法定權利。</string>
+    <string name="licenses_intro">%1$s 使用了以下開放原始碼元件：</string>
+    <string name="license_text">授權條款全文：%1$s</string>
+    <string name="tip_jar_text">喜歡 %1$s 嗎？用另一支手機掃描 QR 碼，即可在 %2$s 上給小費。小費完全自願，不會解鎖任何內容。</string>
+</resources>
