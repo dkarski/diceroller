@@ -17,7 +17,7 @@ permissions:
 jobs:
   pr-title:
     name: PR title
-    if: github.event_name == 'pull_request'
+    if: github.event_name == 'pull_request' && !startsWith(github.head_ref, 'release-please--')
     runs-on: ubuntu-24.04
     permissions:
       pull-requests: read
@@ -43,7 +43,7 @@ jobs:
           ignoreLabels: dependencies
           subjectPatternError: >-
             The subject "{subject}" must start with a capital letter and have no final period,
-            for example: feat: Three-player games were added
+            for example: feat: Dice presets were added
 
   build:
     name: Build

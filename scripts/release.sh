@@ -1,19 +1,22 @@
 #!/usr/bin/env bash
-# Build the signed release APK (R8 + resource shrinking) and verify its signature.
-# Needs release.* entries in local.properties (see README). The keystore lives outside the repo.
+# Optional local production signing. The normal publication path is GitHub Actions.
 set -euo pipefail
 source "$(dirname "$0")/env.sh"
 cd "$PROJECT_ROOT"
-
 if ! grep -q '^release.storeFile=' local.properties 2>/dev/null; then
-  echo "Missing release signing config in local.properties. Run scripts/make-keystore.sh first." >&2
+  echo "Missing signing config in local.properties. See CONTRIBUTING.md." >&2
   exit 1
 fi
-
 ./gradlew :app:assembleRelease --quiet
-APK="app/build/outputs/apk/release/app-release.apk"
-apksigner verify --print-certs "$APK" | head -3
+VERSION="$(cat version.txt)"
+APK="app/build/outputs/apk/release/diceroller-$VERSION-release.apk"
+apksigner verify --print-certs "$APK"
+zipalign -c -p 4 "$APK"
+IFS=. read -r MA MI PA <<< "$VERSION"
+CODE=$((MA * 1000000 + MI * 1000 + PA))
+BADGE="$(aapt2 dump badging "$APK" | sed -n 1p)"
+grep -q "name='$RELEASE_APP_ID' versionCode='$CODE' versionName='$VERSION'" <<< "$BADGE"
 mkdir -p dist
-VERSION="$(aapt2 dump badging "$APK" | sed -n "s/.*versionName='\([^']*\)'.*/\1/p")"
 cp "$APK" "dist/$APP_SLUG-$VERSION.apk"
-ls -lh "dist/$APP_SLUG-$VERSION.apk"
+(cd dist && shasum -a 256 "$APP_SLUG-$VERSION.apk" > "$APP_SLUG-$VERSION.apk.sha256")
+echo "Verified dist/$APP_SLUG-$VERSION.apk. Nothing was published."

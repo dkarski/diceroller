@@ -34,7 +34,8 @@ English in `app/src/main/res/values/strings.xml` is the source for all 63 langua
 ## Pull requests
 
 Pull requests are squash-merged. The title becomes the commit on `main` and, for `feat` and `fix`, a line in the
-changelog. Titles follow [Conventional Commits](https://www.conventionalcommits.org/), checked by CI:
+changelog. Automated release PRs are exempt from the subject capitalization check. Other titles follow
+[Conventional Commits](https://www.conventionalcommits.org/), checked by CI:
 
 | Type | Use for | Version |
 |---|---|---|
@@ -46,7 +47,7 @@ changelog. Titles follow [Conventional Commits](https://www.conventionalcommits.
 `feat!:` marks a breaking change and makes a major release.
 
 Write the subject for users, as one sentence that starts with a capital letter and has no final period:
-`feat: Three-player games were added`, not `feat: add PlayerCount enum`.
+`feat: Dice presets were added`, not `feat: add DiePreset enum`.
 Judge them against the latest published release. Clearer texts are `feat`, not `fix`. A change to something that
 is new in the same unreleased version is part of that `feat` and gets no line of its own.
 
@@ -55,8 +56,8 @@ changelog entry:
 
 ```text
 BEGIN_COMMIT_OVERRIDE
-feat: Three-player games were added
-fix: The counter no longer resets after a language change
+feat: Dice presets were added
+fix: Combined rolls no longer reset after a language change
 END_COMMIT_OVERRIDE
 ```
 
@@ -72,8 +73,10 @@ Releases are made by GitHub Actions only. The version lives in `version.txt`. `v
 1. After each merge to `main`, the Release workflow updates a pull request named `chore(release): vX.Y.Z` with
    the next version and the new `CHANGELOG.md` section.
 2. Review the version and the changelog. The section becomes the release notes.
-3. Ensure the release commit passes CI before merging. Bot-created PRs may need approval or a manually dispatched CI run; do not treat a missing check as a pass.
-4. The workflow tags the commit, creates a draft release, builds and signs the APK, and verifies the signing
+3. Ensure the release commit passes CI before merging. Bot-created PRs may need approval or a manually
+   dispatched CI run; do not treat a missing check as a pass.
+4. The workflow tags the commit, creates a draft release, builds the APK and waits for approval of the
+   `release` environment. Once approved, it signs the APK and verifies the signing
    certificate, package name, `versionName` and `versionCode`. It then attaches `diceroller-X.Y.Z.apk` with its
    `.sha256` file and publishes the release.
 
@@ -85,8 +88,9 @@ name in InkApps:
 gh release edit v1.1.0 --title "v1.1.0: Play in your language"
 ```
 
-If the APK job fails, the release stays a draft. Fix the cause on `main`, then run *Actions > Release > Run
-workflow* with the tag, for example `v1.1.0`. It builds the tagged commit, verifies it and publishes the draft.
+If signing or infrastructure fails, the release stays a draft. Correct the configuration, then run
+*Actions > Release > Run workflow* on `main` with the tag, for example `v1.1.0`.
+It builds the same tagged commit, verifies it and publishes the draft after environment approval.
 A published release is never rebuilt. If the app code has to change, delete the draft release and its tag, and
 release a new version.
 
@@ -112,8 +116,8 @@ actions are pinned to commit SHAs and updated by Dependabot.
 | `RELEASE_CERT_SHA256` | variable | SHA-256 of the signing certificate |
 
 Every version must be signed with the same key. Android rejects an update signed with another key, so users would
-have to uninstall the app and lose their data. After the first production release, never replace its signing key. Keep an offline backup of the
-keystore and its passwords.
+have to uninstall the app and lose their data. After the first production release, never replace its signing key.
+Keep an offline backup of the keystore and its passwords.
 
 To sign a release build locally, add these to `local.properties`, which Git ignores:
 
