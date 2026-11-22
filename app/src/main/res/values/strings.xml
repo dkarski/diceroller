@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">Dice Roller</string>
+    <string name="app_name" translatable="false">DiceRoller</string>
     <string name="settings_title">Settings</string>
     <string name="settings_contact_tap_email">Tap to write an email</string>
     <string name="settings_contact_tap_copy">Tap to copy</string>
@@ -37,4 +37,37 @@
     <string name="licenses_intro">%1$s is built with these open source parts:</string>
     <string name="license_text">License text: %1$s</string>
     <string name="tip_jar_text">Enjoying %1$s? Scan the code with another phone to leave a tip on %2$s. Tips are voluntary and unlock nothing.</string>
+    <!-- English-only UX MVP domain strings; translate after the UX checkpoint. -->
+    <string name="combine_rolls" translatable="false">Combine rolls</string>
+    <string name="roll_die" translatable="false">Roll %1$s</string>
+    <string name="roll_custom" translatable="false">Roll custom D%1$d</string>
+    <string name="edit_custom" translatable="false">Change custom range, now D%1$d</string>
+    <string name="custom_label" translatable="false">Custom</string>
+    <string name="coin_label" translatable="false">Coin</string>
+    <string name="flip_coin" translatable="false">Flip Coin</string>
+    <string name="roll_label" translatable="false">Roll</string>
+    <string name="coin_heads" translatable="false">Heads</string>
+    <string name="coin_tails" translatable="false">Tails</string>
+    <plurals name="dice_count" translatable="false">
+        <item quantity="one">%1$d die</item>
+        <item quantity="other">%1$d dice</item>
+    </plurals>
+    <string name="reroll_set" translatable="false">Reroll</string>
+    <string name="combine_done" translatable="false">Done</string>
+    <string name="coin_as_numbers" translatable="false">Coin as numbers</string>
+    <string name="keep_screen_on" translatable="false">Keep screen on</string>
+    <string name="dark_theme" translatable="false">Dark theme</string>
+    <string name="language_english" translatable="false">English</string>
+    <string name="custom_dialog_title" translatable="false">Custom die</string>
+    <string name="custom_sides_label" translatable="false">Sides</string>
+    <string name="custom_invalid" translatable="false">Enter a whole number from 2 to 9999.</string>
+    <string name="custom_range_hint" translatable="false">Rolls from 1 to this number.</string>
+    <string name="save_custom" translatable="false">Save</string>
+    <string name="total_description" translatable="false">Total: %1$d</string>
+    <string name="result_description" translatable="false">%1$s result: %2$s</string>
+    <!-- About additions shared with Lifepoints; English until translated (translatable="false"). -->
+    <string name="privacy_data_title" translatable="false">Your data</string>
+    <string name="privacy_data" translatable="false">Your settings are stored only on this phone and are deleted when you uninstall the app. Rolls are not saved. Nothing is collected, sent anywhere or shared with third parties.</string>
+    <string name="about_legal" translatable="false">Legal notes</string>
+    <string name="legal_notes" translatable="false">%1$s is an independent app. It contains no third-party trademarks.</string>
 </resources>
