@@ -36,4 +36,34 @@
     <string name="licenses_intro">%1$s ត្រូវបានបង្កើតជាមួយផ្នែកកូដចំហទាំងនេះ៖</string>
     <string name="license_text">អត្ថបទអាជ្ញាប័ណ្ណ៖ %1$s</string>
     <string name="tip_jar_text">ចូលចិត្ត %1$s ទេ? ស្កេនកូដដោយទូរសព្ទផ្សេងដើម្បីផ្ដល់ទឹកតែនៅលើ %2$s។ ទឹកតែជាការស្ម័គ្រចិត្ត ហើយមិនដោះសោអ្វីទេ។</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">បូកការបោះ</string>
+    <string name="roll_die">បោះ %1$s</string>
+    <string name="roll_custom">បោះ D%1$d ផ្ទាល់ខ្លួន</string>
+    <string name="edit_custom">ប្ដូរជួរផ្ទាល់ខ្លួន ឥឡូវ D%1$d</string>
+    <string name="custom_label">ផ្ទាល់ខ្លួន</string>
+    <string name="coin_label">កាក់</string>
+    <string name="flip_coin">បោះកាក់</string>
+    <string name="roll_label">បោះ</string>
+    <string name="coin_heads">ក្បាល</string>
+    <string name="coin_tails">កន្ទុយ</string>
+    <string name="reroll_set">បោះម្ដងទៀត</string>
+    <string name="combine_done">រួចរាល់</string>
+    <string name="coin_as_numbers">កាក់ជាលេខ</string>
+    <string name="keep_screen_on">អេក្រង់បើកជានិច្ច</string>
+    <string name="dark_theme">រចនាប័ទ្មងងឹត</string>
+    <string name="custom_dialog_title">គ្រាប់ឡុកឡាក់ផ្ទាល់ខ្លួន</string>
+    <string name="custom_sides_label">ផ្ទៃ</string>
+    <string name="custom_invalid">បញ្ចូលចំនួនគត់ពី 2 ដល់ 9999។</string>
+    <string name="custom_range_hint">បោះពី 1 ដល់លេខនេះ។</string>
+    <string name="save_custom">រក្សាទុក</string>
+    <string name="total_description">សរុប៖ %1$d</string>
+    <string name="result_description">លទ្ធផល %1$s៖ %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="other">គ្រាប់ឡុកឡាក់ %1$d</item>
+    </plurals>
+    <string name="privacy_data_title">ទិន្នន័យរបស់អ្នក</string>
+    <string name="privacy_data">ការកំណត់ត្រូវបានរក្សាទុកតែក្នុងទូរសព្ទនេះប៉ុណ្ណោះ ហើយត្រូវលុបនៅពេលអ្នកលុបកម្មវិធី។ គ្មានអ្វីត្រូវបានប្រមូល ផ្ញើ ឬចែករំលែកជាមួយភាគីទីបីឡើយ។ ការបោះមិនត្រូវបានរក្សាទុកទេ។</string>
+    <string name="about_legal">ព័ត៌មានផ្លូវច្បាប់</string>
+    <string name="legal_notes">%1$s ជាកម្មវិធីឯករាជ្យ។ វាមិនមានពាណិជ្ជសញ្ញារបស់ភាគីទីបីឡើយ។</string>
 </resources>

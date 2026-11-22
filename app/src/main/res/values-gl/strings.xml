@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s está feito con estes compoñentes de código aberto:</string>
     <string name="license_text">Texto da licenza: %1$s</string>
     <string name="tip_jar_text">Gústache %1$s? Escanea o código con outro teléfono para deixar unha propina en %2$s. As propinas son voluntarias e non desbloquean nada.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Sumar tiradas</string>
+    <string name="roll_die">Tirar %1$s</string>
+    <string name="roll_custom">Tirar dado propio D%1$d</string>
+    <string name="edit_custom">Cambiar o intervalo propio, agora D%1$d</string>
+    <string name="custom_label">Propio</string>
+    <string name="coin_label">Moeda</string>
+    <string name="flip_coin">Lanzar moeda</string>
+    <string name="roll_label">Tirar</string>
+    <string name="coin_heads">Cara</string>
+    <string name="coin_tails">Cruz</string>
+    <string name="reroll_set">Repetir</string>
+    <string name="combine_done">Feito</string>
+    <string name="coin_as_numbers">Moeda como números</string>
+    <string name="keep_screen_on">Pantalla sempre acendida</string>
+    <string name="dark_theme">Tema escuro</string>
+    <string name="custom_dialog_title">Dado propio</string>
+    <string name="custom_sides_label">Caras</string>
+    <string name="custom_invalid">Introduce un número enteiro do 2 ao 9999.</string>
+    <string name="custom_range_hint">Tira do 1 a este número.</string>
+    <string name="save_custom">Gardar</string>
+    <string name="total_description">Total: %1$d</string>
+    <string name="result_description">%1$s, resultado: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d dado</item>
+        <item quantity="other">%1$d dados</item>
+    </plurals>
+    <string name="privacy_data_title">Os teus datos</string>
+    <string name="privacy_data">Os axustes gárdanse só neste teléfono e elimínanse ao desinstalar a app. Non se recolle, envía nin comparte nada con terceiros. As tiradas non se gardan.</string>
+    <string name="about_legal">Avisos legais</string>
+    <string name="legal_notes">%1$s é unha app independente. Non contén marcas de terceiros.</string>
 </resources>

@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s er byggt á þessum hlutum úr opnum hugbúnaði:</string>
     <string name="license_text">Texti leyfis: %1$s</string>
     <string name="tip_jar_text">Líkar þér %1$s? Skannaðu kóðann með öðrum síma til að gefa þjórfé á %2$s. Þjórfé er valfrjálst og opnar ekkert.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Leggja köst saman</string>
+    <string name="roll_die">Kasta %1$s</string>
+    <string name="roll_custom">Kasta eigin D%1$d</string>
+    <string name="edit_custom">Breyta eigin bili, nú D%1$d</string>
+    <string name="custom_label">Eigin</string>
+    <string name="coin_label">Mynt</string>
+    <string name="flip_coin">Kasta upp mynt</string>
+    <string name="roll_label">Kasta</string>
+    <string name="coin_heads">Fiskur</string>
+    <string name="coin_tails">Skjaldarmerki</string>
+    <string name="reroll_set">Aftur</string>
+    <string name="combine_done">Lokið</string>
+    <string name="coin_as_numbers">Mynt sem tölur</string>
+    <string name="keep_screen_on">Skjár alltaf á</string>
+    <string name="dark_theme">Dökkt þema</string>
+    <string name="custom_dialog_title">Eigin teningur</string>
+    <string name="custom_sides_label">Hliðar</string>
+    <string name="custom_invalid">Sláðu inn heiltölu frá 2 til 9999.</string>
+    <string name="custom_range_hint">Kastar frá 1 upp í þessa tölu.</string>
+    <string name="save_custom">Vista</string>
+    <string name="total_description">Samtals: %1$d</string>
+    <string name="result_description">%1$s, niðurstaða: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d teningur</item>
+        <item quantity="other">%1$d teningar</item>
+    </plurals>
+    <string name="privacy_data_title">Gögnin þín</string>
+    <string name="privacy_data">Stillingarnar eru aðeins vistaðar í þessum síma og þeim er eytt þegar þú fjarlægir forritið. Engu er safnað, það sent eða deilt með þriðja aðila. Köst eru ekki vistuð.</string>
+    <string name="about_legal">Lagalegar upplýsingar</string>
+    <string name="legal_notes">%1$s er sjálfstætt forrit. Það inniheldur engin vörumerki þriðja aðila.</string>
 </resources>

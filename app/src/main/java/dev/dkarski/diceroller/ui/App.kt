@@ -23,23 +23,26 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import dev.dkarski.diceroller.AppConfig
 import dev.dkarski.diceroller.R
+import dev.dkarski.diceroller.data.AppLanguages
 import dev.dkarski.diceroller.ui.components.DottedDivider
 import dev.dkarski.diceroller.ui.components.SecondaryLayout
 
 /** Keep screen on releases the display after this long without a roll or other action. */
 private const val KEEP_AWAKE_MILLIS = 10 * 60 * 1000L
 
-enum class Screen { Home, CustomDie, Settings, About, TipJar }
+enum class Screen { Home, CustomDie, Settings, Language, About, TipJar }
 
 private fun Screen.parent(): Screen? = when (this) {
     Screen.Home -> null
     Screen.CustomDie, Screen.Settings -> Screen.Home
-    Screen.About, Screen.TipJar -> Screen.Settings
+    Screen.Language, Screen.About, Screen.TipJar -> Screen.Settings
 }
 
 /** Navigation and shared preferences. Add domain state/screens here when starting an app. */
 @Composable
 fun App(
+    languageTag: String?,
+    onLanguageChange: (String?) -> Unit,
     keepScreenOn: Boolean,
     onKeepScreenOnChange: (Boolean) -> Unit,
     darkTheme: Boolean,
@@ -121,9 +124,8 @@ fun App(
                     SettingsScreen(
                         vibration = vibration,
                         onVibrationChange = onVibrationChange,
-                        // 1.0 is English-only: the row shows the language without opening a picker.
-                        languageName = stringResource(R.string.language_english),
-                        onLanguage = null,
+                        languageName = AppLanguages.find(languageTag)?.nativeName ?: stringResource(R.string.language_system_default),
+                        onLanguage = { screen = Screen.Language },
                         onAbout = { contactCopied = false; screen = Screen.About },
                         onTipJar = if (supportEnabled) { { screen = Screen.TipJar } } else null,
                         contentPadding = padding,
@@ -148,6 +150,10 @@ fun App(
                         },
                     )
                 }
+                Screen.Language -> LanguageScreen(languageTag, onSelect = { tag ->
+                    screen = Screen.Settings
+                    onLanguageChange(tag)
+                }, onBack = back)
                 Screen.About -> SecondaryLayout(stringResource(R.string.about_title), back) { padding ->
                     AboutScreen(
                         about = about,

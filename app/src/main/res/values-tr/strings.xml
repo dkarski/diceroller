@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s şu açık kaynak bileşenleriyle yapılmıştır:</string>
     <string name="license_text">Lisans metni: %1$s</string>
     <string name="tip_jar_text">%1$s\'i beğendiniz mi? %2$s üzerinden bahşiş bırakmak için kodu başka bir telefonla tarayın. Bahşişler isteğe bağlıdır ve hiçbir şeyin kilidini açmaz.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Atışları topla</string>
+    <string name="roll_die">%1$s at</string>
+    <string name="roll_custom">Özel D%1$d at</string>
+    <string name="edit_custom">Özel aralığı değiştir, şu an D%1$d</string>
+    <string name="custom_label">Özel</string>
+    <string name="coin_label">Yazı tura</string>
+    <string name="flip_coin">Yazı tura at</string>
+    <string name="roll_label">At</string>
+    <string name="coin_heads">Tura</string>
+    <string name="coin_tails">Yazı</string>
+    <string name="reroll_set">Tekrar at</string>
+    <string name="combine_done">Bitti</string>
+    <string name="coin_as_numbers">Yazı tura sayı olarak</string>
+    <string name="keep_screen_on">Ekran hep açık</string>
+    <string name="dark_theme">Koyu tema</string>
+    <string name="custom_dialog_title">Özel zar</string>
+    <string name="custom_sides_label">Yüzler</string>
+    <string name="custom_invalid">2 ile 9999 arasında bir tam sayı girin.</string>
+    <string name="custom_range_hint">1 ile bu sayı arasında atar.</string>
+    <string name="save_custom">Kaydet</string>
+    <string name="total_description">Toplam: %1$d</string>
+    <string name="result_description">%1$s sonucu: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d zar</item>
+        <item quantity="other">%1$d zar</item>
+    </plurals>
+    <string name="privacy_data_title">Verileriniz</string>
+    <string name="privacy_data">Ayarlarınız yalnızca bu telefonda saklanır ve uygulamayı kaldırdığınızda silinir. Hiçbir şey toplanmaz, gönderilmez veya üçüncü taraflarla paylaşılmaz. Atışlar kaydedilmez.</string>
+    <string name="about_legal">Yasal bilgiler</string>
+    <string name="legal_notes">%1$s bağımsız bir uygulamadır. Üçüncü taraf ticari markaları içermez.</string>
 </resources>

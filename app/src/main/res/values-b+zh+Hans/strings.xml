@@ -36,4 +36,34 @@
     <string name="licenses_intro">%1$s 使用了以下开源组件：</string>
     <string name="license_text">许可文本：%1$s</string>
     <string name="tip_jar_text">喜欢 %1$s 吗？用另一部手机扫描二维码，即可在 %2$s 上打赏。打赏完全自愿，不会解锁任何内容。</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">合计点数</string>
+    <string name="roll_die">掷 %1$s</string>
+    <string name="roll_custom">掷自定义 D%1$d</string>
+    <string name="edit_custom">更改自定义范围，当前为 D%1$d</string>
+    <string name="custom_label">自定义</string>
+    <string name="coin_label">硬币</string>
+    <string name="flip_coin">抛硬币</string>
+    <string name="roll_label">掷</string>
+    <string name="coin_heads">正面</string>
+    <string name="coin_tails">反面</string>
+    <string name="reroll_set">重掷</string>
+    <string name="combine_done">完成</string>
+    <string name="coin_as_numbers">硬币显示为数字</string>
+    <string name="keep_screen_on">屏幕常亮</string>
+    <string name="dark_theme">深色主题</string>
+    <string name="custom_dialog_title">自定义骰子</string>
+    <string name="custom_sides_label">面数</string>
+    <string name="custom_invalid">请输入 2 到 9999 之间的整数。</string>
+    <string name="custom_range_hint">掷出 1 到此数字之间的结果。</string>
+    <string name="save_custom">保存</string>
+    <string name="total_description">总计：%1$d</string>
+    <string name="result_description">%1$s 结果：%2$s</string>
+    <plurals name="dice_count">
+        <item quantity="other">%1$d 个骰子</item>
+    </plurals>
+    <string name="privacy_data_title">你的数据</string>
+    <string name="privacy_data">设置仅保存在这部手机上，卸载应用时会一并删除。不会收集、发送或与第三方共享任何内容。掷骰结果不会保存。</string>
+    <string name="about_legal">法律声明</string>
+    <string name="legal_notes">%1$s 是一款独立应用，不包含任何第三方商标。</string>
 </resources>

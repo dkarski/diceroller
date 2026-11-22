@@ -36,4 +36,37 @@
     <string name="licenses_intro">%1$s korzysta z tych elementów open source:</string>
     <string name="license_text">Tekst licencji: %1$s</string>
     <string name="tip_jar_text">Podoba Ci się %1$s? Zeskanuj kod innym telefonem, żeby zostawić napiwek na %2$s. Napiwki są dobrowolne i niczego nie odblokowują.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Sumuj rzuty</string>
+    <string name="roll_die">Rzuć %1$s</string>
+    <string name="roll_custom">Rzuć własną D%1$d</string>
+    <string name="edit_custom">Zmień własny zakres, teraz D%1$d</string>
+    <string name="custom_label">Własna</string>
+    <string name="coin_label">Moneta</string>
+    <string name="flip_coin">Rzuć monetą</string>
+    <string name="roll_label">Rzuć</string>
+    <string name="coin_heads">Orzeł</string>
+    <string name="coin_tails">Reszka</string>
+    <string name="reroll_set">Powtórz</string>
+    <string name="combine_done">Gotowe</string>
+    <string name="coin_as_numbers">Moneta jako liczby</string>
+    <string name="keep_screen_on">Ekran zawsze włączony</string>
+    <string name="dark_theme">Ciemny motyw</string>
+    <string name="custom_dialog_title">Własna kość</string>
+    <string name="custom_sides_label">Ścianki</string>
+    <string name="custom_invalid">Wpisz liczbę całkowitą od 2 do 9999.</string>
+    <string name="custom_range_hint">Rzut od 1 do tej liczby.</string>
+    <string name="save_custom">Zapisz</string>
+    <string name="total_description">Suma: %1$d</string>
+    <string name="result_description">%1$s, wynik: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d kość</item>
+        <item quantity="few">%1$d kości</item>
+        <item quantity="many">%1$d kości</item>
+        <item quantity="other">%1$d kości</item>
+    </plurals>
+    <string name="privacy_data_title">Twoje dane</string>
+    <string name="privacy_data">Ustawienia są zapisane tylko w tym telefonie i znikają po odinstalowaniu aplikacji. Nic nie jest zbierane, wysyłane ani udostępniane innym. Rzuty nie są zapisywane.</string>
+    <string name="about_legal">Informacje prawne</string>
+    <string name="legal_notes">%1$s to niezależna aplikacja. Nie zawiera cudzych znaków towarowych.</string>
 </resources>

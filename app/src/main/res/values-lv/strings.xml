@@ -36,4 +36,36 @@
     <string name="licenses_intro">%1$s ir veidota ar šīm atvērtā koda daļām:</string>
     <string name="license_text">Licences teksts: %1$s</string>
     <string name="tip_jar_text">Patīk %1$s? Noskenējiet kodu ar citu tālruni, lai atstātu dzeramnaudu vietnē %2$s. Dzeramnauda ir brīvprātīga un neko neatbloķē.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Saskaitīt metienus</string>
+    <string name="roll_die">Mest %1$s</string>
+    <string name="roll_custom">Mest savu D%1$d</string>
+    <string name="edit_custom">Mainīt savu diapazonu, tagad D%1$d</string>
+    <string name="custom_label">Savs</string>
+    <string name="coin_label">Monēta</string>
+    <string name="flip_coin">Mest monētu</string>
+    <string name="roll_label">Mest</string>
+    <string name="coin_heads">Ģerbonis</string>
+    <string name="coin_tails">Cipars</string>
+    <string name="reroll_set">No jauna</string>
+    <string name="combine_done">Gatavs</string>
+    <string name="coin_as_numbers">Monēta kā skaitļi</string>
+    <string name="keep_screen_on">Ekrāns vienmēr ieslēgts</string>
+    <string name="dark_theme">Tumšais motīvs</string>
+    <string name="custom_dialog_title">Savs kauliņš</string>
+    <string name="custom_sides_label">Skaldnes</string>
+    <string name="custom_invalid">Ievadiet veselu skaitli no 2 līdz 9999.</string>
+    <string name="custom_range_hint">Met no 1 līdz šim skaitlim.</string>
+    <string name="save_custom">Saglabāt</string>
+    <string name="total_description">Kopā: %1$d</string>
+    <string name="result_description">%1$s, rezultāts: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="zero">%1$d kauliņu</item>
+        <item quantity="one">%1$d kauliņš</item>
+        <item quantity="other">%1$d kauliņi</item>
+    </plurals>
+    <string name="privacy_data_title">Jūsu dati</string>
+    <string name="privacy_data">Iestatījumi tiek saglabāti tikai šajā tālrunī un tiek dzēsti, kad atinstalējat lietotni. Nekas netiek vākts, sūtīts vai kopīgots ar trešajām personām. Metieni netiek saglabāti.</string>
+    <string name="about_legal">Juridiskā informācija</string>
+    <string name="legal_notes">%1$s ir neatkarīga lietotne. Tā nesatur trešo personu preču zīmes.</string>
 </resources>

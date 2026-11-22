@@ -36,4 +36,35 @@
     <string name="licenses_intro">Το %1$s είναι φτιαγμένο με αυτά τα στοιχεία ανοιχτού κώδικα:</string>
     <string name="license_text">Κείμενο άδειας: %1$s</string>
     <string name="tip_jar_text">Σας αρέσει το %1$s; Σαρώστε τον κωδικό με άλλο τηλέφωνο για να αφήσετε φιλοδώρημα στο %2$s. Τα φιλοδωρήματα είναι προαιρετικά και δεν ξεκλειδώνουν τίποτα.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Άθροισμα ρίψεων</string>
+    <string name="roll_die">Ρίξε %1$s</string>
+    <string name="roll_custom">Ρίξε προσαρμοσμένο D%1$d</string>
+    <string name="edit_custom">Αλλαγή προσαρμοσμένου εύρους, τώρα D%1$d</string>
+    <string name="custom_label">Δικό σου</string>
+    <string name="coin_label">Κέρμα</string>
+    <string name="flip_coin">Στρίψε κέρμα</string>
+    <string name="roll_label">Ρίξε</string>
+    <string name="coin_heads">Κορόνα</string>
+    <string name="coin_tails">Γράμματα</string>
+    <string name="reroll_set">Ξανά</string>
+    <string name="combine_done">Τέλος</string>
+    <string name="coin_as_numbers">Κέρμα ως αριθμοί</string>
+    <string name="keep_screen_on">Οθόνη πάντα ανοιχτή</string>
+    <string name="dark_theme">Σκούρο θέμα</string>
+    <string name="custom_dialog_title">Δικό σου ζάρι</string>
+    <string name="custom_sides_label">Πλευρές</string>
+    <string name="custom_invalid">Εισαγάγετε ακέραιο αριθμό από 2 έως 9999.</string>
+    <string name="custom_range_hint">Ρίψη από 1 έως αυτόν τον αριθμό.</string>
+    <string name="save_custom">Αποθήκευση</string>
+    <string name="total_description">Σύνολο: %1$d</string>
+    <string name="result_description">%1$s, αποτέλεσμα: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d ζάρι</item>
+        <item quantity="other">%1$d ζάρια</item>
+    </plurals>
+    <string name="privacy_data_title">Τα δεδομένα σας</string>
+    <string name="privacy_data">Οι ρυθμίσεις αποθηκεύονται μόνο σε αυτό το τηλέφωνο και διαγράφονται όταν απεγκαταστήσετε την εφαρμογή. Τίποτα δεν συλλέγεται, δεν αποστέλλεται και δεν κοινοποιείται σε τρίτους. Οι ρίψεις δεν αποθηκεύονται.</string>
+    <string name="about_legal">Νομικές σημειώσεις</string>
+    <string name="legal_notes">Το %1$s είναι ανεξάρτητη εφαρμογή. Δεν περιέχει εμπορικά σήματα τρίτων.</string>
 </resources>

@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s verwendet diese Open-Source-Bestandteile:</string>
     <string name="license_text">Lizenztext: %1$s</string>
     <string name="tip_jar_text">Gefällt dir %1$s? Scanne den Code mit einem anderen Telefon, um auf %2$s Trinkgeld zu geben. Trinkgeld ist freiwillig und schaltet nichts frei.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Würfe addieren</string>
+    <string name="roll_die">%1$s würfeln</string>
+    <string name="roll_custom">Eigenen D%1$d würfeln</string>
+    <string name="edit_custom">Eigenen Bereich ändern, jetzt D%1$d</string>
+    <string name="custom_label">Eigener</string>
+    <string name="coin_label">Münze</string>
+    <string name="flip_coin">Münze werfen</string>
+    <string name="roll_label">Würfeln</string>
+    <string name="coin_heads">Kopf</string>
+    <string name="coin_tails">Zahl</string>
+    <string name="reroll_set">Neu würfeln</string>
+    <string name="combine_done">Fertig</string>
+    <string name="coin_as_numbers">Münze als Zahlen</string>
+    <string name="keep_screen_on">Bildschirm bleibt an</string>
+    <string name="dark_theme">Dunkles Design</string>
+    <string name="custom_dialog_title">Eigener Würfel</string>
+    <string name="custom_sides_label">Seiten</string>
+    <string name="custom_invalid">Gib eine ganze Zahl von 2 bis 9999 ein.</string>
+    <string name="custom_range_hint">Würfelt von 1 bis zu dieser Zahl.</string>
+    <string name="save_custom">Speichern</string>
+    <string name="total_description">Summe: %1$d</string>
+    <string name="result_description">%1$s, Ergebnis: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d Würfel</item>
+        <item quantity="other">%1$d Würfel</item>
+    </plurals>
+    <string name="privacy_data_title">Deine Daten</string>
+    <string name="privacy_data">Die Einstellungen werden nur auf diesem Telefon gespeichert und beim Deinstallieren der App gelöscht. Nichts wird erfasst, gesendet oder an Dritte weitergegeben. Würfe werden nicht gespeichert.</string>
+    <string name="about_legal">Rechtliche Hinweise</string>
+    <string name="legal_notes">%1$s ist eine unabhängige App. Sie enthält keine Marken Dritter.</string>
 </resources>

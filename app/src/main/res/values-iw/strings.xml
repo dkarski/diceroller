@@ -36,4 +36,36 @@
     <string name="licenses_intro">%1$s בנויה עם רכיבי הקוד הפתוח האלה:</string>
     <string name="license_text">נוסח הרישיון: %1$s</string>
     <string name="tip_jar_text">נהנים מ-%1$s? סרקו את הקוד בטלפון אחר כדי להשאיר טיפ ב-%2$s. טיפים הם וולונטריים ואינם פותחים דבר.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">חיבור הטלות</string>
+    <string name="roll_die">הטלת %1$s</string>
+    <string name="roll_custom">הטלת D%1$d מותאם</string>
+    <string name="edit_custom">שינוי הטווח המותאם, כעת D%1$d</string>
+    <string name="custom_label">מותאם</string>
+    <string name="coin_label">מטבע</string>
+    <string name="flip_coin">הטלת מטבע</string>
+    <string name="roll_label">הטלה</string>
+    <string name="coin_heads">עץ</string>
+    <string name="coin_tails">פלי</string>
+    <string name="reroll_set">שוב</string>
+    <string name="combine_done">סיום</string>
+    <string name="coin_as_numbers">מטבע כמספרים</string>
+    <string name="keep_screen_on">המסך תמיד דולק</string>
+    <string name="dark_theme">ערכת נושא כהה</string>
+    <string name="custom_dialog_title">קובייה מותאמת</string>
+    <string name="custom_sides_label">פאות</string>
+    <string name="custom_invalid">יש להזין מספר שלם מ־2 עד 9999.</string>
+    <string name="custom_range_hint">מטיל מ־1 עד המספר הזה.</string>
+    <string name="save_custom">שמירה</string>
+    <string name="total_description">סה״כ: %1$d</string>
+    <string name="result_description">%1$s, תוצאה: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">קובייה אחת</item>
+        <item quantity="two">%1$d קוביות</item>
+        <item quantity="other">%1$d קוביות</item>
+    </plurals>
+    <string name="privacy_data_title">הנתונים שלך</string>
+    <string name="privacy_data">ההגדרות נשמרות רק בטלפון הזה ונמחקות כשמסירים את האפליקציה. שום דבר לא נאסף, נשלח או משותף עם צדדים שלישיים. ההטלות לא נשמרות.</string>
+    <string name="about_legal">הערות משפטיות</string>
+    <string name="legal_notes">%1$s היא אפליקציה עצמאית. היא אינה מכילה סימני מסחר של צדדים שלישיים.</string>
 </resources>

@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s on loodud nende avatud lähtekoodiga osadega:</string>
     <string name="license_text">Litsentsi tekst: %1$s</string>
     <string name="tip_jar_text">Meeldib %1$s? Skanni kood teise telefoniga, et jätta %2$ss jootraha. Jootraha on vabatahtlik ega ava midagi.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Liida viskeid</string>
+    <string name="roll_die">Viska %1$s</string>
+    <string name="roll_custom">Viska oma D%1$d</string>
+    <string name="edit_custom">Muuda oma vahemikku, praegu D%1$d</string>
+    <string name="custom_label">Oma</string>
+    <string name="coin_label">Münt</string>
+    <string name="flip_coin">Viska münti</string>
+    <string name="roll_label">Viska</string>
+    <string name="coin_heads">Kull</string>
+    <string name="coin_tails">Kiri</string>
+    <string name="reroll_set">Uuesti</string>
+    <string name="combine_done">Valmis</string>
+    <string name="coin_as_numbers">Münt numbritena</string>
+    <string name="keep_screen_on">Ekraan alati sees</string>
+    <string name="dark_theme">Tume teema</string>
+    <string name="custom_dialog_title">Oma täring</string>
+    <string name="custom_sides_label">Tahud</string>
+    <string name="custom_invalid">Sisesta täisarv vahemikus 2 kuni 9999.</string>
+    <string name="custom_range_hint">Viskab 1 kuni selle arvuni.</string>
+    <string name="save_custom">Salvesta</string>
+    <string name="total_description">Kokku: %1$d</string>
+    <string name="result_description">%1$s, tulemus: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d täring</item>
+        <item quantity="other">%1$d täringut</item>
+    </plurals>
+    <string name="privacy_data_title">Sinu andmed</string>
+    <string name="privacy_data">Seaded salvestatakse ainult selles telefonis ning kustutatakse rakenduse eemaldamisel. Midagi ei koguta, saadeta ega jagata kolmandate osapooltega. Viskeid ei salvestata.</string>
+    <string name="about_legal">Õiguslik teave</string>
+    <string name="legal_notes">%1$s on sõltumatu rakendus. See ei sisalda kolmandate osapoolte kaubamärke.</string>
 </resources>

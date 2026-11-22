@@ -35,6 +35,14 @@ class MainActivity : ComponentActivity() {
             var darkTheme by remember { mutableStateOf(settingsStore.darkTheme) }
             AppTheme(dark = darkTheme) {
                 App(
+                    languageTag = settingsStore.languageTag,
+                    onLanguageChange = { tag ->
+                        if (tag != settingsStore.languageTag) {
+                            settingsStore.languageTag = tag
+                            // Rebuild resources while rememberSaveable restores navigation.
+                            recreate()
+                        }
+                    },
                     keepScreenOn = keepScreenOn,
                     onKeepScreenOnChange = { on ->
                         keepScreenOn = on

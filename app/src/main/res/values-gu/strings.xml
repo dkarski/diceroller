@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s આ ઓપન સોર્સ ભાગોથી બનેલી છે:</string>
     <string name="license_text">લાઇસન્સનો ટેક્સ્ટ: %1$s</string>
     <string name="tip_jar_text">%1$s ગમી? %2$s પર ટિપ આપવા માટે બીજા ફોનથી કોડ સ્કૅન કરો. ટિપ સ્વૈચ્છિક છે અને કંઈ અનલૉક કરતી નથી.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">ફેંકોનો સરવાળો</string>
+    <string name="roll_die">%1$s ફેંકો</string>
+    <string name="roll_custom">પોતાનો D%1$d ફેંકો</string>
+    <string name="edit_custom">પોતાની રેન્જ બદલો, હવે D%1$d</string>
+    <string name="custom_label">પોતાનો</string>
+    <string name="coin_label">સિક્કો</string>
+    <string name="flip_coin">સિક્કો ઉછાળો</string>
+    <string name="roll_label">ફેંકો</string>
+    <string name="coin_heads">છાપ</string>
+    <string name="coin_tails">કાંટો</string>
+    <string name="reroll_set">ફરી</string>
+    <string name="combine_done">થઈ ગયું</string>
+    <string name="coin_as_numbers">સિક્કો અંકોમાં</string>
+    <string name="keep_screen_on">સ્ક્રીન હંમેશાં ચાલુ</string>
+    <string name="dark_theme">ડાર્ક થીમ</string>
+    <string name="custom_dialog_title">પોતાનો પાસો</string>
+    <string name="custom_sides_label">બાજુઓ</string>
+    <string name="custom_invalid">2 થી 9999 વચ્ચેની પૂર્ણ સંખ્યા દાખલ કરો.</string>
+    <string name="custom_range_hint">1 થી આ સંખ્યા સુધી ફેંકે છે.</string>
+    <string name="save_custom">સાચવો</string>
+    <string name="total_description">કુલ: %1$d</string>
+    <string name="result_description">%1$s પરિણામ: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d પાસો</item>
+        <item quantity="other">%1$d પાસા</item>
+    </plurals>
+    <string name="privacy_data_title">તમારો ડેટા</string>
+    <string name="privacy_data">સેટિંગ્સ ફક્ત આ જ ફોનમાં સચવાય છે અને ઍપ દૂર કરતાં ભૂંસાઈ જાય છે. કંઈ પણ એકત્ર, મોકલવામાં કે બીજા સાથે શેર કરવામાં આવતું નથી. ફેંકો સાચવવામાં આવતા નથી.</string>
+    <string name="about_legal">કાનૂની માહિતી</string>
+    <string name="legal_notes">%1$s એક સ્વતંત્ર ઍપ છે. તેમાં ત્રીજા પક્ષના ટ્રેડમાર્ક નથી.</string>
 </resources>

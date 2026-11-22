@@ -36,4 +36,37 @@
     <string name="licenses_intro">%1$s створено з використанням цих компонентів відкритого коду:</string>
     <string name="license_text">Текст ліцензії: %1$s</string>
     <string name="tip_jar_text">Подобається %1$s? Відскануйте код іншим телефоном, щоб залишити чайові на %2$s. Чайові добровільні й нічого не відкривають.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Сумувати кидки</string>
+    <string name="roll_die">Кинути %1$s</string>
+    <string name="roll_custom">Кинути свій D%1$d</string>
+    <string name="edit_custom">Змінити свій діапазон, зараз D%1$d</string>
+    <string name="custom_label">Свій</string>
+    <string name="coin_label">Монета</string>
+    <string name="flip_coin">Підкинути монету</string>
+    <string name="roll_label">Кинути</string>
+    <string name="coin_heads">Герб</string>
+    <string name="coin_tails">Решка</string>
+    <string name="reroll_set">Ще раз</string>
+    <string name="combine_done">Готово</string>
+    <string name="coin_as_numbers">Монета як числа</string>
+    <string name="keep_screen_on">Екран завжди увімкнений</string>
+    <string name="dark_theme">Темна тема</string>
+    <string name="custom_dialog_title">Свій кубик</string>
+    <string name="custom_sides_label">Грані</string>
+    <string name="custom_invalid">Введіть ціле число від 2 до 9999.</string>
+    <string name="custom_range_hint">Кидок від 1 до цього числа.</string>
+    <string name="save_custom">Зберегти</string>
+    <string name="total_description">Сума: %1$d</string>
+    <string name="result_description">%1$s, результат: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d кубик</item>
+        <item quantity="few">%1$d кубики</item>
+        <item quantity="many">%1$d кубиків</item>
+        <item quantity="other">%1$d кубика</item>
+    </plurals>
+    <string name="privacy_data_title">Ваші дані</string>
+    <string name="privacy_data">Налаштування зберігаються лише на цьому телефоні та видаляються разом із застосунком. Нічого не збирається, не надсилається і не передається третім особам. Кидки не зберігаються.</string>
+    <string name="about_legal">Правова інформація</string>
+    <string name="legal_notes">%1$s — незалежний застосунок. Він не містить торговельних марок третіх осіб.</string>
 </resources>

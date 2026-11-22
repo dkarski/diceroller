@@ -36,4 +36,37 @@
     <string name="licenses_intro">%1$s створана з выкарыстаннем гэтых кампанентаў адкрытага кода:</string>
     <string name="license_text">Тэкст ліцэнзіі: %1$s</string>
     <string name="tip_jar_text">Падабаецца %1$s? Адскануйце код іншым тэлефонам, каб пакінуць чаявыя на %2$s. Чаявыя добраахвотныя і нічога не адкрываюць.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Сумаваць кідкі</string>
+    <string name="roll_die">Кінуць %1$s</string>
+    <string name="roll_custom">Кінуць свой D%1$d</string>
+    <string name="edit_custom">Змяніць свой дыяпазон, цяпер D%1$d</string>
+    <string name="custom_label">Свой</string>
+    <string name="coin_label">Манета</string>
+    <string name="flip_coin">Падкінуць манету</string>
+    <string name="roll_label">Кінуць</string>
+    <string name="coin_heads">Арол</string>
+    <string name="coin_tails">Рэшка</string>
+    <string name="reroll_set">Яшчэ раз</string>
+    <string name="combine_done">Гатова</string>
+    <string name="coin_as_numbers">Манета як лічбы</string>
+    <string name="keep_screen_on">Экран заўсёды ўключаны</string>
+    <string name="dark_theme">Цёмная тэма</string>
+    <string name="custom_dialog_title">Свой кубік</string>
+    <string name="custom_sides_label">Грані</string>
+    <string name="custom_invalid">Увядзіце цэлы лік ад 2 да 9999.</string>
+    <string name="custom_range_hint">Кідок ад 1 да гэтага ліку.</string>
+    <string name="save_custom">Захаваць</string>
+    <string name="total_description">Сума: %1$d</string>
+    <string name="result_description">%1$s, вынік: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d кубік</item>
+        <item quantity="few">%1$d кубікі</item>
+        <item quantity="many">%1$d кубікаў</item>
+        <item quantity="other">%1$d кубіка</item>
+    </plurals>
+    <string name="privacy_data_title">Вашы даныя</string>
+    <string name="privacy_data">Налады захоўваюцца толькі на гэтым тэлефоне і выдаляюцца разам з праграмай. Нічога не збіраецца, не адпраўляецца і не перадаецца трэцім асобам. Кідкі не захоўваюцца.</string>
+    <string name="about_legal">Прававая інфармацыя</string>
+    <string name="legal_notes">%1$s — незалежная праграма. Яна не змяшчае гандлёвых марак трэціх асоб.</string>
 </resources>

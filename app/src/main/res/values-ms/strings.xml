@@ -36,4 +36,34 @@
     <string name="licenses_intro">%1$s dibina dengan komponen sumber terbuka ini:</string>
     <string name="license_text">Teks lesen: %1$s</string>
     <string name="tip_jar_text">Suka %1$s? Imbas kod dengan telefon lain untuk memberi tip di %2$s. Tip adalah sukarela dan tidak membuka apa-apa.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Jumlahkan balingan</string>
+    <string name="roll_die">Baling %1$s</string>
+    <string name="roll_custom">Baling D%1$d tersuai</string>
+    <string name="edit_custom">Tukar julat tersuai, kini D%1$d</string>
+    <string name="custom_label">Tersuai</string>
+    <string name="coin_label">Syiling</string>
+    <string name="flip_coin">Lambung syiling</string>
+    <string name="roll_label">Baling</string>
+    <string name="coin_heads">Kepala</string>
+    <string name="coin_tails">Bunga</string>
+    <string name="reroll_set">Ulang</string>
+    <string name="combine_done">Selesai</string>
+    <string name="coin_as_numbers">Syiling sebagai nombor</string>
+    <string name="keep_screen_on">Skrin sentiasa hidup</string>
+    <string name="dark_theme">Tema gelap</string>
+    <string name="custom_dialog_title">Dadu tersuai</string>
+    <string name="custom_sides_label">Sisi</string>
+    <string name="custom_invalid">Masukkan nombor bulat dari 2 hingga 9999.</string>
+    <string name="custom_range_hint">Membaling dari 1 hingga nombor ini.</string>
+    <string name="save_custom">Simpan</string>
+    <string name="total_description">Jumlah: %1$d</string>
+    <string name="result_description">Keputusan %1$s: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="other">%1$d dadu</item>
+    </plurals>
+    <string name="privacy_data_title">Data anda</string>
+    <string name="privacy_data">Tetapan disimpan hanya pada telefon ini dan dipadam apabila anda menyahpasang aplikasi. Tiada apa-apa yang dikumpul, dihantar atau dikongsi dengan pihak ketiga. Balingan tidak disimpan.</string>
+    <string name="about_legal">Nota undang-undang</string>
+    <string name="legal_notes">%1$s ialah aplikasi bebas. Ia tidak mengandungi tanda dagangan pihak ketiga.</string>
 </resources>

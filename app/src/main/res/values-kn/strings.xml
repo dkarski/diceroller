@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s ಈ ಓಪನ್ ಸೋರ್ಸ್ ಭಾಗಗಳಿಂದ ನಿರ್ಮಿತವಾಗಿದೆ:</string>
     <string name="license_text">ಪರವಾನಗಿ ಪಠ್ಯ: %1$s</string>
     <string name="tip_jar_text">%1$s ಇಷ್ಟವಾಯಿತೇ? %2$s ನಲ್ಲಿ ಟಿಪ್ ನೀಡಲು ಬೇರೆ ಫೋನ್‌ನಿಂದ ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ. ಟಿಪ್ ಸ್ವಯಂಪ್ರೇರಿತ ಮತ್ತು ಏನನ್ನೂ ಅನ್‌ಲಾಕ್ ಮಾಡುವುದಿಲ್ಲ.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">ಎಸೆತಗಳನ್ನು ಕೂಡಿಸಿ</string>
+    <string name="roll_die">%1$s ಎಸೆಯಿರಿ</string>
+    <string name="roll_custom">ಸ್ವಂತ D%1$d ಎಸೆಯಿರಿ</string>
+    <string name="edit_custom">ಸ್ವಂತ ವ್ಯಾಪ್ತಿ ಬದಲಿಸಿ, ಈಗ D%1$d</string>
+    <string name="custom_label">ಸ್ವಂತ</string>
+    <string name="coin_label">ನಾಣ್ಯ</string>
+    <string name="flip_coin">ನಾಣ್ಯ ಚಿಮ್ಮಿಸಿ</string>
+    <string name="roll_label">ಎಸೆ</string>
+    <string name="coin_heads">ತಲೆ</string>
+    <string name="coin_tails">ಪುಚ್ಚ</string>
+    <string name="reroll_set">ಮತ್ತೆ</string>
+    <string name="combine_done">ಆಯಿತು</string>
+    <string name="coin_as_numbers">ನಾಣ್ಯ ಸಂಖ್ಯೆಗಳಾಗಿ</string>
+    <string name="keep_screen_on">ಪರದೆ ಯಾವಾಗಲೂ ಆನ್</string>
+    <string name="dark_theme">ಡಾರ್ಕ್ ಥೀಮ್</string>
+    <string name="custom_dialog_title">ಸ್ವಂತ ದಾಳ</string>
+    <string name="custom_sides_label">ಮುಖಗಳು</string>
+    <string name="custom_invalid">2 ರಿಂದ 9999 ರವರೆಗಿನ ಪೂರ್ಣ ಸಂಖ್ಯೆ ನಮೂದಿಸಿ.</string>
+    <string name="custom_range_hint">1 ರಿಂದ ಈ ಸಂಖ್ಯೆಯವರೆಗೆ ಎಸೆಯುತ್ತದೆ.</string>
+    <string name="save_custom">ಉಳಿಸಿ</string>
+    <string name="total_description">ಒಟ್ಟು: %1$d</string>
+    <string name="result_description">%1$s ಫಲಿತಾಂಶ: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d ದಾಳ</item>
+        <item quantity="other">%1$d ದಾಳಗಳು</item>
+    </plurals>
+    <string name="privacy_data_title">ನಿಮ್ಮ ಡೇಟಾ</string>
+    <string name="privacy_data">ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಈ ಫೋನ್‌ನಲ್ಲಿ ಮಾತ್ರ ಉಳಿಯುತ್ತವೆ ಮತ್ತು ಆ್ಯಪ್ ತೆಗೆದಾಗ ಅಳಿಸಲ್ಪಡುತ್ತವೆ. ಯಾವುದನ್ನೂ ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ, ಕಳುಹಿಸುವುದಿಲ್ಲ ಅಥವಾ ಬೇರೆಯವರೊಂದಿಗೆ ಹಂಚುವುದಿಲ್ಲ. ಎಸೆತಗಳನ್ನು ಉಳಿಸಲಾಗುವುದಿಲ್ಲ.</string>
+    <string name="about_legal">ಕಾನೂನು ಮಾಹಿತಿ</string>
+    <string name="legal_notes">%1$s ಒಂದು ಸ್ವತಂತ್ರ ಆ್ಯಪ್. ಇದು ಮೂರನೇ ಪಕ್ಷದ ಟ್ರೇಡ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಹೊಂದಿಲ್ಲ.</string>
 </resources>

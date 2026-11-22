@@ -36,4 +36,36 @@
     <string name="licenses_intro">%1$s est conçu avec ces composants open source :</string>
     <string name="license_text">Texte de la licence : %1$s</string>
     <string name="tip_jar_text">Vous aimez %1$s ? Scannez le code avec un autre téléphone pour laisser un pourboire sur %2$s. Les pourboires sont facultatifs et ne débloquent rien.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Additionner les lancers</string>
+    <string name="roll_die">Lancer %1$s</string>
+    <string name="roll_custom">Lancer le dé perso D%1$d</string>
+    <string name="edit_custom">Modifier la plage perso, actuellement D%1$d</string>
+    <string name="custom_label">Perso</string>
+    <string name="coin_label">Pièce</string>
+    <string name="flip_coin">Lancer la pièce</string>
+    <string name="roll_label">Lancer</string>
+    <string name="coin_heads">Face</string>
+    <string name="coin_tails">Pile</string>
+    <string name="reroll_set">Relancer</string>
+    <string name="combine_done">Terminé</string>
+    <string name="coin_as_numbers">Pièce en chiffres</string>
+    <string name="keep_screen_on">Écran toujours allumé</string>
+    <string name="dark_theme">Thème sombre</string>
+    <string name="custom_dialog_title">Dé personnalisé</string>
+    <string name="custom_sides_label">Faces</string>
+    <string name="custom_invalid">Saisissez un nombre entier de 2 à 9999.</string>
+    <string name="custom_range_hint">Lance de 1 à ce nombre.</string>
+    <string name="save_custom">Enregistrer</string>
+    <string name="total_description">Total : %1$d</string>
+    <string name="result_description">%1$s, résultat : %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d dé</item>
+        <item quantity="many">%1$d dés</item>
+        <item quantity="other">%1$d dés</item>
+    </plurals>
+    <string name="privacy_data_title">Vos données</string>
+    <string name="privacy_data">Les réglages sont enregistrés uniquement sur ce téléphone et supprimés lorsque vous désinstallez l\'app. Rien n\'est collecté, envoyé ni partagé avec des tiers. Les lancers ne sont pas enregistrés.</string>
+    <string name="about_legal">Mentions légales</string>
+    <string name="legal_notes">%1$s est une app indépendante. Elle ne contient aucune marque de tiers.</string>
 </resources>

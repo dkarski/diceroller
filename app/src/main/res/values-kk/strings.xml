@@ -36,4 +36,35 @@
     <string name="licenses_intro">%1$s мына ашық бастапқы код бөліктерімен жасалған:</string>
     <string name="license_text">Лицензия мәтіні: %1$s</string>
     <string name="tip_jar_text">%1$s ұнай ма? %2$s-да шайпұл қалдыру үшін кодты басқа телефонмен сканерлеңіз. Шайпұл ерікті және ештеңені ашпайды.</string>
+    <!-- DiceRoller -->
+    <string name="combine_rolls">Лақтыруларды қосу</string>
+    <string name="roll_die">%1$s лақтыру</string>
+    <string name="roll_custom">Өз D%1$d лақтыру</string>
+    <string name="edit_custom">Өз ауқымын өзгерту, қазір D%1$d</string>
+    <string name="custom_label">Өзім</string>
+    <string name="coin_label">Тиын</string>
+    <string name="flip_coin">Тиын лақтыру</string>
+    <string name="roll_label">Лақтыру</string>
+    <string name="coin_heads">Елтаңба</string>
+    <string name="coin_tails">Сан</string>
+    <string name="reroll_set">Қайта</string>
+    <string name="combine_done">Дайын</string>
+    <string name="coin_as_numbers">Тиын сан ретінде</string>
+    <string name="keep_screen_on">Экран әрдайым қосулы</string>
+    <string name="dark_theme">Қараңғы тақырып</string>
+    <string name="custom_dialog_title">Өз сүйегі</string>
+    <string name="custom_sides_label">Жақтар</string>
+    <string name="custom_invalid">2-ден 9999-ға дейінгі бүтін санды енгізіңіз.</string>
+    <string name="custom_range_hint">1-ден осы санға дейін лақтырады.</string>
+    <string name="save_custom">Сақтау</string>
+    <string name="total_description">Барлығы: %1$d</string>
+    <string name="result_description">%1$s, нәтиже: %2$s</string>
+    <plurals name="dice_count">
+        <item quantity="one">%1$d сүйек</item>
+        <item quantity="other">%1$d сүйек</item>
+    </plurals>
+    <string name="privacy_data_title">Деректеріңіз</string>
+    <string name="privacy_data">Параметрлер тек осы телефонда сақталады және қолданбаны жойғанда өшіріледі. Ешнәрсе жиналмайды, жіберілмейді және үшінші тұлғаларға берілмейді. Лақтырулар сақталмайды.</string>
+    <string name="about_legal">Құқықтық ақпарат</string>
+    <string name="legal_notes">%1$s — тәуелсіз қолданба. Ол үшінші тараптың сауда белгілерін қамтымайды.</string>
 </resources>
